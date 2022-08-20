@@ -8,10 +8,10 @@ interface IProps {
 }
 
 const notAcquiredStyle = {
-  filter: "brightness(0)",
+  filter: "brightness(0.1)",
 };
 
-export const FishButton = ({
+export const CollectionButton = ({
   fish,
   acquired,
   onClick,
