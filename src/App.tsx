@@ -13,7 +13,6 @@ import MenuIcon from "@mui/icons-material/Menu";
 import { Location, Season } from "./enums";
 import { CollectionModal } from "./CollectionModal";
 import { Fish, Fishes } from "./Fish";
-import { FishCard } from "./FishCard";
 import { Division } from "./Division";
 
 const initialCollection = (): Record<string, boolean> => {
