@@ -14,6 +14,7 @@ import { Location, Season } from "./enums";
 import { CollectionModal } from "./CollectionModal";
 import { Fish, Fishes } from "./Fish";
 import { FishCard } from "./FishCard";
+import { Division } from "./Division";
 
 const initialCollection = (): Record<string, boolean> => {
   const collection: Record<string, boolean> = {};
@@ -36,16 +37,16 @@ const splitArray = <T,>(array: T[], split: (t: T) => boolean): [T[], T[]] => {
   return [good, bad];
 };
 
-function App() {
+const App = (): React.ReactElement => {
   const [collection, setCollection] = useState<Record<string, boolean>>(
     initialCollection()
   );
   const [season, setSeason] = useState<Season>(Season.SPRING);
   const [open, setOpen] = useState(false);
 
-  const onCaught = (fishName: string) => {
+  const onCaught = (fish: Fish) => {
     setCollection((old: Record<string, boolean>): Record<string, boolean> => {
-      return { ...old, [fishName]: !old[fishName] };
+      return { ...old, [fish.Name]: !old[fish.Name] };
     });
   };
   // Find all missing fish first
@@ -83,15 +84,6 @@ function App() {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar>
-          <IconButton
-            size="large"
-            edge="start"
-            color="inherit"
-            aria-label="menu"
-            sx={{ mr: 2 }}
-          >
-            <MenuIcon />
-          </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Stardew fishing list
           </Typography>
@@ -117,61 +109,41 @@ function App() {
           setCollection={setCollection}
         />
         <header className="App-header">
-          <Typography variant="h3">{season} only</Typography>
-          <div style={{ display: "flex", flexWrap: "wrap" }}>
-            {oneSeason.map((n) => (
-              <FishCard
-                key={n.Name}
-                fish={n}
-                onCaught={() => onCaught(n.Name)}
-              />
-            ))}
-          </div>
-          <Typography variant="h3">Multi seasons</Typography>
-          <div style={{ display: "flex", flexWrap: "wrap" }}>
-            {others.map((n) => (
-              <FishCard
-                key={n.Name}
-                fish={n}
-                onCaught={() => onCaught(n.Name)}
-              />
-            ))}
-          </div>
-          <Typography variant="h3">All seasons</Typography>
-          <div style={{ display: "flex", flexWrap: "wrap" }}>
-            {allSeasons.map((n) => (
-              <FishCard
-                key={n.Name}
-                fish={n}
-                onCaught={() => onCaught(n.Name)}
-              />
-            ))}
-          </div>
-
-          <Typography variant="h3">Crab Pot</Typography>
-          <div style={{ display: "flex", flexWrap: "wrap" }}>
-            {crabPot.map((n) => (
-              <FishCard
-                key={n.Name}
-                fish={n}
-                onCaught={() => onCaught(n.Name)}
-              />
-            ))}
-          </div>
-          <Typography variant="h3">Ginger Island</Typography>
-          <div style={{ display: "flex", flexWrap: "wrap" }}>
-            {gingerIsland.map((n) => (
-              <FishCard
-                key={n.Name}
-                fish={n}
-                onCaught={() => onCaught(n.Name)}
-              />
-            ))}
-          </div>
+          {oneSeason.length > 0 && (
+            <Division
+              title={`${season} only`}
+              fishes={oneSeason}
+              onCaught={onCaught}
+            />
+          )}
+          {others.length > 0 && (
+            <Division
+              title={`Multi seasons`}
+              fishes={others}
+              onCaught={onCaught}
+            />
+          )}
+          {allSeasons.length > 0 && (
+            <Division
+              title={`All seasons`}
+              fishes={allSeasons}
+              onCaught={onCaught}
+            />
+          )}
+          {crabPot.length > 0 && (
+            <Division title={`Crab Pot`} fishes={crabPot} onCaught={onCaught} />
+          )}
+          {gingerIsland.length > 0 && (
+            <Division
+              title={`Ginger Island`}
+              fishes={gingerIsland}
+              onCaught={onCaught}
+            />
+          )}
         </header>
       </div>
     </Box>
   );
-}
+};
 
 export default App;
