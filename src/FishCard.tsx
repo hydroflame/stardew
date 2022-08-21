@@ -21,7 +21,6 @@ export const FishCard = ({ fish, onCaught }: IProps): React.ReactElement => {
       ></CardHeader>
       <CardContent>
         <Typography>
-          {" "}
           Locations: {fish.Locations.map((s) => String(s)).join(" - ")}
         </Typography>
         <Typography>

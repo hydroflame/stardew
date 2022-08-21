@@ -8,7 +8,7 @@ interface IProps {
 }
 
 const notAcquiredStyle = {
-  filter: "brightness(0.1)",
+  filter: "opacity(0.25)",
 };
 
 export const CollectionButton = ({
@@ -19,6 +19,7 @@ export const CollectionButton = ({
   return (
     <div>
       <img
+        draggable={false}
         style={!acquired ? notAcquiredStyle : undefined}
         onClick={onClick}
         src={fish.Image}

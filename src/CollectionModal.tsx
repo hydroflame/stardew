@@ -3,7 +3,7 @@ import Box from "@mui/material/Box";
 import Modal from "@mui/material/Modal";
 import logo from "./img/background.png";
 import { CollectionButton } from "./CollectionButton";
-import { Fishes } from "./Fish";
+import { Fish, Fishes } from "./Fish";
 
 interface IProps {
   open: boolean;
@@ -32,6 +32,11 @@ export const CollectionModal = ({
       return { ...old, [fishName]: !old[fishName] };
     });
   };
+  const lines: Fish[][] = [];
+  const chunkSize = 10;
+  for (let i = 0; i < Fishes.length; i += chunkSize) {
+    lines.push(Fishes.slice(i, i + chunkSize));
+  }
   return (
     <Modal
       open={open}
@@ -48,14 +53,18 @@ export const CollectionModal = ({
             backgroundSize: "515px 387px",
           }}
         >
-          <div style={{ padding: "15px", display: "flex" }}>
-            {Fishes.map((f) => (
-              <CollectionButton
-                key={f.Name}
-                fish={f}
-                acquired={collection[f.Name]}
-                onClick={() => onFishClick(f.Name)}
-              />
+          <div style={{ padding: "15px" }}>
+            {lines.map((line, i) => (
+              <div key={i} style={{ display: "flex" }}>
+                {line.map((f) => (
+                  <CollectionButton
+                    key={f.Name}
+                    fish={f}
+                    acquired={collection[f.Name]}
+                    onClick={() => onFishClick(f.Name)}
+                  />
+                ))}
+              </div>
             ))}
           </div>
         </div>
