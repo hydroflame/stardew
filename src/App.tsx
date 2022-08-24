@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
+
 import Button from "@mui/material/Button";
 import { Select } from "@mui/material";
 import { MenuItem } from "@mui/material";
@@ -8,10 +8,9 @@ import { Box } from "@mui/material";
 import { AppBar } from "@mui/material";
 import { Toolbar } from "@mui/material";
 
-import { Location, Season } from "./enums";
+import { Season } from "./enums";
 import { FishCollectionModal } from "./FishCollectionModal";
-import { Fish, Fishes } from "./Fish";
-import { Division } from "./Division";
+
 import { CookingCollectionModal } from "./CookingCollectionModal";
 import { Collections } from "./Collections";
 import { Load, Save } from "./Save";
@@ -51,7 +50,7 @@ const App = (): React.ReactElement => {
           </Select>
         </Toolbar>
       </AppBar>
-      <div className="App">
+      <div>
         <FishCollectionModal
           open={fishOpen}
           onClose={() => setFishOpen(false)}
