@@ -1,4 +1,6 @@
+import { Tooltip, Typography } from "@mui/material";
 import React from "react";
+import { StardewBox } from "./Box";
 import { Recipe } from "./Recipe";
 import { CookingState } from "./RecipeState";
 
@@ -27,13 +29,18 @@ export const CookingCollectionButton = ({
 }: IProps): React.ReactElement => {
   return (
     <div>
-      <img
-        draggable={false}
-        style={styles[state]}
-        onClick={onClick}
-        src={recipe.Image}
-        alt={recipe.Name}
-      />
+      <Tooltip
+        components={{ Tooltip: StardewBox }}
+        title={<Typography color="secondary">{recipe.Name}</Typography>}
+      >
+        <img
+          draggable={false}
+          style={styles[state]}
+          onClick={onClick}
+          src={recipe.Image}
+          alt={recipe.Name}
+        />
+      </Tooltip>
     </div>
   );
 };
