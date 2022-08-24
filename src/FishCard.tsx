@@ -6,6 +6,7 @@ import CardContent from "@mui/material/CardContent";
 import CardHeader from "@mui/material/CardHeader";
 import CardActions from "@mui/material/CardActions";
 import Button from "@mui/material/Button";
+import { StardewBox } from "./Box";
 
 interface IProps {
   fish: Fish;
@@ -14,7 +15,7 @@ interface IProps {
 
 export const FishCard = ({ fish, onCaught }: IProps): React.ReactElement => {
   return (
-    <Card sx={{ minWidth: 275, margin: "1em" }}>
+    <Card component={StardewBox} sx={{ minWidth: 275, margin: "1em" }}>
       <CardHeader
         title={<Typography>{fish.Name}</Typography>}
         action={<img src={fish.Image} alt={fish.Name} />}

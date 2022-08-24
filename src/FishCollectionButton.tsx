@@ -1,5 +1,7 @@
+import { Tooltip, Typography } from "@mui/material";
 import React from "react";
 import { Fish } from "./Fish";
+import { StardewBox } from "./Box";
 
 interface IProps {
   fish: Fish;
@@ -18,13 +20,18 @@ export const FishCollectionButton = ({
 }: IProps): React.ReactElement => {
   return (
     <div>
-      <img
-        draggable={false}
-        style={!acquired ? notAcquiredStyle : undefined}
-        onClick={onClick}
-        src={fish.Image}
-        alt={fish.Name}
-      />
+      <Tooltip
+        components={{ Tooltip: StardewBox }}
+        title={<Typography color="secondary">{fish.Name}</Typography>}
+      >
+        <img
+          draggable={false}
+          style={!acquired ? notAcquiredStyle : undefined}
+          onClick={onClick}
+          src={fish.Image}
+          alt={fish.Name}
+        />
+      </Tooltip>
     </div>
   );
 };

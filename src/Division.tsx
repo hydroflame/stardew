@@ -17,6 +17,7 @@ export const Division = ({
   return (
     <>
       <Typography variant="h3">{title}</Typography>
+
       <div style={{ display: "flex", flexWrap: "wrap" }}>
         {fishes.map((fish) => (
           <FishCard

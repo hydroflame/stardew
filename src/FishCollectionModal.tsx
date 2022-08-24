@@ -2,32 +2,31 @@ import React from "react";
 import { FishCollectionButton } from "./FishCollectionButton";
 import { Fish, Fishes } from "./Fish";
 import { CollectionModal } from "./CollectionModal";
+import { Collections } from "./Collections";
+import { splitChunk } from "./utils";
 
 interface IProps {
   open: boolean;
   onClose: () => void;
-  collection: Record<string, boolean>;
-  setCollection: (
-    o: (old: Record<string, boolean>) => Record<string, boolean>
-  ) => void;
+  collections: Collections;
+  setCollection: (o: (old: Collections) => Collections) => void;
 }
 
 export const FishCollectionModal = ({
   open,
   onClose,
-  collection,
+  collections,
   setCollection,
 }: IProps): React.ReactElement => {
   const onFishClick = (fishName: string) => {
-    setCollection((old: Record<string, boolean>): Record<string, boolean> => {
-      return { ...old, [fishName]: !old[fishName] };
+    setCollection((old: Collections): Collections => {
+      return {
+        ...old,
+        fishes: { ...old.fishes, [fishName]: !old.fishes[fishName] },
+      };
     });
   };
-  const lines: Fish[][] = [];
-  const chunkSize = 10;
-  for (let i = 0; i < Fishes.length; i += chunkSize) {
-    lines.push(Fishes.slice(i, i + chunkSize));
-  }
+  const lines: Fish[][] = splitChunk(Fishes, 10);
   return (
     <CollectionModal open={open} onClose={onClose}>
       {lines.map((line, i) => (
@@ -36,7 +35,7 @@ export const FishCollectionModal = ({
             <FishCollectionButton
               key={f.Name}
               fish={f}
-              acquired={collection[f.Name]}
+              acquired={collections.fishes[f.Name]}
               onClick={() => onFishClick(f.Name)}
             />
           ))}

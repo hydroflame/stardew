@@ -1,7 +1,7 @@
 import React from "react";
 import Box from "@mui/material/Box";
 import Modal from "@mui/material/Modal";
-import logo from "./img/background.png";
+import { StardewBox } from "./Box";
 
 interface IProps {
   open: boolean;
@@ -22,23 +22,9 @@ export const CollectionModal = ({
   children,
 }: IProps): React.ReactElement => {
   return (
-    <Modal
-      open={open}
-      onClose={onClose}
-      aria-labelledby="modal-modal-title"
-      aria-describedby="modal-modal-description"
-    >
+    <Modal open={open} onClose={onClose}>
       <Box sx={style}>
-        <div
-          style={{
-            width: "515px",
-            height: "387px",
-            backgroundImage: `url(${logo})`,
-            backgroundSize: "515px 387px",
-          }}
-        >
-          <div style={{ padding: "15px" }}>{children}</div>
-        </div>
+        <StardewBox>{children}</StardewBox>
       </Box>
     </Modal>
   );

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./App.css";
 import Button from "@mui/material/Button";
 import { Select } from "@mui/material";
@@ -7,22 +7,14 @@ import { Typography } from "@mui/material";
 import { Box } from "@mui/material";
 import { AppBar } from "@mui/material";
 import { Toolbar } from "@mui/material";
-import { IconButton } from "@mui/material";
-import MenuIcon from "@mui/icons-material/Menu";
 
 import { Location, Season } from "./enums";
 import { FishCollectionModal } from "./FishCollectionModal";
 import { Fish, Fishes } from "./Fish";
 import { Division } from "./Division";
 import { CookingCollectionModal } from "./CookingCollectionModal";
-
-const initialCollection = (): Record<string, boolean> => {
-  const collection: Record<string, boolean> = {};
-  for (const fish of Fishes) {
-    collection[fish.Name] = false;
-  }
-  return collection;
-};
+import { Collections, defaultCollections } from "./Collections";
+import { Load, Save } from "./Save";
 
 const splitArray = <T,>(array: T[], split: (t: T) => boolean): [T[], T[]] => {
   const good = [];
@@ -38,21 +30,26 @@ const splitArray = <T,>(array: T[], split: (t: T) => boolean): [T[], T[]] => {
 };
 
 const App = (): React.ReactElement => {
-  const [collection, setCollection] = useState<Record<string, boolean>>(
-    initialCollection()
-  );
+  const [collections, setCollections] = useState<Collections>(Load());
   const [season, setSeason] = useState<Season>(Season.SPRING);
   const [fishOpen, setFishOpen] = useState(false);
   const [cookingOpen, setCookingOpen] = useState(false);
 
+  useEffect(() => {
+    Save(collections);
+  }, [collections]);
+
   const onCaught = (fish: Fish) => {
-    setCollection((old: Record<string, boolean>): Record<string, boolean> => {
-      return { ...old, [fish.Name]: !old[fish.Name] };
+    setCollections((old: Collections): Collections => {
+      return {
+        ...old,
+        fishes: { ...old.fishes, [fish.Name]: !old.fishes[fish.Name] },
+      };
     });
   };
   // Find all missing fish first
   const allMissing: Fish[] = [];
-  for (const [name, caught] of Object.entries(collection)) {
+  for (const [name, caught] of Object.entries(collections.fishes)) {
     if (caught) continue;
     const fish = Fishes.find((f) => f.Name === name);
     if (!fish) continue;
@@ -86,7 +83,7 @@ const App = (): React.ReactElement => {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Stardew fishing list
+            Stardew perfection tracker
           </Typography>
           <Button onClick={() => setFishOpen(true)}>
             <Typography color="secondary">Open Fish collection</Typography>
@@ -109,14 +106,14 @@ const App = (): React.ReactElement => {
         <FishCollectionModal
           open={fishOpen}
           onClose={() => setFishOpen(false)}
-          collection={collection}
-          setCollection={setCollection}
+          collections={collections}
+          setCollection={setCollections}
         />
         <CookingCollectionModal
           open={cookingOpen}
           onClose={() => setCookingOpen(false)}
-          collection={collection}
-          setCollection={setCollection}
+          collections={collections}
+          setCollection={setCollections}
         />
         <header className="App-header">
           {oneSeason.length > 0 && (
