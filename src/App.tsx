@@ -14,6 +14,7 @@ import { Location, Season } from "./enums";
 import { FishCollectionModal } from "./FishCollectionModal";
 import { Fish, Fishes } from "./Fish";
 import { Division } from "./Division";
+import { CookingCollectionModal } from "./CookingCollectionModal";
 
 const initialCollection = (): Record<string, boolean> => {
   const collection: Record<string, boolean> = {};
@@ -108,6 +109,12 @@ const App = (): React.ReactElement => {
         <FishCollectionModal
           open={fishOpen}
           onClose={() => setFishOpen(false)}
+          collection={collection}
+          setCollection={setCollection}
+        />
+        <CookingCollectionModal
+          open={cookingOpen}
+          onClose={() => setCookingOpen(false)}
           collection={collection}
           setCollection={setCollection}
         />

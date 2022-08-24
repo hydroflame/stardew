@@ -1,7 +1,8 @@
 import React from "react";
-import { FishCollectionButton } from "./FishCollectionButton";
-import { Fish, Fishes } from "./Fish";
 import { CollectionModal } from "./CollectionModal";
+import { Recipe } from "./Recipe";
+import { Recipes } from "./data/Recipes";
+import { CookingCollectionButton } from "./CookingCollectionButton";
 
 interface IProps {
   open: boolean;
@@ -12,32 +13,27 @@ interface IProps {
   ) => void;
 }
 
-export const FishCollectionModal = ({
+export const CookingCollectionModal = ({
   open,
   onClose,
   collection,
   setCollection,
 }: IProps): React.ReactElement => {
-  const onFishClick = (fishName: string) => {
-    setCollection((old: Record<string, boolean>): Record<string, boolean> => {
-      return { ...old, [fishName]: !old[fishName] };
-    });
-  };
-  const lines: Fish[][] = [];
+  const lines: Recipe[][] = [];
   const chunkSize = 10;
-  for (let i = 0; i < Fishes.length; i += chunkSize) {
-    lines.push(Fishes.slice(i, i + chunkSize));
+  for (let i = 0; i < Recipes.length; i += chunkSize) {
+    lines.push(Recipes.slice(i, i + chunkSize));
   }
   return (
     <CollectionModal open={open} onClose={onClose}>
       {lines.map((line, i) => (
         <div key={i} style={{ display: "flex" }}>
           {line.map((f) => (
-            <FishCollectionButton
+            <CookingCollectionButton
               key={f.Name}
-              fish={f}
-              acquired={collection[f.Name]}
-              onClick={() => onFishClick(f.Name)}
+              recipe={f}
+              acquired={true}
+              onClick={() => undefined}
             />
           ))}
         </div>

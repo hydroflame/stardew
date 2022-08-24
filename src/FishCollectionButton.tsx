@@ -11,7 +11,7 @@ const notAcquiredStyle = {
   filter: "opacity(0.25)",
 };
 
-export const CollectionButton = ({
+export const FishCollectionButton = ({
   fish,
   acquired,
   onClick,
