@@ -11,7 +11,7 @@ import { IconButton } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 
 import { Location, Season } from "./enums";
-import { CollectionModal } from "./CollectionModal";
+import { FishCollectionModal } from "./FishCollectionModal";
 import { Fish, Fishes } from "./Fish";
 import { Division } from "./Division";
 
@@ -41,7 +41,8 @@ const App = (): React.ReactElement => {
     initialCollection()
   );
   const [season, setSeason] = useState<Season>(Season.SPRING);
-  const [open, setOpen] = useState(false);
+  const [fishOpen, setFishOpen] = useState(false);
+  const [cookingOpen, setCookingOpen] = useState(false);
 
   const onCaught = (fish: Fish) => {
     setCollection((old: Record<string, boolean>): Record<string, boolean> => {
@@ -86,8 +87,11 @@ const App = (): React.ReactElement => {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Stardew fishing list
           </Typography>
-          <Button onClick={() => setOpen(true)}>
-            <Typography color="secondary">Open collection</Typography>
+          <Button onClick={() => setFishOpen(true)}>
+            <Typography color="secondary">Open Fish collection</Typography>
+          </Button>
+          <Button onClick={() => setCookingOpen(true)}>
+            <Typography color="secondary">Open Cooking collection</Typography>
           </Button>
           <Select
             value={season}
@@ -101,9 +105,9 @@ const App = (): React.ReactElement => {
         </Toolbar>
       </AppBar>
       <div className="App">
-        <CollectionModal
-          open={open}
-          onClose={() => setOpen(false)}
+        <FishCollectionModal
+          open={fishOpen}
+          onClose={() => setFishOpen(false)}
           collection={collection}
           setCollection={setCollection}
         />
