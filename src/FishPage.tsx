@@ -86,11 +86,15 @@ export const FishPage = ({
         />
       )}
       {crabPot.length > 0 && (
-        <Division title={`Crab Pot`} fishes={crabPot} onCaught={onCaught} />
+        <Division
+          title={`Crab Pot (All seasons)`}
+          fishes={crabPot}
+          onCaught={onCaught}
+        />
       )}
       {gingerIsland.length > 0 && (
         <Division
-          title={`Ginger Island`}
+          title={`Ginger Island (All seasons)`}
           fishes={gingerIsland}
           onCaught={onCaught}
         />
