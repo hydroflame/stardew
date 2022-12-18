@@ -1,0 +1,75 @@
+{{Infobox
+|eng             = Mead
+|source          = <nowiki />
+*[[Artisan Goods]]
+*[[Ginger Island#Island South|Ginger Island Resort]]
+|buff            = {{name|Tipsy|link=Buffs#Tipsy{{!}}Tipsy}}{{name|Speed|−1}}
+|buffduration    = 30s
+|edibility       = 30
+|sellprice       = 200
+|ingredients     = {{name|Honey|1}}
+|craftingstation = {{name|Keg}}
+|crafttime       = 10h
+}}
+'''Mead''' is an [[Artisan Goods|Artisan Good]] made from placing [[Honey]] inside a [[Keg]], taking 10 hours. It is also available at the [[Ginger Island#Island South|Ginger Island Resort]] for {{price|800}}. Unlike [[Wine]] and [[Juice]] however, the value of the Mead is '''not''' affected by the type of honey used.  The sell price of Mead is {{price|200}}, and only [[Cask|aging]] or the [[Skills#Farming|Artisan Profession]] can increase it.  Several types of [[Honey#Sell Prices|Flower Honey]] sell for more than Mead, so the player can actually lose money by making Mead.
+
+Mead can also be obtained for free from the bar in the [[Ginger Island#Pirate Cove|Pirate Cove]] by speaking with the bartender while wearing the [[Pirate Hat]], [[Deluxe Pirate Hat]], or [[Eye Patch]]. This can only be done once per night.
+
+When consumed, Mead causes a [[Buffs|Tipsy]] buff that decreases [[Speed]] by 1.
+
+==Aged Values==
+Mead can be placed inside a [[Cask]] to age from normal quality to silver, gold, and eventually iridium quality. Iridium quality doubles the base sell price of Mead.  
+
+Normal, silver, and gold quality Mead can be prematurely removed from a cask at any time by striking the cask with an [[Axes|Axe]], [[Hoes|Hoe]], or [[Pickaxes|Pickaxe]].
+
+{|class="wikitable roundedborder"
+!Base Quality
+!Silver Star<br />(x 1.25)
+!Gold Star<br />(x 1.5)
+!Iridium Star<br />(x 2)
+|-
+|{{Qualityprice|Mead|200|hide=silver,gold}}
+|{{Qualityprice|Mead|200|hide=normal,gold}} ''Aged: 7 Days''
+|{{Qualityprice|Mead|200|hide=normal,silver}} ''Aged: 7 Days<br />Total: 14 Days''
+|{{Qualityprice|Mead|200|iridium|hide=normal,silver,gold}} ''Aged: 14 Days<br />Total: 28 Days''
+|-
+|}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Emily,Haley,Jodi,Kent,Sam,Leah,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus,Shane
+|hate=Jas,Penny,Sebastian,Vincent,Leo
+|love=Pam,Willy
+}}
+
+==Bundles==
+Mead is one of the options for {{Bundle|Brewers||y}}.
+
+==Recipes==
+Mead is not used in any recipes.
+
+==Tailoring==
+Mead can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Black Leather Jacket]].  [[File:Shirt138.png|24px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Mead is not used in any [[quests]].
+
+==History==
+{{History|1.1|Introduced.}}
+{{History|1.4|Can now be used in [[Tailoring]].  Now a hated gift for Sebastian, Jas, and Vincent.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Met]]
+[[es:Hidromiel]]
+[[fr:Hydromel]]
+[[it:Idromele]]
+[[ja:はちみつ酒]]
+[[ko:벌꿀 술]]
+[[hu:Mézsör]]
+[[pt:Hidromel]]
+[[ru:Медовуха]]
+[[tr:Likör]]
+[[zh:蜜蜂酒]]

@@ -1,0 +1,67 @@
+{{Infobox
+|eng        = Duck Egg
+|source     = [[Duck]]s
+|sellprice  = 95
+|edibility  = 15
+}}
+The '''Duck Egg''' is an [[:Category:Animal Products|animal product]] obtained from a [[Duck]].  It may be placed in a Big or Deluxe [[Coop]]'s [[incubator]] to create a [[Duck]]. Duck Eggs may also be avaliable at the [[Traveling Cart]] for {{tprice|95}}.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Maru,Caroline,George,Evelyn,Lewis,Clint,Penny,Emily,Elliott,Gus,Sandy,Willy,Krobus
+|like=Demetrius,Linus,Pierre,Alex,Jodi,Kent,Sam,Leah,Shane,Marnie,Harvey
+|hate=Sebastian
+|dislike=Abigail,Pam,Haley,Jas,Vincent,Dwarf,Wizard
+}}
+
+==Bundles==
+A Duck Egg is an option for the {{Bundle|Animal||y}}.
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Duck Mayonnaise.png]]
+|[[Duck Mayonnaise]]
+|{{Description|Duck Mayonnaise}}
+|{{name|Duck Egg|1}}
+|style="text-align: center;"|[[File: Mayonnaise Machine.png]]<br />[[Mayonnaise Machine]]
+|{{duration|3 Hours}}
+|{{price|375}}
+|}
+
+==Recipes==
+When used for [[Cooking]], Duck Eggs are interchangeable with other [[Egg]]s.{{#lsth:Egg|Recipes}}
+==Tailoring==
+Duck Egg is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Green Jacket Shirt]].  [[File:Shirt270.png|24px]]
+
+==Quests==
+Duck Eggs are not used in any [[quests]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from {{price|75}} to {{price|95}}}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+
+[[de:Entenei]]
+[[es:Huevo de pato]]
+[[fr:Oeuf de canard]]
+[[it:Uovo d'anatra]]
+[[ja:アヒルのタマゴ]]
+[[ko:오리알]]
+[[hu:Kacsatojás]]
+[[pt:Ovo de pata]]
+[[ru:Утиное яйцо]]
+[[tr:Ördek Yumurtası]]
+[[zh:鸭蛋]]

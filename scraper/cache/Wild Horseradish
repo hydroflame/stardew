@@ -1,0 +1,70 @@
+{{Infobox
+|eng         = Wild Horseradish
+|source      = [[Foraging]] • [[Spring Seeds]]
+|season      = Spring
+|sellprice   = 50
+|edibility   = 5
+|xp          = 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+'''Wild Horseradish''' is found via [[foraging]] in the [[Spring]], or grown from [[Spring Seeds]]. Putting a Wild Horseradish in a [[Seed Maker]] will generate 1-3 [[Spring Seeds]].
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Sebastian,Pierre,Caroline,Abigail,Alex,George,Evelyn,Leo,Lewis,Clint,Pam,Jodi,Sam,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Willy
+|neutral=Demetrius,Maru,Penny,Emily,Kent,Sandy
+|like=Linus,Leah,Harvey
+|hate=Haley,Jas,Vincent
+|love=Krobus
+}}
+
+==Bundles==
+Wild Horseradish is used in the {{Bundle|Spring Foraging||y}}.
+
+==Recipes==
+===Cooking===
+{{Recipes|header}}
+{{:Shrimp Cocktail|RecipeRow}}
+{{Recipes|footer}}
+
+===Crafting===
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Spring Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Sp)]]
+||{{Description|Spring Seeds}}<br />''(Produces 10 Spring Seeds per craft.)''
+|{{name|Wild Horseradish|1}}{{name|Daffodil|1}}{{name|Leek|1}}{{name|Dandelion|1}}
+|class="no-wrap"|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 1
+|{{price|35}}
+|-
+|}
+
+==Tailoring==
+Wild Horseradish is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt008|link=Tailoring{{!}}"Good Grief" Shirt|class=inline}}. It is a brown dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the orange dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*Wild Horseradish may be randomly requested during [[Spring]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|150}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].  Added Shrimp Cocktail recipe.}}
+
+{{NavboxForaging}}
+
+[[Category:Spring Forage]]
+
+[[de:Wilder Meerrettich]]
+[[es:Rábano silvestre]]
+[[fr:Raifort sauvage]]
+[[it:Rafano selvatico]]
+[[ja:ノワサビ]]
+[[ko:야생 고추냉이]]
+[[hu:Vad torma]]
+[[pt:Raiz-forte]]
+[[ru:Дикий хрен]]
+[[tr:Yabani Bayır Turpu]]
+[[zh:野山葵]]

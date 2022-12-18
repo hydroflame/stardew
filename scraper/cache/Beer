@@ -1,0 +1,72 @@
+{{Infobox
+|eng             = Beer
+|source          = <nowiki />
+*[[Artisan Goods]]
+*[[The Stardrop Saloon|The Saloon]]
+*[[Ginger Island#Island South|Ginger Island Resort]]
+|buff            = {{name|Tipsy|link=Buffs#Tipsy{{!}}Tipsy}}{{name|Speed|−1}}
+|buffduration    = 30s
+|edibility       = 20
+|sellprice       = 200
+|ingredients     = {{name|Wheat|1}}
+|craftingstation = {{name|Keg}}
+|crafttime       = 1750m (&#8776;29h)
+}}
+'''Beer''' is an [[Artisan Goods|Artisan Good]] made from the [[Keg]] using [[Wheat]], taking 1-2 days. It is also available at [[The Stardrop Saloon|The Saloon]] for {{price|400}} and the [[Ginger Island#Island South|Ginger Island Resort]] for {{price|500}}.  It can also be received as a gift at the [[Feast of the Winter Star]].
+
+When consumed, Beer causes a [[Buffs|Tipsy Buff]] that decreases [[Speed]] by 1.
+
+==Aged Values==
+Beer can be placed inside a [[Cask]] to age from normal quality to silver, gold, and eventually iridium quality. Iridium quality doubles the base sell price of Beer.  
+
+Normal, silver, and gold quality Beer can be prematurely removed from a cask at any time by striking the cask with an [[Axes|Axe]], [[Hoes|Hoe]], or [[Pickaxes|Pickaxe]].
+
+{|class="wikitable roundedborder"
+!Base Quality
+!Silver Star<br />(x 1.25)
+!Gold Star<br />(x 1.5)
+!Iridium Star<br />(x 2)
+|-
+|{{Qualityprice|Beer|200|hide=silver,gold}}
+|{{Qualityprice|Beer|200|hide=normal,gold}} ''Aged: 7 Days''
+|{{Qualityprice|Beer|200|hide=normal,silver}} ''Aged: 7 Days<br />Total: 14 Days''
+|{{Qualityprice|Beer|200|iridium|hide=normal,silver,gold}} ''Aged: 14 Days<br />Total: 28 Days''
+|-
+|}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Emily,Haley,Jodi,Kent,Sam,Leah,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|hate=Sebastian,Penny,Jas,Vincent,Leo
+|love=Pam,Shane
+}}
+
+==Bundles==
+Beer is not used in any [[bundles]].
+
+==Tailoring==
+Beer is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt138|link=Tailoring{{!}}Black Leather Jacket|class=inline}}. It is a yellow dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]], for use in [[dyeing]].
+
+==Quests==
+Beer is not used in any [[quests]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Added ability to age in [[cask]]s.}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Bier]]
+[[es:Cerveza]]
+[[fr:Bière]]
+[[it:Birra]]
+[[ja:ビール]]
+[[ko:맥주]]
+[[hu:Sör]]
+[[pt:Cerveja]]
+[[ru:Пиво]]
+[[tr:Bira]]
+[[zh:啤酒]]

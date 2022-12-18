@@ -1,0 +1,125 @@
+{{Infobox
+|eng       = Slime
+|source    = [[Slimes]] • [[Krobus]] • [[Slime Ball]] • [[Traveling Cart]] • [[Fish Pond]]
+|sellprice = 5
+|quality   = false
+}}
+{{For|the monster from which this item drops|Slimes|R=This page is for the item drop.}}
+'''Slime''' is a [[Monster Loot]] item which is dropped by [[Slimes]]. Killing a single [[Slimes|Slime]] can drop up to two Slime. Slime can also be obtained from [[Slime Ball]]s or purchased from [[Krobus]] for {{price|10}} on [[Days of the Week#Monday|Mondays]] (up to 50 per Monday).  It may randomly appear in the [[Traveling Cart]] for {{tprice|15}}. A [[Slimejack]] [[Fish Pond]] may also produce 10, 30, or 50 Slime daily when the population reaches 9.
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Harvey,Sandy,Willy,Krobus
+|dislike=Wizard
+}}
+
+==Bundles==
+99 Slime are one option for the {{Bundle|adventurer||y}}.
+
+==Recipes==
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Green Slime Egg.png|center]]
+|[[Slime Egg]]
+|{{Description|Slime Egg}}
+|{{name|Slime|100}}
+|style="text-align: center;"|[[File:Slime Egg-Press.png|center|40px]][[Slime Egg-Press]]
+|{{Duration|1200m (20h)}}
+|
+{|
+|class="no-wrap"|[[File:Green Slime Egg.png|18px]] {{price|1000}}
+|-
+|[[File:Blue Slime Egg.png|18px]] {{price|1750}}
+|-
+|[[File:Red Slime Egg.png|18px]] {{price|2500}}
+|-
+|[[File:Purple Slime Egg.png|18px]] {{price|5000}}
+|}
+|}
+
+''The color of the resulting slime egg is random, but the cheaper ones are more common. See [[Slime Egg-Press]] for the list of probabilities.''
+
+==Crafting==
+{| class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Oil Maker.png|center]]
+|[[Oil Maker]]
+|{{Description|Oil Maker}}
+|{{name|Slime|50}}
+{{name|Hardwood|20}}
+{{name|Gold Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 8
+|-
+|[[File:Cork Bobber.png|center]]
+|[[Cork Bobber]]
+|{{Description|Cork Bobber}}
+|{{name|Wood|10}}
+{{name|Hardwood|5}}
+{{name|Slime|10}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 7
+|-
+|[[File:Slime Incubator.png|center]]
+|[[Slime Incubator]]
+|{{Description|Slime Incubator}}
+|{{name|Iridium Bar|2}}{{name|Slime|100}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat]] Level 8
+|-
+|[[File:Wild Bait.png|center]]
+|[[Wild Bait]] (5)
+|{{Description|Wild Bait}}
+|{{name|Fiber|10}}{{name|Bug Meat|5}}{{name|Slime|5}}
+|class="no-wrap"|{{NPC|Linus|4 [[File:HeartIconLarge.png|18px|link=]] Event}}
+|-
+|[[File:Sturdy Ring.png|center]]
+|[[Sturdy Ring]]
+|{{Description|Sturdy Ring}}
+|{{name|Copper Bar|2}}{{name|Bug Meat|25}}{{name|Slime|25}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Skills#Combat|Combat]] Level 1
+|-
+|[[File:Monster Musk.png|center]]
+|[[Monster Musk]]
+|{{Description|Monster Musk}}
+|{{name|Bat Wing|30}}{{name|Slime|30}}
+|class="no-wrap"|{{NPC|Wizard|[[Quests#Prismatic Jelly|Special Order]]}}
+|-
+|}
+
+==Tailoring==
+Slime is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt096.png|24px]]
+
+==Quests==
+*20 Slime are requested by [[Slimejack]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 1 to 3.
+*5 Slime may be requested by [[Bullhead]], [[Largemouth Bass]], or [[Midnight Carp]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5.
+
+==History==
+{{History|1.4|[[Sturdy Ring]] now uses 25 Slime to craft.  Slime can now be used in Tailoring. Can be requested in [[Fish Pond#Quests|Fish Pond quests]]. Can be produced by Fish Ponds.}}
+{{History|1.5|Added Monster Musk recipe.}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+[[Category:Monster Loot]]
+
+[[de:Schleim]]
+[[es:Baba]]
+[[fr:Slime]]
+[[it:Melma]]
+[[ja:スライム]]
+[[ko:슬라임]]
+[[hu:Ragacs]]
+[[pt:Gosma]]
+[[ru:Слизь]]
+[[tr:Balçıkça]]
+[[zh:史莱姆]]

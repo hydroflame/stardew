@@ -1,0 +1,100 @@
+{{Spoiler}}
+{{Infobox
+|eng         = Sap
+|source      = [[Trees]] • [[Slimes]]
+|sellprice   = 2
+|quality     = false
+|edibility   = -1
+}}
+'''Sap''' is a [[:Category:Foraging|foraged]] item that drops from [[trees]] when they are cut down. It is used in various [[crafting]] recipes. Sap can be consumed, however it decreases [[energy]] by 2 points.
+
+Sap may also be obtained from tapping [[Mahogany Tree]]s and all [[Slimes]] except [[Slimes#Big Slimes|Big Slimes]].
+
+==Recipes==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Basic Fertilizer.png|center]]
+|[[Basic Fertilizer]]
+|{{Description|Basic Fertilizer}}
+|{{name|Sap|2}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 1
+|-
+|[[File:Quality Fertilizer.png|center]]
+|[[Quality Fertilizer]]
+|{{Description|Quality Fertilizer}}
+|{{name|Sap|2}}[[File:Fish.png|24px|link=]] Any [[Fish]] (1)
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 9
+|-
+|[[File:Deluxe Fertilizer.png|center]]
+|[[Deluxe Fertilizer]] (5)
+|{{Description|Deluxe Fertilizer}}
+|{{name|Sap|40}}{{name|Iridium Bar|1}}
+|[[File:Mr. Qi Icon.png|24px|link=]] [[Qi's Walnut Room|Mr. Qi]] ({{price|20|Gem}})
+|-
+|[[File:Torch.png|center]]
+|[[Torch]]
+|{{Description|Torch}}
+|{{name|Sap|2}}{{name|Wood|1}}
+|Starter
+|-
+|[[File:Trap Bobber.png|center]]
+|[[Trap Bobber]]
+|{{Description|Trap Bobber}}
+|{{name|Sap|10}}{{name|Copper Bar|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 6
+|-
+|[[File:Fiber Seeds.png|center]]
+|[[Fiber Seeds]] (4)
+|{{Description|Fiber Seeds}}
+|{{name|Sap|5}}{{name|Clay|1}}{{name|Mixed Seeds|1}}
+|[[File:Linus Icon.png|24px|link=]] [[Linus]] ([[Quests#Community Cleanup|Special Order]])
+|-
+|[[File:Quality Bobber.png|center]]
+|[[Quality Bobber]]
+|{{Description|Quality Bobber}}
+|{{name|Sap|20}}{{name|Copper Bar|1}}{{name|Solar Essence|5}}
+|[[File:Willy Icon.png|24px|link=]] [[Willy]] ([[Quests#Juicy Bugs Wanted|Special Order]])
+|}
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Bundles==
+Sap is used in the {{Bundle|Sticky||y}}.
+
+==Tailoring==
+Sap is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt006|link=Tailoring{{!}}Tan Striped Shirt|class=inline}}. It is a yellow dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+Sap is not used in any [[Quests|quests]].
+
+==Bugs==
+While playing local co-op on console, if the player or a farmhand has had [[Energy|exhaustion]] the previous day and consumes a poisonous item that reduces their energy to zero (or below), the game will softlock.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Used as an ingredient to the [[Deluxe Fertilizer]], [[Fiber Seeds]], and [[Quality Bobber]] recipes.}}
+
+{{NavboxForaging}}
+
+[[Category:Foraging]]
+[[Category:Bugs tested in 1.5]]
+
+[[de:Harz]]
+[[es:Savia]]
+[[fr:Sève]]
+[[it:Linfa]]
+[[ja:樹液]]
+[[ko:수액]]
+[[hu:Fanedv]]
+[[pt:Seiva]]
+[[ru:Древесный сок]]
+[[tr:Öz]]
+[[zh:树液]]

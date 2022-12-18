@@ -1,0 +1,65 @@
+{{Infobox
+|eng         = Oak Resin
+|source      = <nowiki />
+*[[Crafting]]
+*{{name|Haunted Skull|1.30%}}
+|season      = All
+|sellprice   = 150
+|quality     = false
+|edibility   = -300
+|craftingstation = {{name|Tapper}}
+|crafttime   = 7-8 days
+|ingredients = [[Oak Tree]]
+}}
+'''Oak Resin''' is a [[Trees|Tree]] sap made from the [[Tapper]] when it is placed on an [[Oak Tree]], taking {{duration|7-8 days|class=inline}}.
+
+Oak Resin can be obtained by tapping [[Oak Tree]]s growing on [[The Farm]] or growing naturally in Stardew Valley (''e.g.,'' in [[Cindersap Forest]]). It is also a rare drop from [[Haunted Skull|Haunted Skulls]], and can rarely be obtained after processing [[Hardwood]] in a [[Wood Chipper]].
+
+Although Oak Resin is labeled "Artisan Good" in-game, it does not benefit from the [[Skills#Farming|Artisan Profession]], but instead from the [[Skills#Foraging|Tapper Profession]] (+25% value).
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|like=Maru
+}}
+
+==Bundles==
+Oak Resin is used in the {{Bundle|Enchanter's||y}}, and is one of the options for the {{Bundle|Exotic||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration,restores}}
+{{:Deluxe Speed-Gro|RecipeRow/NoBuffsHealthEnergy}}
+|-
+|[[File:Keg.png|center]]
+|[[Keg]]
+|{{Description|Keg}}
+|{{name|Wood|30}}{{name|Copper Bar|1}}{{name|Iron Bar|1}}{{name|Oak Resin|1}}
+|class="no-wrap"|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 8
+|N/A
+{{Recipes|footer}}
+
+==Tailoring==
+Oak Resin can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{name|Floppy Beanie|class=inline}}. It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+One Oak Resin may be requested by [[Woodskip]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in a Fish Pond quest.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Eichenharz]]
+[[es:Resina de roble]]
+[[fr:Résine de chêne]]
+[[it:Resina di quercia]]
+[[ja:オークの樹脂]]
+[[ko:참나무 수지]]
+[[hu:Tölgyfa gyanta]]
+[[pt:Resina de carvalho]]
+[[ru:Дубовая смола]]
+[[tr:Meşe Reçinesi]]
+[[zh:橡树树脂]]

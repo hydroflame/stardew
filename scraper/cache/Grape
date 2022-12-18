@@ -1,0 +1,109 @@
+{{Infobox
+|eng         = Grape
+|source      = [[Foraging]] • [[Farming]]
+|seed        = {{name|Summer Seeds|Summer}}{{name|Grape Starter|Fall}}
+|growth      = 7 days (Summer Seeds)<br />10 days (Grape Starter)
+|season      = {{Season|Summer}} (Summer Seeds and Foraging)<br />{{Season|Fall}} (Grape Starter)
+|xp          = Summer Seeds: 7 [[Foraging#Experience Points|Foraging XP]]<br />Foraging: 7 [[Foraging#Experience Points|Foraging XP]]<br />Grape Starter: 14 [[Farming#Experience Points|Farming XP]]
+|edibility   = 15
+|sellprice   = 80
+}}
+The '''Grape''' is a [[Fruits|fruit]] that is both a [[Foraging|forageable]] item and a standard [[Crops|crop]]:
+* In [[Summer]], Grapes are a [[Foraging|forageable]] fruit found that grows wild throughout Stardew Valley or can be grown from [[Summer Seeds]].  Specifically, forageable Grapes can be found at: the [[Backwoods]] (62% of all forageable items at this location); the [[The Mountain|Mountain]] (62%); the [[Bus Stop]] (27%); the [[Railroad]] (27%); or, the [[Farm Maps#Forest|Forest Farm Map]] (25%).
+* In [[Fall]], Grapes are a standard crop that takes ten days to grow from a [[Grape Starter]] to maturity; the plants can be re-harvested every three days.
+
+Grapes grown as a crop (in Fall) receive the +10% [[Skills#Farming|Tiller]] profession bonus when sold (as do all crops). However, foraged Grapes in summer do not get the Tiller bonus. If you combine Summer and Fall grapes into the same stack, the entire stack will receive the Tiller bonus (see [[Fruits#Tiller Profession Details|the Fruit page]] for more details).
+
+Other than the Tiller profession bonus, foraged Grapes and crop-grown Grapes are identical and can be used interchangeably in crafting, gifts, bundles, recipes, and quests.
+
+==Stages==
+You cannot walk through grape plants grown from a Grape Starter at any stage of growth.  You can walk through dead Grape plants.
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Grape Stage 1.png|center|link=]]
+|[[File:Grape Stage 2.png|center|link=]]
+|[[File:Grape Stage 3.png|center|link=]]
+|[[File:Grape Stage 4.png|center|link=]]
+|[[File:Grape Stage 5.png|center|link=]]
+|[[File:Grape Stage 6.png|center|link=]]
+|[[File:Grape Stage 7.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|2 Days
+|3 Days
+|3 Days
+|Total: 10 Days
+|Regrowth: 3 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Grape}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|dislike=Abigail,Haley,Jas
+|hate=Penny
+|love=Vincent
+}}
+
+==Bundles==
+A Grape is used in the {{Bundle|Summer Foraging||y}}.
+
+==Recipes==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Summer Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Su)]]
+||{{Description|Summer Seeds}}<br />''(Produces 10 Summer Seeds per craft.)''
+|{{name|Spice Berry|1}}{{name|Grape|1}}{{name|Sweet Pea|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 4
+|{{price|55}}
+|-
+|}
+
+==Tailoring==
+Grape can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Shorts]]. [[File:Shorts.png|36px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Grape may be randomly requested in [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|240}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Fixed how Tiller bonus applies when foraged and non-foraged fruit are combined in one stack.}}
+{{History|1.5|Iridium quality is now possible from grown grapes using [[Deluxe Fertilizer]].}}
+
+{{NavboxForaging}}
+{{NavboxCrop}}
+
+[[Category:Fall crops]]
+[[Category:Summer Forage]]
+[[Category:Trellis Crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Weintraube]]
+[[es:Uva]]
+[[fr:Raisin]]
+[[it:Uva]]
+[[ja:ブドウ]]
+[[ko:포도]]
+[[hu:Szőlő]]
+[[pt:Uva]]
+[[ru:Виноград]]
+[[tr:Üzüm]]
+[[zh:葡萄]]

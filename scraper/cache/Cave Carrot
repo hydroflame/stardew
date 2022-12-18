@@ -1,0 +1,54 @@
+{{Infobox
+|eng         = Cave Carrot
+|source      = [[Foraging]]
+|location    = [[The Mines]] • [[Garbage Can]]s
+|season      = All
+|edibility   = 12
+|sellprice   = 25
+|quality     = false
+}}
+The '''Cave Carrot''' is found via [[foraging]] in [[The Mines]].  It can also be found in [[Garbage Can]]s. Large quantities can be easily obtained by digging underground patches of dirt in [[The Mines]] (on levels 10-20) with the [[Hoes|Hoe]]. It may also randomly be found in the [[Traveling Cart]] stock for {{tprice|25}}.
+
+==Gifting==
+{{GiftsByItem
+|like=Dwarf
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Bundles==
+Cave Carrot is one of the options for the {{Bundle|Exotic Foraging||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Miner's Treat|RecipeRow}}
+{{:Roots Platter|RecipeRow}}
+{{:Stir Fry|RecipeRow}}
+{{:Survival Burger|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Cave Carrot is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt011|link=Tailoring{{!}}Green Belted Shirt|class=inline}}. It is a brown dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the orange dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*The Cave Carrot may be randomly requested during any [[Seasons|season]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|75}} and 150 [[Friendship]] points.
+*One, two, or five Cave Carrots may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+*After reaching 3 [[friendship]] hearts with [[Marnie]], she will request that you bring her a Cave Carrot in the [[Quests#Marnie's Request|"Marnie's Request" quest]].  The reward is 100 [[friendship]] points with [[Marnie]].
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Now a liked gift for [[Dwarf]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+
+{{NavboxForaging}}
+
+[[Category:Mines Forage]]
+
+[[de:Höhlenkarotte]]
+[[es:Zanahoria cavernaria]]
+[[fr:Carrotte des cavernes]]
+[[it:Carota di grotta]]
+[[ja:洞窟ニンジン]]
+[[ko:동굴 당근]]
+[[hu:Barlangi répa]]
+[[pt:Cenoura subterrânea]]
+[[ru:Пещерная морковка]]
+[[tr:Mağara Havucu]]
+[[zh:山洞萝卜]]

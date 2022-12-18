@@ -1,0 +1,55 @@
+{{Infobox
+|eng       = Chanterelle
+|source    = [[Foraging]] • [[The Cave|The Farm Cave]]
+|location  = [[Secret Woods]]
+|season    = Fall
+|edibility = 30
+|sellprice = 160
+|xp        = <nowiki />
+*Foraging: 7 [[Foraging#Experience Points|Foraging XP]]
+*The Farm Cave: 0
+}}
+The '''Chanterelle''' is found via [[foraging]] in the [[Secret Woods]] in the [[Fall]] or grown in [[The Cave|The Farm Cave]] if the Mushroom option is chosen.  It may also be found in the [[Ginger Island#Dig Site|Ginger Island Mushroom Cave]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Kent,Marnie,Gus,Sandy
+|dislike=Sebastian,Pierre,Caroline,Haley,Leo,Jas,Vincent,Jodi,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus
+|like=Linus,Leah,Harvey
+}}
+
+==Bundles==
+Chanterelle is not used in any [[bundles]].
+
+==Recipes==
+Despite the numbers listed on the tooltip, the [[Life Elixir]] will fully restore [[Health]] to maximum regardless of how low it is.
+{{Recipes|header|hide=buff,duration}}
+{{:Life Elixir|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Chanterelle is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create an {{name|Shirt015|link=Tailoring{{!}}Orange Shirt|class=inline}}. It is a brown dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the orange dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+Chanterelle is not used in any [[quests]].
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Can be found in the Ginger Island mushroom cave.}}
+
+{{NavboxForaging}}
+
+[[Category:Fall Forage]]
+[[Category:Mushrooms]]
+
+[[de:Pfifferling]]
+[[es:Chantarela]]
+[[fr:Chanterelle]]
+[[it:Gallinaccio]]
+[[ja:アンズタケ]]
+[[ko:살구버섯]]
+[[hu:Rókagomba]]
+[[pt:Cantarelo]]
+[[ru:Лисичка]]
+[[tr:Horozmantarı]]
+[[zh:鸡油菌]]

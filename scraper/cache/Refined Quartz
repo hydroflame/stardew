@@ -1,0 +1,127 @@
+{{Infobox
+|eng             = Refined Quartz
+|source          = [[Furnace]] 
+|ingredients     = {{name|Quartz|1}}{{name|Coal|1}}or{{name|Fire Quartz|1}}{{name|Coal|1}}
+|sellprice       = 50
+|quality         = false
+|craftingstation = {{name|Furnace}}
+|crafttime       = 1.5h
+}}
+'''Refined Quartz''' is created by smelting 1 [[Quartz]] in a furnace with 1 coal for fuel. 1 [[Fire Quartz]] can also be placed in a furnace with 1 coal to produce 3 Refined Quartz.  
+
+It can be sold for {{price|50}}. Until obtaining the [[Crystalarium]] it is a lot faster and easier to obtain Refined Quartz via the [[Recycling Machine]] than from quartz itself.
+
+==Locations==
+* Can very rarely be found in [[the Mines]] by breaking large crystals
+* Can be created by smelting 1 [[Quartz]] in a [[furnace]] with 1 [[Coal]]. Smelting takes 1.5 in-game hours.
+* Can be created by smelting 1 [[Fire Quartz]] in a [[furnace]] with 1 [[Coal]] (produces 3 Refined Quartz). 
+* Can be created by [[Recycling Machine|recycling]] a [[Broken CD]] or [[Broken Glasses]]
+* Can occasionally be found in [[Garbage Can]]s after receiving the [[Furnace]] blueprints from [[Clint]]
+* Can be a rare drop from [[Ghost]]s in [[The Mines]] (Floors 51-79)
+* Can be dropped by [[Carbon Ghost]]s in the [[Skull Cavern]] (10% chance)
+* Can be produced by [[Ghostfish]] [[Fish Pond]]s when the population reaches 9.
+
+==Crafting==
+{{Spoiler}}
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Crystal Floor.png|center]]
+|[[Crystal Floor]] (5)
+|{{Description|Crystal Floor}}
+|{{name|Refined Quartz|1}}
+|[[File:Krobus_Icon.png|24px|link=]] [[Krobus]] ({{Price|500}})
+|-
+|[[File:Crystal Path.png]]
+|[[Crystal Path]] (5)
+|{{Description|Crystal Path}}
+|{{name|Refined Quartz|1}}
+|[[File:Robin_Icon.png|24px|link=]] [[Carpenter's Shop]] ({{Price|200}})
+|-
+|[[File:Farm Computer.png|center]]
+|[[Farm Computer]]
+|{{Description|Farm Computer}}
+|{{name|Refined Quartz|10}}{{name|Dwarf Gadget|1}}{{name|Battery Pack|1}}
+|[[File:Demetrius Icon.png|24px|link=]] [[Demetrius]] ([[Quests#List of Special Orders|Special Order]])
+|-
+|[[File:Garden Pot.png|center]]
+|[[Garden Pot]]
+|{{Description|Garden Pot}}
+|{{name|Refined Quartz|1}}{{name|Clay|1}}{{name|Stone|10}}
+|[[File:Evelyn Icon.png|24px|link=]] [[Evelyn]] cutscene after completing the [[Greenhouse]]
+|-
+|[[File:Lightning Rod.png|center]]
+|[[Lightning Rod]]
+|{{Description|Lightning Rod}}
+|{{name|Refined Quartz|1}}{{name|Bat Wing|5}}{{name|Iron Bar|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 6
+|-
+|[[File:Quality Sprinkler.png|center]]
+|[[Quality Sprinkler]]
+|{{Description|Quality Sprinkler}}
+|{{name|Refined Quartz|1}}{{name|Gold Bar|1}}{{name|Iron Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 6
+|-
+|[[File:Solar Panel.png|center]]
+|[[Solar Panel]]
+|{{Description|Solar Panel}}
+|{{name|Refined Quartz|10}}{{name|Iron Bar|5}}{{name|Gold Bar|5}}
+|[[File:Caroline Icon.png|24px|link=]] [[Caroline]] ([[Quests#Island Ingredients|Special Order]])
+|}
+
+==Buildings==
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Slime_Hutch.png|112px|center]]
+|[[Slime Hutch]]
+|{{Description|Slime Hutch}}
+|{{price|10000}}{{name|Stone|500}}{{name|Refined Quartz|10}}{{name|Iridium Bar|1}}
+|style="text-align: center;|'''11x6'''<br />[[File:Marker6x11.png|center|6x11]]
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|neutral=Clint
+|hate=Sam
+}}
+
+==Bundles==
+5 Refined Quartz are used in the {{Bundle|Engineers||y}}.
+
+==Tailoring==
+Refined Quartz is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Necklace Shirt]].  [[File:Shirt220.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*Refined Quartz may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|150}} and 150 [[Friendship]] points.  Refined Quartz will never be requested until you have the [[Furnace]] blueprints.
+*Two, three, five, or ten Refined Quartz may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+
+==History==
+{{History|1.3.27|Added ability to smelt with [[fire Quartz]]. Added [[Garden Pot]] recipe.}}
+{{History|1.4|[[Sturdy Ring]] does not use Refined Quartz to craft anymore. Refined Quartz can now be used in Tailoring. Can be requested in [[Fish Pond#Quests|Fish Pond quests]]. Can be produced by Fish Ponds.}}
+{{History|1.5|Is now used in a remixed bundle. Used as an ingredient to the Solar Panel and Farm Computer recipes.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Verfeinerter Quarz]]
+[[es:Cuarzo refinado]]
+[[fr:Quartz raffiné]]
+[[it:Quarzo raffinato]]
+[[ja:精錬クリスタル]]
+[[ko:정제된 석영]]
+[[hu:Finomított kvarc]]
+[[pt:Quartzo refinado]]
+[[ru:Очищенный кварц]]
+[[tr:İşlenmiş Kuvars]]
+[[zh:精炼石英]]

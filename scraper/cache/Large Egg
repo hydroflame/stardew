@@ -1,0 +1,72 @@
+{{Infobox
+|eng         = Large Egg
+|image2      = Large Brown Egg
+|description = {{Description|Large Egg}}<br />{{Description|Large Brown Egg}}
+|source      = [[Chicken]]
+|edibility   = 15
+|sellprice   = 95
+}}
+The '''Large Egg''' and the '''Large Brown Egg''' are [[:Category:Animal Products|animal products]] obtained from [[Chicken]]s with sufficient [[Animals#Friendship|friendship]]. Large Eggs produce Quality [[Mayonnaise]] when used with a [[Mayonnaise Machine]]. For cooking, regular and large eggs may be used interchangeably.
+
+Large Eggs can be hatched in an [[incubator]], which comes with a Big or Deluxe [[Coop]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Caroline,Clint,Elliott,Emily,Evelyn,George,Gus,Harvey,Krobus,Leo,Lewis,Maru,Penny,Robin,Sandy,Willy
+|like=Demetrius,Linus,Pierre,Alex,Jodi,Kent,Sam,Leah,Shane,Marnie
+|hate=Sebastian
+|dislike=Abigail,Pam,Haley,Jas,Vincent,Dwarf,Wizard
+}}
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+Large Eggs can be used to make the following [[Artisan Goods]].  Note that regular [[Egg]]s always produce regular quality [[Mayonnaise]], while Large Eggs always produce gold-quality [[Mayonnaise]].  The quality of the egg is not a factor.
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Mayonnaise.png|center]]
+|[[Mayonnaise]]
+|{{Description|Mayonnaise}}
+|{{name|Egg|1|class=inline}} ''or''{{name|Large Egg|1}}
+|style="text-align: center;" |[[File:Mayonnaise Machine.png|center|40px|link=]][[Mayonnaise Machine]]
+|{{duration|3 Hours}}
+|{{Qualityprice|Mayonnaise|190|hide=silver}}
+|}
+
+==Bundles==
+A Large Egg and Large Brown Egg are both options for the {{Bundle|Animal||y}}.
+
+==Recipes==
+Large Eggs work the same as regular chicken [[Egg|eggs]] in all recipes.{{#lsth:Egg|Recipes}}
+==Tailoring==
+Large Egg is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Cardigan]].  [[File:Shirt218.png|24px]]
+
+==Quests==
+Large Eggs are not used in any [[quests]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from 75g to 95g}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+
+[[de:Großes Ei]]
+[[es:Huevo XXL]]
+[[fr:Gros oeuf]]
+[[it:Uovo grande]]
+[[ja:おおきなタマゴ]]
+[[ko:큰 달걀]]
+[[hu:Nagy tojás]]
+[[pt:Ovo grande]]
+[[ru:Большое яйцо]]
+[[tr:Büyük Yumurta]]
+[[zh:大鸡蛋]]

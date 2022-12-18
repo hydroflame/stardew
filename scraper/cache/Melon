@@ -1,0 +1,84 @@
+{{Infobox
+|eng         = Melon
+|seed        = {{name|Melon Seeds}}
+|growth      = 12 days
+|season      = Summer
+|xp          = 27 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 250
+|edibility   = 45
+}}
+The '''Melon''' is a [[Fruits|fruit]] [[Crops|crop]] that grows from [[Melon Seeds]] after 12 days.  Melon is one of only three crops that can grow into a [[Crops#Giant Crops|giant crop]].
+
+==Stages==
+Melons can become a [[Crops#Giant Crops|Giant Crop]].
+{|class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+|-
+|[[File:Melon Stage 1.png|center|link=]]
+|[[File:Melon Stage 2.png|center|link=]]
+|[[File:Melon Stage 3.png|center|link=]]
+|[[File:Melon Stage 4.png|center|link=]]
+|[[File:Melon Stage 5.png|center|link=]]
+|[[File:Melon Stage 6.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|3 Days
+|3 Days
+|3 Days
+|Total: 12 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Melon}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|dislike=Abigail,Haley,Jas,Vincent
+|love=Penny
+}}
+
+==Bundles==
+Melon is used in the {{Bundle|Summer Crops||y}} and it is in gold quality one of the options for the {{Bundle|Quality Crops||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Fruit Salad|RecipeRow/NoBuffs}}
+{{:Pink Cake|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Melon is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shorts|link=Tailoring#Pants{{!}}Shorts|class=inline}}. It is a pink dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the red dye pot at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]] for use in [[dyeing]].
+
+==Quests==
+*[[Demetrius]] requests a melon by mail on the 20th of [[Summer]] in the [[Quests#Crop Research|"Crop Research" Quest]].  The reward is {{Price|550}} and 1 [[Friendship]] heart.
+*Melon may be randomly requested in [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|750}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]]. Bugfix for Agriculturist stages of growth.}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+[[Category:Giant Crops]]
+
+[[de:Melone]]
+[[es:Melón]]
+[[fr:Melon]]
+[[it:Melone]]
+[[ja:メロン]]
+[[ko:멜론]]
+[[hu:Dinnye]]
+[[pt:Melão]]
+[[ru:Дыня]]
+[[tr:Kavun]]
+[[zh:甜瓜]]

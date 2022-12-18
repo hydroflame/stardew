@@ -1,0 +1,83 @@
+{{Infobox
+|eng         = Cauliflower
+|seed        = {{name|Cauliflower Seeds}}
+|growth      = 12 days
+|season      = Spring
+|xp          = 23 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 175
+|edibility   = 30
+}}
+'''Cauliflower''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Cauliflower Seeds]] after 12 days. Cauliflower is one of only three crops that can grow into a [[Crops#Giant Crops|giant crop]].
+
+==Stages==
+Cauliflower can become a [[Crops#Giant Crops|Giant Crop]].
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+|-
+|[[File:Cauliflower Stage 1.png|center|link=]]
+|[[File:Cauliflower Stage 2.png|center|link=]]
+|[[File:Cauliflower Stage 3.png|center|link=]]
+|[[File:Cauliflower Stage 4.png|center|link=]]
+|[[File:Cauliflower Stage 5.png|center|link=]]
+|[[File:Cauliflower Stage 6.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|4 Days
+|4 Days
+|1 Day
+|Total: 12 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Cauliflower}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|love=Maru
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Cauliflower is used in the {{Bundle|Spring Crops||y}} and may be an option for the {{Bundle|Quality remixed||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Cheese Cauliflower|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Cauliflower is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shirt159|link=Tailoring{{!}}Shirt And Belt|class=inline}}. It is a white dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+==Quests==
+*[[Jodi]] will request a fresh cauliflower by mail on [[Spring]] 19th, for the [[Quests#Jodi's Request|"Jodi's Request" Quest]].  The reward is {{Price|350}} and 1 [[Friendship]] heart.
+*Cauliflower may be randomly requested in [[Spring]] at the "Help Wanted" board outside [[Pierre's General Store]] for a reward of {{Price|525}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].  Bugfix for Agriculturist stages of growth.}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+[[Category:Vegetables]]
+[[Category:Giant Crops]]
+
+[[de:Blumenkohl]]
+[[es:Coliflor]]
+[[fr:Chou-fleur]]
+[[it:Cavolfiore]]
+[[ja:カリフラワー]]
+[[ko:콜리플라워]]
+[[hu:Karfiol]]
+[[pt:Couve-flor]]
+[[ru:Цветная капуста]]
+[[tr:Karnabahar]]
+[[zh:花椰菜]]

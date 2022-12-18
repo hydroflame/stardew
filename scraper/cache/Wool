@@ -1,0 +1,69 @@
+{{Infobox
+|eng        = Wool
+|source     = [[Rabbit]] • [[Sheep]]
+|sellprice  = 340
+}}
+'''Wool''' is an animal product obtained from a [[Rabbit]] or [[Sheep]].  It can also be available at the [[Traveling Cart]] for {{tprice|340}}. [[Emily]] may also send you one Wool in the mail as a gift.  Wool sells for a base price of {{Price|340}}.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Pam,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Willy,Krobus
+|dislike=Penny
+|love=Emily
+|like=Sandy
+}}
+
+==Bundles==
+Wool is one of the options for the {{Bundle|Animal||y}}.
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+Placing quality [[Wool]] into a [[Loom]] gives a higher chance to produce 2 Cloth.  Silver gives a 10% chance, gold gives a 25% chance, and iridium gives a 50% chance.
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Cloth.png]]
+|[[Cloth]]
+|{{Description|Cloth}}
+|style="text-align: center;"|[[File:Loom.png|center|40px]][[Loom]]
+|{{Duration|4 Hours}}
+|{{price|470}}
+|}
+
+==Recipes==
+Wool is not used in any recipes.
+
+==Tailoring==
+Wool is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a [[Tailoring|Plain Shirt]].
+*Male version: [[File:Shirt038.png|24px]]
+*Female version: [[File:Shirt041.png|24px]]
+It is a white dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+==Quests==
+*Wool may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|1020}} and 150 [[Friendship]] points.  Wool will never be requested unless you own a [[Rabbit]] or [[Sheep]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from 270g to 340g}}
+{{History|1.4|Add chance for double cloth from loom for quality wool.  Can now be used in [[Tailoring]].}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+
+[[de:Wolle]]
+[[es:Lana]]
+[[fr:Laine]]
+[[it:Lana]]
+[[ja:ウール]]
+[[ko:양털]]
+[[hu:Gyapjú]]
+[[pt:Lã]]
+[[ru:Шерсть]]
+[[tr:Yün]]
+[[zh:动物毛]]

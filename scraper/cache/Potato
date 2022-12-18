@@ -1,0 +1,84 @@
+{{Infobox
+|eng         = Potato
+|seed        = {{name|Potato Seeds}}
+|growth      = 6 days
+|season      = Spring
+|xp          = 14 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 80
+|edibility   = 10
+}}
+The '''Potato''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Potato Seeds]] after 6 days.
+
+==Stages==
+When harvested, each Potato plant gives 1 potato, with a random chance to produce extra potatoes, partially based on Daily [[Luck]].<ref name="extraluck" />
+{| class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+|-
+|[[File:Potato Stage 1.png|center|link=]]
+|[[File:Potato Stage 2.png|center|link=]]
+|[[File:Potato Stage 3.png|center|link=]]
+|[[File:Potato Stage 4.png|center|link=]]
+|[[File:Potato Stage 5.png|center|link=]]
+|[[File:Potato Stage 6.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|1 Day
+|2 Days
+|1 Day
+|Total: 6 Days
+|-
+|}
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Potato}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Potato is used in the {{Bundle|Spring Crops||y}} and may be an option for the {{Bundle|Quality remixed||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Hashbrowns|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+A Potato can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Shirt And Belt]].  [[File:Shirt159.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Potato may be randomly requested in [[Spring]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|240}} and 150 [[Friendship]] points.
+
+==Notes==
+<references>
+<ref name="extraluck">The game generates a random number between 0 and 1, and if it is less than 0.2, then another Potato will spawn. This repeats until the random number is greater than or equal to 0.2, at which point the chance for an extra Potato ends. This, on average, will give 0.25 extra Potatoes. Keep in mind that Daily Luck can also double the amount of extra Potatoes spawned by the above formula.</ref>
+</references>
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+[[Category:Vegetables]]
+
+[[de:Kartoffel]]
+[[es:Patata]]
+[[fr:Pomme de terre]]
+[[it:Patata]]
+[[ja:ジャガイモ]]
+[[ko:감자]]
+[[hu:Krumpli]]
+[[pt:Batata]]
+[[ru:Картофель]]
+[[tr:Patates]]
+[[zh:土豆]]

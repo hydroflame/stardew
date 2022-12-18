@@ -16,10 +16,16 @@ import { Collections } from "./Collections";
 import { Load, Save } from "./Save";
 import { FishPage } from "./FishPage";
 import { CookingPage } from "./CookingPage";
+import { ShippingCollectionModal } from "./ShippingCollectionModal";
+import { ShippingPage } from "./ShippingPage";
+import { MuseumPage } from "./MuseumPage";
+import { MuseumCollectionModal } from "./MuseumCollectionModal";
 
 enum SDVTab {
   FISHING,
   COOKING,
+  SHIPPING,
+  MUSEUM,
 }
 
 const App = (): React.ReactElement => {
@@ -27,6 +33,8 @@ const App = (): React.ReactElement => {
   const [season, setSeason] = useState<Season>(Season.SPRING);
   const [fishOpen, setFishOpen] = useState(false);
   const [cookingOpen, setCookingOpen] = useState(false);
+  const [shippingOpen, setShippingOpen] = useState(false);
+  const [museumOpen, setMuseumOpen] = useState(false);
   const [tab, setTab] = useState(SDVTab.FISHING);
 
   useEffect(() => {
@@ -45,6 +53,12 @@ const App = (): React.ReactElement => {
           </Button>
           <Button onClick={() => setCookingOpen(true)}>
             <Typography color="secondary">Open Cooking collection</Typography>
+          </Button>
+          <Button onClick={() => setShippingOpen(true)}>
+            <Typography color="secondary">Open Shipping collection</Typography>
+          </Button>
+          <Button onClick={() => setMuseumOpen(true)}>
+            <Typography color="secondary">Open Museum collection</Typography>
           </Button>
           <Select
             value={season}
@@ -65,6 +79,8 @@ const App = (): React.ReactElement => {
       >
         <Tab label="Fishing" />
         <Tab label="Cooking" />
+        <Tab label="Shipping" />
+        <Tab label="Museum" />
       </Tabs>
 
       <Box
@@ -87,6 +103,19 @@ const App = (): React.ReactElement => {
             setCollections={setCollections}
           />
         )}
+        {tab === SDVTab.SHIPPING && (
+          <ShippingPage
+            season={season}
+            collections={collections}
+            setCollections={setCollections}
+          />
+        )}
+        {tab === SDVTab.MUSEUM && (
+          <MuseumPage
+            collections={collections}
+            setCollections={setCollections}
+          />
+        )}
       </Box>
 
       <FishCollectionModal
@@ -98,6 +127,18 @@ const App = (): React.ReactElement => {
       <CookingCollectionModal
         open={cookingOpen}
         onClose={() => setCookingOpen(false)}
+        collections={collections}
+        setCollection={setCollections}
+      />
+      <ShippingCollectionModal
+        open={shippingOpen}
+        onClose={() => setShippingOpen(false)}
+        collections={collections}
+        setCollection={setCollections}
+      />
+      <MuseumCollectionModal
+        open={museumOpen}
+        onClose={() => setMuseumOpen(false)}
         collections={collections}
         setCollection={setCollections}
       />

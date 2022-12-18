@@ -1,0 +1,365 @@
+{{Infobox
+|eng        = Wood
+|source     = [[Trees]] • [[Carpenter's Shop]]
+|sellprice  = 2
+|quality    = false
+}}
+'''Wood''' is a basic [[:Category:Resources|resource]] that can be obtained by felling [[Trees]] and [[The Farm#Wood|branches]] with an [[Axes|axe]] or bought from [[Robin]] at the [[Carpenter's Shop]]. It can also be found in [[Fishing#Treasure Chests|Fishing Treasure Chests]].  Ninety-nine wood can also be received as a gift from [[Robin]] at the [[Feast of the Winter Star]].  One to 10 Wood can be produced in a [[Woodskip]] [[Fish Pond]], depending on the population of the pond. Wood can additionally be obtained from [[Wood Chipper|chipped]] [[Hardwood]] and from [[Recycling Machine|recycled]] or [[Wood Chipper|chipped]] [[Driftwood]].
+
+Felling a normal-sized tree will give you between 13 and 17 wood, depending on daily [[Luck]]. After felling the tree, you can also destroy the stump which will give you between 5 and 7 wood. Be careful, as felling trees near water can result in the loss of some, or all of the wood. To prevent this, you can destroy the tree standing on the side where you do not want the tree to fall to, as it will always fall away from you. Contrary to popular belief, stumps will never grow back into full trees, either on [[The Farm]] or in areas outside the Farm. There is only one exception to this: mushroom tree stumps on the farm will always regrow to full mushroom trees on Spring 1, whether they became stumps in the first place by chopping or by the change of seasons.
+
+==Uses==
+Wood can be spent on a variety of different things, including:
+* Building and upgrading buildings at the [[Carpenter's Shop]]
+* [[Crafting]] various items.
+* Creating 1 [[coal]] by placing 10 wood into the [[Charcoal Kiln]]
+* 198 Wood are used (in two stacks of 99) in the {{Bundle|Construction||y}}
+* 300 Wood are used for repairing the [[The_Beach#Tide Pools|tide pool bridge]] at the Beach.
+* 950 Wood are used for the [[Carpenter's Shop#Community Upgrades|Community Upgrade]]
+
+==Purchase Price==
+The price of wood at the [[Carpenter's Shop]] increases from {{price|10}} to {{price|50}} starting in year 2.  The player will receive a letter in the mail on Spring 1 of year 2 saying "Notice: The price of raw materials at [[Carpenter's Shop|Robin's shop]] and [[Blacksmith|Clint's shop]] has increased."  The gold obtained by selling wood to Robin or through the [[Shipping|Shipping Bin]] is unchanged.
+
+==Recipes==
+{{Spoiler}}
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Gate.png|center]]
+|[[Gate]]
+|{{Description|Gate}}
+|{{name|Wood|10}}
+|''Starter''
+|-
+|[[File:Wood Fence.png|center]]
+|[[Wood Fence]]
+|{{Description|Wood Fence}}
+|{{name|Wood|2}}
+|''Starter''
+|-
+|[[File:Wood Sign.png|center]]
+|[[Wood Sign]]
+|{{Description|Wood Sign}}
+|{{name|Wood|25}}
+|''Starter''
+|-
+|[[File:Mayonnaise Machine.png|center]]
+|[[Mayonnaise Machine]]
+|{{Description|Mayonnaise Machine}}
+|{{name|Wood|15}}{{name|Stone|15}}{{name|Earth Crystal|1}}{{name|Copper Bar|1}}
+|{{name|Farming Skill Icon|link=Farming|Level 2}}
+|-
+|[[File:Bee House.png|center]]
+|[[Bee House]]
+|{{Description|Bee House}}
+|{{name|Wood|40}}{{name|Coal|8}}{{name|Iron Bar|1}}{{name|Maple Syrup|1}}
+|{{name|Farming Skill Icon|link=Farming|Level 3}}
+|-
+|[[File:Preserves Jar.png|center]]
+|[[Preserves Jar]]
+|{{Description|Preserves Jar}}
+|{{name|Wood|50}}{{name|Stone|40}}{{name|Coal|8}}
+|{{name|Farming Skill Icon|link=Farming|Level 4}}
+|-
+|[[File:Cheese Press.png|center]]
+|[[Cheese Press]]
+|{{Description|Cheese Press}}
+|{{name|Wood|45}}{{name|Stone|45}}{{name|Hardwood|10}}{{name|Copper Bar|1}}
+|{{name|Farming Skill Icon|link=Farming|Level 6}}
+|-
+|[[File:Loom.png|center]]
+|[[Loom]]
+|{{Description|Loom}}
+|{{name|Wood|60}}{{name|Fiber|30}}{{name|Pine Tar|1}}
+|{{name|Farming Skill Icon|link=Farming|Level 7}}
+|-
+|[[File:Keg.png|center]]
+|[[Keg]]
+|{{Description|Keg}}
+|{{name|Wood|30}}{{name|Copper Bar|1}}{{name|Iron Bar|1}}{{name|Oak Resin|1}}
+|{{name|Farming Skill Icon|link=Farming|Level 8}}
+|-
+|[[File:Tapper.png|center]]
+|[[Tapper]]
+|{{Description|Tapper}}
+|{{name|Wood|40}}{{name|Copper Bar|2}}
+|{{Name|Foraging Skill Icon|link=Foraging|Level 3}}
+|-
+|[[File:Cork Bobber.png|center]]
+|[[Cork Bobber]]
+|{{Description|Cork Bobber}}
+|{{name|Wood|10}}{{name|Hardwood|5}}{{name|Slime|10}}
+|{{Name|Fishing Skill Icon|link=Fishing|Level 7}}
+|-
+|[[File:Wood Floor.png|center]]
+|[[Wood Floor]]
+|{{Description|Wood Floor}}
+|{{name|Wood|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|100}})
+|-
+|[[File:Straw Floor.png|center]]
+|[[Straw Floor]]
+|{{Description|Straw Floor}}
+|{{name|Wood|1}}{{name|Fiber|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|200}})
+|-
+|[[File:Rustic Plank Floor.png|center]]
+|[[Rustic Plank Floor]]
+|{{Description|Rustic Plank Floor}}
+|{{name|Wood|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|200}})
+|-
+|[[File:Weathered Floor.png|center]]
+|[[Weathered Floor]]
+|{{Description|Weathered Floor}}
+|{{name|Wood|1}}
+|[[File:Dwarf Icon.png|24px|link=]] [[Dwarf#Shop|Dwarf]] ({{price|500}})
+|-
+|[[File:Wood Path.png|center]]
+|[[Wood Path]]
+|{{Description|Wood Path}}
+|{{name|Wood|1}}
+|''Starter''
+|-
+|[[File:Flute Block.png|center]]
+|[[Flute Block]]
+|{{Description|Flute Block}}
+|{{name|Wood|10}}{{name|Copper Ore|2}}{{name|Fiber|20}}
+|[[File:Robin Icon.png|24px|link=]] [[Robin]] 6-heart event
+|-
+|[[File:Torch.png|center]]
+|[[Torch]]
+|{{Description|Torch}}
+|{{name|Wood|1}}{{name|Sap|2}}
+|''Starter''
+|-
+|[[File:Campfire.png|center]]
+|[[Campfire]]
+|{{Description|Campfire}}
+|{{name|Wood|10}}{{name|Stone|10}}{{name|Fiber|10}}
+|''Starter''
+|-
+|[[File:Wooden Brazier.png|center]]
+|[[Wooden Brazier]]
+|{{Description|Wooden Brazier}}
+|{{name|Wood|10}}{{name|Coal|1}}{{name|Fiber|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|250}})
+|-
+|[[File:Barrel Brazier.png|center]]
+|[[Barrel Brazier]]
+|{{Description|Barrel Brazier}}
+|{{name|Wood|50}}{{name|Solar Essence|1}}{{name|Coal|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|800}})
+|-
+|[[File:Wood Lamp-post.png|center]]
+|[[Wood Lamp-post]]
+|{{Description|Wood Lamp-post}}
+|{{name|Wood|50}}{{name|Battery Pack|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|500}})
+|-
+|[[File:Crab Pot.png|center]]
+|[[Crab Pot]]
+|{{Description|Crab Pot}}
+|{{name|Wood|40}}{{name|Iron Bar|3}}
+<span class="no-wrap">With [[Fishing#Fishing Skill|Trapper]] profession:</span> {{name|Wood|25}}{{name|Copper Bar|2}}
+|{{Name|Fishing Skill Icon|link=Fishing|Level 3}}
+|-
+|[[File:Chest.png|center]]
+|[[Chest]]
+|{{Description|Chest}}
+|{{name|Wood|50}}
+|''Starter''
+|-
+|[[File:Scarecrow.png|center]]
+|[[Scarecrow]]
+|{{Description|Scarecrow}}
+|{{name|Wood|50}}{{name|Coal|1}}{{name|Fiber|20}}
+|{{name|Farming Skill Icon|link=Farming|Level 1}}
+|-
+|[[File:Deluxe Scarecrow.png|center]]
+|[[Deluxe Scarecrow]]
+|{{Description|Deluxe Scarecrow}}
+|{{name|Wood|50}}{{name|Iridium Ore|1}}{{name|Fiber|40}}
+|Mail, after collecting all 8 [[Scarecrow#Rarecrows|Rarecrows]]
+|-
+|[[File:Seed Maker.png|center]]
+|[[Seed Maker]]
+|{{Description|Seed Maker}}
+|{{name|Wood|25}}{{name|Coal|10}}{{name|Gold Bar|1}}
+|{{name|Farming Skill Icon|link=Farming|Level 9}}
+|-
+|[[File:Charcoal Kiln.png|center]]
+|[[Charcoal Kiln]]
+|{{Description|Charcoal Kiln}}
+|{{name|Wood|20}}{{name|Copper Bar|2}}
+|{{Name|Foraging Skill Icon|link=Foraging|Level 4}}
+|-
+|[[File:Recycling Machine.png|center]]
+|[[Recycling Machine]]
+|{{Description|Recycling Machine}}
+|{{name|Wood|25}}{{name|Stone|25}}{{name|Iron Bar|1}}
+|{{Name|Fishing Skill Icon|link=Fishing|Level 4}}
+|-
+|[[File:Cask.png|center]]
+|[[Cask]]
+|{{Description|Cask}}
+|{{name|Wood|20}}{{name|Hardwood|1}}
+|[[Farmhouse]] cellar upgrade
+|-
+|[[File:Tub o' Flowers.png|48px|center]]
+|[[Tub o' Flowers]]
+|{{Description|Tub o' Flowers}}
+|{{name|Wood|15}}{{name|Tulip Bulb|1}}{{name|Jazz Seeds|1}}{{name|Poppy Seeds|1}}{{name|Spangle Seeds|1}}
+|class="no-wrap"|[[File:Pierre Icon.png|24px|link=]] [[Pierre]]'s stand at [[Flower Dance]] ({{price|1000}})
+|-
+|[[File:Tea Sapling.png|center]]
+|[[Tea Sapling]]
+|{{Description|Tea Sapling}}
+|{{name|Wood|5}}[[Crafting#Seeds|Wild Seeds]] (Any) (2){{name|Fiber|5}}
+|Mail after [[File:Caroline Icon.png|24px|link=]] [[Caroline]]'s 2+ [[File:HeartIconLarge.png|16px|link=|alt=heart]] event
+|-
+|[[File:Cookout Kit.png|center]]
+|[[Cookout Kit]]
+|{{Description|Cookout Kit}}
+|{{name|Wood|15}}{{name|Coal|3}}{{name|Fiber|10}}
+|{{Name|Foraging Skill Icon|link=Foraging|Level 9}}
+|}
+
+==Buildings==
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Houses
+!Cost
+!Size
+|-
+|[[File:House (tier 2).png|72px|center]]
+|House Upgrade 1
+|Increase house size and adds a Kitchen.
+|
+|{{price|10000}}{{name|Wood|450}}
+|
+|-
+|[[File:Barn.png|72px|center]]
+|[[Barn]]
+|{{Description|Barn}}
+|[[Cow]]s
+|data-sort-value="06000"|{{price|6000}}{{name|Wood|350}}{{name|Stone|150}}
+|data-sort-value="28" style="text-align: center;"|'''7x4'''<br />[[File:Marker4x7.png|center]]
+|-
+|[[File:Big Barn.png|72px|center]]
+|[[Barn|Big Barn]]
+|{{Description|Big Barn}}
+|[[Goat]]s
+|data-sort-value="12000"|{{price|12000}}{{name|Wood|450}}{{name|Stone|200}}
+|data-sort-value="28" style="text-align: center;"|'''7x4'''<br />[[File:Marker4x7.png|center]]
+|-
+|[[File:Deluxe Barn.png|72px|center]]
+|[[Barn|Deluxe Barn]]
+|{{Description|Deluxe Barn}}
+|[[Sheep]]
+[[Pig]]s
+|data-sort-value="25000"|{{price|25000}}{{name|Wood|550}}{{name|Stone|300}}
+|data-sort-value="28" style="text-align: center;"|'''7x4'''<br />[[File:Marker4x7.png|center]]
+|-
+|[[File:Coop.png|72px|center]]
+|[[Coop]]
+|{{Description|Coop}}
+|[[Chicken]]s
+|data-sort-value="04000"|{{price|4000}}{{name|Wood|300}}{{name|Stone|100}}
+|data-sort-value="18" style="text-align: center;"|'''6x3'''<br />[[File:Marker3x6.png|center]]
+|-
+|[[File:Big Coop.png|72px|center]]
+|[[Coop|Big Coop]]
+|{{Description|Big Coop}}
+|[[Duck]]s
+[[Dinosaur]]s
+|data-sort-value="10000"|{{price|10000}}{{name|Wood|400}}{{name|Stone|150}}
+|data-sort-value="18" style="text-align: center;"|'''6x3'''<br />[[File:Marker3x6.png|center]]
+|-
+|[[File:Deluxe Coop.png|72px|center]]
+|[[Coop|Deluxe Coop]]
+|{{Description|Deluxe Coop}}
+|[[Rabbit]]s
+|data-sort-value="20000"|{{price|20000}}{{name|Wood|500}}{{name|Stone|200}}
+|data-sort-value="18" style="text-align: center;"|'''6x3'''<br />[[File:Marker3x6.png|center]]
+|-
+|[[File:Mill.png|60px|center]]
+|[[Mill]]
+|{{Description|Mill}}
+|
+|data-sort-value="02500"|{{price|2500}}{{name|Stone|50}}{{name|Wood|150}}{{name|Cloth|4}}
+|data-sort-value="08" style="text-align: center;"|'''4x2'''<br />[[File:Marker4x2.png|center]]
+|-
+|[[File:Shed.png|72px|center]]
+|[[Shed]]
+|{{Description|Shed}}
+|
+|data-sort-value="15000"|{{price|15000}}{{name|Wood|300}}
+|data-sort-value="21" style="text-align: center;"|'''7x3'''<br />[[File:Marker7x3.png|center]]
+|-
+|[[File:Big_Shed.png|72px|center]]
+|[[Shed|Big Shed]]
+|{{Description|Big Shed}}
+|
+|data-sort-value="20000"|{{price|20000}}{{name|Wood|550}}{{name|Stone|300}}
+|data-sort-value="21" style="text-align: center;"|'''7x3'''<br />[[File:Marker7x3.png|center]]
+|-
+|[[File:Plank Cabin Stage 1.png|72px|center]]
+|[[Cabin|Plank Cabin]]
+|{{Description|Cabin}}
+|1 Farmhand in a [[Multiplayer]] game.
+|data-sort-value="00100"|{{price|100}}{{name|Wood|5}}{{name|Fiber|10}}
+|data-sort-value="15" style="text-align: center;"|'''5x3'''<br />[[File:Marker5x3.png|center]]
+|-
+|[[File:Log Cabin Stage 1.png|72px|center]]
+|[[Cabin|Log Cabin]]
+|{{Description|Cabin}}
+|1 Farmhand in a [[Multiplayer]] game.
+|data-sort-value="00100"|{{price|100}}{{name|Wood|10}}
+|data-sort-value="15" style="text-align: center;"|'''5x3'''<br />[[File:Marker5x3.png|center]]
+|-
+|[[File:ShippingBox.png|72px|center]]
+|[[Shipping|Shipping Bin]]
+|{{Description|Shipping Bin}}
+|
+|data-sort-value="00250"|{{price|250}}{{name|Wood|150}}
+|data-sort-value="02" style="text-align: center;"|'''2x1'''<br />[[File:Marker2x1.png|center]]
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+}}
+
+==Tailoring==
+Wood is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable [[Tailoring|Basic Pullover]].
+*Male version: [[File:Shirt176.png|24px]]
+*Female version: [[File:Shirt177.png|24px]]
+It is a brown dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the orange dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==History==
+{{History|1.3.27|Increased price of wood at [[Carpenter's Shop]] from {{price|10}} in year 1 to {{price|50}} in year 2+. Added [[Wood Sign]] recipe.}}
+{{History|1.4|The [[Foraging#Foraging Skill|Forester Profession]] no longer increases the sale price of Wood. Added [[Deluxe Scarecrow]] and [[Tea Sapling]] recipes. Can now be used in [[Tailoring]]. Can be produced by [[Fish Pond]]s.}}
+{{History|1.5|Used as an ingredient to the [[Cookout Kit]] recipe.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Holz]]
+[[es:Madera]]
+[[fr:Bois]]
+[[it:Legno]]
+[[ja:木材]]
+[[ko:나무]]
+[[hu:Fa]]
+[[pt:Madeira]]
+[[ru:Древесина]]
+[[tr:Odun]]
+[[zh:木材]]

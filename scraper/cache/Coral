@@ -1,0 +1,106 @@
+{{Infobox fish
+|eng       = Coral
+|source    = [[Foraging]]
+|location  = [[The Beach]] • [[Ginger Island#Island West|Ginger Island West]]
+|season    = All
+|edibility = -300
+|price     = 80
+|professions = false
+}}
+'''Coral''' is a [[Foraging|forageable]] item found year-round in the [[The Beach#Tide Pools|Tide Pool]] section of [[the Beach]], ''i.e.,'' to the east of the wooden footbridge<ref name="location" />.  During [[Summer]] 12-14, extra Coral appears anywhere on the beach (including possibly the western section).
+
+The average spawn rate for Coral in the tide pool section of the beach is 0.93/day. An additional 3.2 (on average) Coral per day will spawn during Summer 12-14.  These spawn rates are not affected by the presence of other forageable items on the beach; in particular, Coral are not part of the standard six item per map limit on forageable items. 7 [[Foraging]] XP are granted for every Coral picked up, and all Foraging bonuses apply to Coral.
+
+Several [[Crab Pot]] [[fish]] may produce 1 Coral in a [[Fish Pond]] when the population of the pond reaches 5.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Elliott,Gus,Dwarf,Wizard,Sandy,Willy,Krobus,Marnie
+|hate=Evelyn,Harvey
+}}
+
+==Bundles==
+Coral is not used in any [[Bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration,restores}}
+{{:Deluxe Speed-Gro|RecipeRow/NoBuffsHealthEnergy}}
+{{:Warp Totem: Beach|RecipeRow/NoBuffsHealthEnergy}}
+{{Recipes|footer}}
+
+==Buildings==
+Ten coral are required to purchase the [[Water Obelisk]] from the [[Wizard's Tower]].
+
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Water Obelisk.png|48px|center]]
+|[[Water Obelisk]]
+|{{Description|Water Obelisk}}
+|{{Price|500000}}{{name|Iridium Bar|5}}{{name|Clam|10}}{{name|Coral|10}}
+|style="text-align: center;"|'''3x2'''<br />[[File:Marker3x2.png|center|3x2]]
+|}
+
+==Tailoring==
+Coral can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Strapped Top]].  [[File:Shirt139.png|24px]] It can be also used as a red dye color at the dye pots in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Although Coral is not otherwise considered to be [[fish]], it can be placed in a [[Fish Pond]], where it will reproduce every 2 days. The initial pond capacity is 10 Coral; no quests are necessary to increase the pond capacity. Instead of producing [[Roe]], Coral ponds produce [[Dolomite]] and [[Limestone]], but only once the population reaches 9.
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|data-sort-value="Dolomite"| {{Name|Dolomite|1}}
+| 130
+| 9-10 || 6%      || 5-6%
+|-
+|data-sort-value="Limestone"| {{Name|Limestone|1}}
+| 16
+| 9-10 || 6%      || 5%
+|-
+|rowspan="2" data-sort-value="ZZZZ"| ''Nothing''
+|rowspan="2"| 
+| 1-8  || 100%    || 100%
+|-
+| 9-10 || 88%     || 90-89%
+|}
+
+==Quests==
+One to three Coral may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+
+==References==
+<references>
+<ref name="location">See <samp>Beach::DayUpdate</samp> in the game code.  The spawn position starts at point (65,11) on the beach map.</ref>
+</references>
+
+==History==
+{{History|1.1|Used as a building material to the [[Water Obelisk]].}}
+{{History|1.4|Can now be used in [[Tailoring]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]]. Can be produced by Fish Ponds. Can be added to Fish Ponds.}}
+{{History|1.5|Can now be used as decoration in [[Fish Tank]]s.}}
+{{History|1.5.2|Now benefits from the Botanist profession. Now considered red for dyes.}}
+
+{{NavboxForaging}}
+
+[[Category:Beach Forage]]
+
+[[de:Koralle]]
+[[es:Coral]]
+[[fr:Corail]]
+[[it:Corallo]]
+[[ja:サンゴ]]
+[[ko:산호]]
+[[hu:Korall]]
+[[pt:Coral]]
+[[ru:Коралл]]
+[[tr:Mercan]]
+[[zh:珊瑚]]

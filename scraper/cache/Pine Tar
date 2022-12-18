@@ -1,0 +1,63 @@
+{{Infobox
+|eng         = Pine Tar
+|source      = [[Crafting]]
+|season      = All
+|sellprice   = 100
+|quality     = false
+|edibility   = -300
+|craftingstation = {{name|Tapper}}
+|crafttime   = 5-6 days
+|ingredients = [[Pine Tree]]
+}}
+'''Pine Tar''' is a [[Trees|Tree]] sap made from a [[Tapper]] placed on a [[Pine Tree]]. The process takes {{duration|5-6 days|class=inline}}.
+
+Pine Tar can be obtained by tapping [[Pine Tree]]s growing on [[The Farm]] or growing naturally in Stardew Valley (''e.g.,'' in [[Cindersap Forest]], the [[Railroad]], around the [[Carpenter's Shop]]). It can also rarely be obtained after processing [[Hardwood]] in a [[Wood Chipper]].
+
+Although Pine Tar is labeled "Artisan Good" in-game, it does not benefit from the [[Skills#Farming|Artisan Profession]], but instead from the [[Skills#Foraging|Tapper Profession]] (+25% value).
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|like=Maru
+}}
+
+==Bundles==
+Pine Tar is one of the options for the {{Bundle|Exotic||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration,restores}}
+|-
+|[[File:Loom.png|center]]
+|[[Loom]]
+|{{Description|Loom}}
+|{{name|Wood|60}}{{name|Fiber|30}}{{name|Pine Tar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 7
+|data-sort-value="0000"|N/A
+{{:Speed-Gro|RecipeRow/NoBuffsHealthEnergy}}
+{{:Rain Totem|RecipeRow/NoBuffsHealthEnergy}}
+{{Recipes|Footer}}
+
+==Tailoring==
+Pine Tar can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{name|Floppy Beanie|class=inline}}. It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+One Pine Tar may be requested by [[Woodskip]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in a Fish Pond quest.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Kiefernteer]]
+[[es:Brea de pino]]
+[[fr:Goudron de pin]]
+[[it:Catrame di pino]]
+[[ja:マツやに]]
+[[ko:소나무 타르]]
+[[hu:Fenyőkátrány]]
+[[pt:Alcatrão de pinho]]
+[[ru:Сосновая смола]]
+[[tr:Çam Katranı]]
+[[zh:松焦油]]

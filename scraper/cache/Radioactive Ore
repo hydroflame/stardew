@@ -1,0 +1,77 @@
+{{Spoiler}}
+{{Infobox
+|eng         = Radioactive Ore
+|source      = [[The Mines]] • [[Skull Cavern]] 
+|sellprice   = 300
+|quality     = false
+}}
+'''Radioactive Ore''' is a [[:Category:Resources|resource]] found in [[Mining#Mining Nodes|Radioactive Nodes]].
+
+==Locations==
+* [[Mining#Mining Nodes|Radioactive Nodes]] in [[The Mines]] during [[Quests#Danger In The Deep|Danger In The Deep]] quest or after activating the [[The Mines#Shrine of Challenge|Shrine of Challenge]] on floor 120 to increase the difficulty.
+* Radioactive Nodes in [[Skull Cavern]] during [[Quests#Skull Cavern Invasion|Skull Cavern Invasion]] quest.
+
+The chance of finding Radioactive Nodes in either location increases as one goes deeper into the mine, and also with [[Luck|Daily Luck and Luck Buffs]].  It is most strongly affected by Daily Luck, and only slightly affected by depth in the mine and Luck Buffs.<ref name="probability" />
+
+==Smelting==
+Radioactive Ore can be smelted in a [[Furnace]] to create a [[Radioactive Bar]].  The smelting requires 5 Radioactive Ore and 1 [[Coal]] and takes 10 in-game hours.
+
+==Crafting==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Hyper Speed-Gro.png|center]]
+|[[Hyper Speed-Gro]]
+|{{Description|Hyper Speed-Gro}}
+|{{name|Radioactive Ore|1}}{{name|Bone Fragment|3}}{{name|Solar Essence|1}}
+|[[Qi's Walnut Room]] for {{price|30|Gem}}
+|-
+|[[File:Magic Bait.png|center]]
+|[[Magic Bait]]
+|{{Description|Magic Bait}}
+|{{name|Radioactive Ore|1}}{{name|Bug Meat|3}}
+|[[Qi's Walnut Room]] for {{price|20|Gem}}
+|}
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Clint,Sam,Leo
+|like=Maru
+}}
+
+==Tailoring==
+Radioactive Ore is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Turtleneck Sweater]].  [[File:Shirt178.png|24px]] It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Radioactive Ore is not used in any quests.
+
+==Trivia==
+Radioactive Ore is currently the only ore in the game that cannot be used as ammunition in a [[Weapons#Slingshot|Slingshot]].
+
+==References==
+<references>
+    <ref name="probability">See <samp>Locations.MineShaft::chooseStoneType</samp> in the game code.</ref>
+</references>
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Radioaktives Erz]]
+[[es:Mineral radiactivo]]
+[[fr:Minerai radioactif]]
+[[it:Minerale radioattivo grezzo]]
+[[ja:放射性の鉱石]]
+[[ko:방사능 광석]]
+[[hu:Radioaktív érc]]
+[[pt:Minério Radioativo]]
+[[ru:Радиоактивная руда]]
+[[tr:Radyoaktif Cevher]]
+[[zh:放射性矿石]]

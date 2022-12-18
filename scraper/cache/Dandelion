@@ -1,0 +1,72 @@
+{{Infobox
+|eng         = Dandelion
+|source      = [[Foraging]] • [[Spring Seeds]] • [[Flower Dance]]
+|season      = Spring
+|sellprice   = 40
+|edibility   = 10
+|xp          = <nowiki />
+*[[Foraging]]: 7 [[Foraging#Experience Points|Foraging XP]]
+*[[Spring Seeds]]: 7 [[Foraging#Experience Points|Foraging XP]]
+*[[Flower Dance]]: 0
+}}
+The '''Dandelion''' is found via [[foraging]] in the [[Spring]], or grown from [[Spring Seeds]]. Up to ten can also be purchased from [[Pierre]] at the [[Flower Dance]]. Although it is a flower in its description (and in real life), the game classifies it as "Forage" and not "Flower."
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Kent,Alex,Evelyn,Lewis,Clint,Pam,Emily,Marnie,Gus,Sandy
+|dislike=Sebastian,Caroline,Haley,Jas,Vincent,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus,Leo
+|like=Linus,Pierre,Penny,Leah,Harvey
+|hate=George,Jodi
+}}
+
+==Recipes==
+===Cooking===
+{{Recipes|header|hide=buff,duration}}
+{{:Salad|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+===Crafting===
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Spring Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Sp)]]
+||{{Description|Spring Seeds}}<br />''(Produces 10 Spring Seeds per craft.)''
+|{{name|Wild Horseradish|1}}{{name|Daffodil|1}}{{name|Leek|1}}{{name|Dandelion|1}}
+|class="no-wrap"|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 1
+|{{price|35}}
+|-
+|}
+
+==Bundles==
+Dandelion is used in the {{Bundle|Spring Foraging||y}}.
+
+==Tailoring==
+Dandelion is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt002|link=Tailoring{{!}}Mint Blouse|class=inline}}. It is a yellow dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]], for use in [[dyeing]].
+
+==Quests==
+*Dandelion may be randomly requested during [[Spring]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|120}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Spring Forage]]
+
+[[de:Löwenzahn]]
+[[es:Diente de león]]
+[[fr:Pissenlit]]
+[[it:Tarassaco]]
+[[ja:タンポポ]]
+[[ko:민들레]]
+[[hu:Pitypang]]
+[[pt:Dente-de-leão]]
+[[ru:Одуванчик]]
+[[tr:Kara Hindiba]]
+[[zh:蒲公英]]

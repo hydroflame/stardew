@@ -1,0 +1,87 @@
+{{Infobox
+|eng         = Ancient Fruit
+|seed        = {{name|Ancient Seeds}}
+|growth      = 28 days
+|season      = {{Season|Spring}} • {{Season|Summer}} • {{Season|Fall}}
+|xp          = 38 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 550
+|edibility   = -300
+}}
+The '''Ancient Fruit''' is a [[Fruits|fruit]] [[Crops|crop]] that grows from [[Ancient Seeds]] after 28 days. Thereafter, the mature plant yields another Ancient Fruit every 7 days. Seeds can be obtained from a variety of sources (see [[Ancient Seeds]]).
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Ancient Fruit Stage 1.png|center|link=]]
+|[[File:Ancient Fruit Stage 2.png|center|link=]]
+|[[File:Ancient Fruit Stage 3.png|center|link=]]
+|[[File:Ancient Fruit Stage 4.png|center|link=]]
+|[[File:Ancient Fruit Stage 5.png|center|link=]]
+|[[File:Ancient Fruit Stage 6.png|center|link=]]
+|[[File:Ancient Fruit Stage 7.png|center|link=]]
+|-
+|2 Days
+|7 Days
+|7 Days
+|7 Days
+|5 Days
+|Total: 28 Days
+|Regrowth: 7 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Ancient Fruit}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Leo,Lewis,Clint,Penny,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent
+}}
+
+==Bundles==
+* Five gold quality Ancient Fruit are an option for {{bundle|missing||y}}.
+* Ancient Fruit is one of the options for {{Bundle|rare crops||y}}.
+
+==Recipes==
+Ancient Fruit is not used in any recipes.
+
+==Tailoring==
+Ancient Fruit can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Genie Pants]]. [[File:Genie Pants.png|36px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Ancient Fruit is not used in any quests.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Reduced value to 550g, down from 750g.}}
+{{History|1.4|Added as option for the Missing Bundle.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].  Bugfix for stages of growth (25% non-Agriculturist, 20% and 35% Agriculturist). Now used in the remixed Rare Crops bundle.}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+[[Category:Summer crops]]
+[[Category:Fall crops]]
+[[Category:Multi-Seasonal crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Uralte Frucht]]
+[[es:Fruta milenaria]]
+[[fr:Fruit ancien]]
+[[it:Frutto antico]]
+[[ja:古代のフルーツ]]
+[[ko:고대 과일]]
+[[hu:Ősi gyümölcs]]
+[[pt:Fruta antiga]]
+[[ru:Древний плод]]
+[[tr:Eski Meyve]]
+[[zh:上古水果]]

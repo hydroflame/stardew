@@ -1,0 +1,77 @@
+{{Infobox
+|eng         = Kale
+|seed        = {{name|Kale Seeds}}
+|growth      = 6 days
+|season      = Spring
+|xp          = 17 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 110
+|edibility   = 20
+}}
+'''Kale''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Kale Seeds]] after 6 days. Kale is harvested using a [[Scythe]].
+
+==Stages== 
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Kale Stage 1.png|center|link=]]
+|[[File:Kale Stage 2.png|center|link=]]
+|[[File:Kale Stage 3.png|center|link=]]
+|[[File:Kale Stage 4.png|center|link=]]
+|[[File:Kale Stage 5.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|2 Days
+|1 Day
+|Total: 6 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Kale}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Kale is not used in any [[Bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Salmon Dinner|RecipeRow/NoBuffs}}
+{{:Stir Fry|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Kale is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shirt159|link=Tailoring{{!}}Shirt And Belt|class=inline}}. It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*Kale may be randomly requested in [[Spring]] (year 2+) at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|330}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+[[Category:Vegetables]]
+
+[[de:Grünkohl]]
+[[es:Col rizada]]
+[[fr:Chou frisé]]
+[[it:Cavolo verde]]
+[[ja:ケール]]
+[[ko:케일]]
+[[hu:Vadkáposzta]]
+[[pt:Couve]]
+[[ru:Кудрявая капуста]]
+[[tr:Lahana]]
+[[zh:甘蓝菜]]

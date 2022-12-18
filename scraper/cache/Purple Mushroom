@@ -1,0 +1,68 @@
+{{Infobox
+|eng         = Purple Mushroom
+|source      = [[The Mines]] • [[The Cave]] • [[Mushroom Tree]]
+|season      = All
+|edibility   = 50
+|sellprice   = 250
+|xp          = <nowiki />
+*The Mines: 7 [[Foraging#Experience Points|Foraging XP]]
+*The Farm Cave: 0
+*Mushroom Trees: 0
+}}
+The '''Purple Mushroom''' can be found:
+*via [[foraging]] in [[The Mines]] (starting at level 81) or the [[Skull Cavern]].
+*at a tapped or chopped [[Mushroom Tree]].
+*grown in the [[The Cave|Farm Cave]] if converted for mushrooms (2.5% chance).
+*as a possible gift at the [[Feast of the Winter Star]] from any adult except Clint, Evelyn, Marnie, Robin, or Willy.
+*occasionally in a [[Garbage Can]] after the player has reached level 40 of the Mines.
+*occasionally at the [[Traveling Cart]] for {{tprice|250}}.
+*through the mail from the [[Wizard]] at any [[friendship]] level greater than zero friendship points.
+*on the [[Farm Maps|Forest Farm Map]] during [[Fall]] (25% chance).
+*in the [[Ginger Island#Dig Site|Ginger Island mushroom cave]]
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Maru,Abigail,Alex,George,Evelyn,Lewis,Clint,Pam,Emily,Kent,Marnie,Gus,Sandy
+|like=Demetrius,Linus,Leah,Harvey
+|dislike=Sebastian,Pierre,Caroline,Penny,Haley,Jas,Vincent,Jodi,Sam,Shane,Elliott,Dwarf,Willy,Krobus,Leo
+|love=Wizard
+}}
+
+==Bundles==
+Purple Mushroom is used in
+* The {{Bundle|Field Research||y}}.
+* one of the options for the {{Bundle|Exotic||y}} '''or''' the {{Bundle|Wild Medicine||y}}.
+
+==Recipes==
+Despite the numbers listed on the tooltip, the [[Life Elixir]] will fully restore [[Health]] to maximum regardless of how low it is.
+{{Recipes|header|hide=buff,duration}}
+{{:Life Elixir|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Purple Mushroom is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt099|link=Tailoring{{!}}Shirt|class=inline}}. It is a purple dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the purple dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*The Purple Mushroom may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|750}} and 150 [[Friendship]] points.  Purple Mushroom will never be requested until you have reached the bottom of [[The Mines]].
+*2-3 Purple Mushrooms may be requested by [[Catfish]], [[Octopus]], [[Rainbow Trout]], [[Spook Fish]], or [[Super Cucumber]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Can be found in the Ginger Island mushroom cave.}}
+
+{{NavboxForaging}}
+
+[[Category:Mines Forage]]
+[[Category:Mushrooms]]
+
+[[de:Violetter Pilz]]
+[[es:Seta lila]]
+[[fr:Champignon violet]]
+[[it:Fungo viola]]
+[[ja:むらさきキノコ]]
+[[ko:보라색 버섯]]
+[[hu:Lila gomba]]
+[[pt:Cogumelo roxo]]
+[[ru:Фиолетовый гриб]]
+[[tr:Mor Mantar]]
+[[zh:紫蘑菇]]

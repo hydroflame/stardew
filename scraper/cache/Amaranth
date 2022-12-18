@@ -1,0 +1,77 @@
+{{Infobox
+|eng         = Amaranth
+|seed        = {{name|Amaranth Seeds}}
+|growth      = 7 days
+|season      = Fall
+|xp          = 21 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 150
+|edibility   = 20
+}}
+'''Amaranth''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Amaranth Seeds]] after 7 days. Amaranth is harvested using a [[Scythe]].
+
+==Stages== 
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Amaranth Stage 1.png|center|link=]]
+|[[File:Amaranth Stage 2.png|center|link=]]
+|[[File:Amaranth Stage 3.png|center|link=]]
+|[[File:Amaranth Stage 4.png|center|link=]]
+|[[File:Amaranth Stage 5.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|2 Days
+|2 Days
+|Total: 7 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Amaranth}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Caroline,Abigail,Haley,Jas,Vincent,Sam
+|hate=Elliott
+}}
+
+==Bundles==
+Amaranth is one of the options for the {{Bundle|dye remixed||y}}.
+
+==Recipes==
+{{Recipes|Header|hide=buff,duration}}
+{{:Salmon Dinner|RecipeRow/NoBuffs}}
+{{Recipes|Footer}}
+
+==Tailoring==
+Amaranth is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shirt141|link=Tailoring{{!}}Crop Top Shirt|class=inline}}. It is a pale violet red dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the purple dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*Amaranth is requested by [[Marnie]] in a letter on the 3rd of [[Fall]] for the [[Quests#Cow's Delight|"Cow's Delight" Quest]].  The reward is {{Price|500}} and 1 [[Friendship]] heart.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Fall crops]]
+[[Category:Vegetables]]
+
+[[de:Amarant]]
+[[es:Amaranto]]
+[[fr:Amarante]]
+[[it:Amaranto]]
+[[ja:アマランサス]]
+[[ko:아마란스]]
+[[hu:Amaránt]]
+[[pt:Amaranto]]
+[[ru:Амарант]]
+[[tr:Horozibiği]]
+[[zh:苋菜]]

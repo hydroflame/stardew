@@ -1,0 +1,77 @@
+{{Infobox
+|eng             = Cloth
+|source          = <ul><li>[[Artisan Goods]]</li><li>[[Recycling Machine|Recycling]]</li><li>[[Mummy]]</li><li>[[Desert Trader]]</li></ul>
+|ingredients     = {{name|Wool|1}}
+|sellprice       = 470
+|quality         = false
+|craftingstation = {{name|Loom}}
+|crafttime       = 240m (&#8776;4h)
+}}
+'''Cloth''' is an [[Artisan Goods|Artisan Good]] made from the [[Loom]] using [[Wool]], taking 4 hours.  It can also be made by recycling a [[Soggy Newspaper]] using the [[Recycling Machine]], or dropped from [[Mummy|Mummies]] when slain.  [[Emily]] may occasionally send you a Cloth in the mail. The [[Desert Trader]] will trade three [[Aquamarine]]s for one cloth on Wednesdays.
+
+Placing quality [[Wool]] into a [[Loom]] gives a chance to produce 2 Cloth.  Silver gives a 10% chance, gold gives a 25% chance, and iridium gives a 50% chance.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Haley,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|hate=Sebastian,Jas,Vincent
+|love=Emily
+}}
+
+==Bundles==
+Cloth is an option for the {{Bundle|Artisan||y}}.
+
+==Crafting==
+In addition to [[Tailoring]] clothing, cloth is used to make the following items:
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Dressed Spinner.png|center]]
+|[[Dressed Spinner]]
+|{{Description|Dressed Spinner}}
+|{{name|Iron Bar|2}}{{name|Cloth|1}}
+|class="no-wrap"|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 8
+|-
+|}
+
+==Building==
+Cloth is required to purchase the following buildings from the [[Carpenter's Shop]]:
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+|-
+|[[File:Mill.png|48px|center]]
+|[[Mill]]
+|{{Description|Mill}}
+|{{name|Stone|50}}{{name|Wood|150}}{{name|Cloth|4}}
+|}
+
+==Quests==
+Cloth is not used in any quests.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from 375g to 470g}}
+{{History|1.4|Added ability to [[Tailoring|tailor]] clothing using cloth.  Increased drop rate from [[Mummy|mummies]].  Added chance for double cloth from loom for quality wool.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Stoff]]
+[[es:Tela]]
+[[fr:Tissu]]
+[[it:Stoffa]]
+[[ja:布]]
+[[ko:옷감]]
+[[hu:Szövet]]
+[[pt:Tecido]]
+[[ru:Ткань]]
+[[tr:Kumaş]]
+[[zh:布料]]

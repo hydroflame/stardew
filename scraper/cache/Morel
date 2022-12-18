@@ -1,0 +1,56 @@
+{{Infobox
+|eng       = Morel
+|source    = [[Foraging]] • [[The Cave|The Farm Cave]]
+|location  = [[Secret Woods]]
+|season    = Spring
+|edibility = 8
+|sellprice = 150
+|xp        = <nowiki />
+*Foraging: 7 [[Foraging#Experience Points|Foraging XP]]
+*The Farm Cave: 0
+}}
+The '''Morel''' is a mushroom found in the [[Spring]] via [[foraging]] in the [[Secret Woods]] or on the [[The Farm#Farm Maps|Forest Farm]]. It can also be found in the [[the Cave]] after choosing the mushroom option.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Kent,Marnie,Gus,Sandy
+|dislike=Sebastian,Pierre,Caroline,Haley,Jas,Vincent,Jodi,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus
+|like=Linus,Leah,Harvey
+|hate=Leo
+}}
+
+==Bundles==
+The Morel is one of the options for the {{Bundle|Exotic||y}}.
+
+==Recipes==
+Note:  Despite the numbers listed on the tooltip, the [[Life Elixir]] will fully restore [[Health]] to maximum regardless of how low it is.
+{{Recipes|header}}
+{{:Fried Mushroom|RecipeRow}}
+{{:Life Elixir|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+The Morel is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Morel Shirt]].  [[File:Shirt257.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+The Morel is not used in any [[quests]].
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Spring Forage]]
+[[Category:Mushrooms]]
+
+[[de:Morchel]]
+[[es:Colmenilla]]
+[[fr:Morille]]
+[[it:Spugnola]]
+[[ja:アミガサタケ]]
+[[ko:곰보버섯]]
+[[hu:Kucsmagomba]]
+[[pt:Morel]]
+[[ru:Сморчок]]
+[[tr:Kuzumantarı]]
+[[zh:羊肚菌]]

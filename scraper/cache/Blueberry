@@ -1,0 +1,102 @@
+{{Infobox
+|eng         = Blueberry
+|seed        = {{name|Blueberry Seeds}}
+|growth      = 13 days
+|season      = Summer
+|xp          = 10 [[Farming#Experience Points|Farming XP]] per harvest
+|sellprice   = 50
+|edibility   = 10
+}}
+The '''Blueberry''' is a [[Fruits|fruit]] [[Crops|crop]] that grows from [[Blueberry Seeds]] after 13 days.  A [[Preserves Jar]] can make Blueberries into jelly, and a [[Keg]] can make them into wine, which can then be aged in a [[Cask]]. When sold, blueberry prices benefit from the [[Farming#Farming Skill|Tiller profession]], and its jelly and wine prices benefit from the [[Farming#Farming Skill|Artisan profession]].
+
+==Stages==
+Each harvest yields 3 Blueberries, with a 2% chance of more blueberries. You can walk through blueberries.
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Blueberry Stage 1.png|center|link=]]
+|[[File:Blueberry Stage 2.png|center|link=]]
+|[[File:Blueberry Stage 3.png|center|link=]]
+|[[File:Blueberry Stage 4.png|center|link=]]
+|[[File:Blueberry Stage 5.png|center|link=]]
+|[[File:Blueberry Stage 6.png|center|link=]]
+|[[File:Blueberry Stage 7.png|center|link=]]
+|-
+|1 Day
+|3 Days
+|3 Days
+|4 Days
+|2 Days
+|Total: 13 Days
+|Regrowth: 4 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Blueberry}}
+
+==Fertilizer==
+[[Basic Fertilizer]] and [[Quality Fertilizer]] only affect the first berry from every harvest, which means 2 out of 3 berries harvested from each bush are going to be regular quality crops. That makes [[Speed-Gro]] an optimal fertilizer for this crop, as it gives one extra harvest before the Fall (assuming planting on day 1 of the summer), increasing season earnings from Blueberry by 25% compared to at most 6% with [[Quality Fertilizer]].<ref name="qual_price" />
+
+Deluxe Speed-Gro yields the same number of harvests as regular Speed-Gro, usually at a higher cost.  (One exception is purchasing Deluxe Speed-Gro from the [[Oasis]] for {{price|80}} vs. purchasing Speed-Gro from [[Pierre's General Store]] for {{price|100}}.)
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Lewis,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Clint,Penny,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|dislike=Abigail,Haley,Jas,Vincent
+}}
+
+==Bundles==
+*Blueberry is required for the {{Bundle|Summer Crops||y}}
+*Blueberry may be an option for the {{Bundle|Quality remixed||y}}
+*Blueberry may be an option for the {{Bundle|Dye remixed||y}}
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Blueberry Tart|RecipeRow/NoBuffs}}
+{{:Fruit Salad|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Blueberry can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Shorts]].  [[File:Shorts.png|36px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Blueberry is not used in any [[quests]].
+
+==Trivia==
+On Sundays in [[Summer]], Mayor [[Lewis]] may say "Say, are you growing any blueberries on your farm? I do enjoy a fresh blueberry."  Mayor Lewis does in fact like blueberries as gifts.
+
+==References==
+<references>
+<ref name="qual_price">For the first berry, the maximum relative increase in berry price when using quality fertilizer is at level 6, where the average berry price without any fertilizer is 56 (50*1.16, see table for [[Fertilizer#Normal Soil|normal soil]]) and the average price with quality fertilizer is 66 (50*131, see table for [[Fertilizer#Soil with Quality Fertilizer|quality fertilizer]]). The average total price (adding in the always-normal-quality second and third berries) is therefore 156 without fertilizer or 166 with quality fertilizer. 166 is 6% larger than 156.</ref>
+</references>
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Reduced value from {{Price|80}} to {{Price|50}}}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]]. Bugfix for Agriculturist stages of growth.}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Blaubeere]]
+[[es:Arándano]]
+[[fr:Myrtille]]
+[[it:Mirtillo]]
+[[ja:ブルーベリー]]
+[[ko:블루베리]]
+[[hu:Kék áfonya]]
+[[pt:Mirtilo]]
+[[ru:Черника]]
+[[tr:Yabanmersini]]
+[[zh:蓝莓]]

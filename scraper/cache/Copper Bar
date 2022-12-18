@@ -1,0 +1,175 @@
+{{Infobox
+|eng             = Copper Bar
+|source          = [[Furnace]] {{name|Shadow Brute|4%}}{{name|Shadow Shaman|4%}}
+|ingredients     = {{name|Copper Ore|5}}{{name|Coal|1}}
+|sellprice       = 60
+|quality         = false
+|craftingstation = {{name|Furnace}}
+|crafttime       = 30m
+}}
+A '''Copper Bar''' is created by smelting 5 [[Copper Ore]] in a [[furnace]] with 1 [[coal]] for fuel. Smelting the copper in a furnace takes 30 in-game minutes.  [[Shadow Brute]]s and [[Shadow Shaman]] may also drop a Copper Bar when slain (4% chance).
+
+Copper bars are used in a variety of [[crafting]] recipes and are used to upgrade [[tools]]. They can be sold for {{price|60}}, or {{price|90}} with the [[Skills#Mining|Blacksmith Profession]].
+
+==Tool Upgrades==
+Copper Bars are required for the first upgrade of tools.
+
+{|class="wikitable"
+!Image
+!Name
+!Cost
+!Ingredients
+|-
+|[[File:Copper Hoe.png]]
+|[[Hoes|Copper Hoe]]
+|{{price|2000}}
+|{{name|Copper Bar|5}}
+|-
+|[[File:Copper Pickaxe.png]]
+|[[Pickaxes|Copper Pickaxe]]
+|{{price|2000}}
+|{{name|Copper Bar|5}}
+|-
+|[[File:Copper Axe.png]]
+|[[Axes|Copper Axe]]
+|{{price|2000}}
+|{{name|Copper Bar|5}}
+|-
+|[[File:Copper Watering Can.png]]
+|[[Watering Cans|Copper Watering Can]]
+|{{price|2000}}
+|{{name|Copper Bar|5}}
+|-
+|[[File:Trash Can Copper.png]]
+|[[Trash Cans|Copper Trash Can]]
+|{{price|1000}}
+|{{name|Copper Bar|5}}
+|}
+
+==Crafting==
+Copper Bars are used to make the following items:
+
+{|class="wikitable sortable "roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-	
+|[[File:Charcoal Kiln.png|center]]	
+|[[Charcoal Kiln]]	
+|{{Description|Charcoal Kiln}}	
+|{{name|Wood|20}}{{name|Copper Bar|2}}	
+|class="no-wrap"|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 4
+|-
+|[[File:Cheese Press.png|center]]
+|[[Cheese Press]]
+|{{Description|Cheese Press}}
+|{{name|Copper Bar|1}}{{name|Hardwood|10}}{{name|Stone|45}}{{name|Wood|45}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 6
+|-
+|[[File:Crab Pot.png|center]]
+|[[Crab Pot]] with [[Skills#Fishing|Trapper Profession]]
+|{{Description|Crab Pot}}
+|{{name|Copper Bar|2}}{{name|Wood|25}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 3
+|-
+|[[File:Keg.png|center]]
+|[[Keg]]
+|{{Description|Keg}}
+|{{name|Copper Bar|1}}{{name|Iron Bar|1}}{{name|Oak Resin|1}}{{name|Wood|30}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 8
+|-
+|[[File:Mayonnaise Machine.png|center]]
+|[[Mayonnaise Machine]]
+|{{Description|Mayonnaise Machine}}
+|{{name|Copper Bar|1}}{{name|Earth Crystal|1}}{{name|Stone|15}}{{name|Wood|15}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 2
+|-
+|[[File:Sprinkler.png|center]]
+|[[Sprinkler]]
+|{{Description|Sprinkler}}
+|{{name|Copper Bar|1}}{{name|Iron Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 2
+|-
+|[[File:Sturdy Ring.png|center]]
+|[[Sturdy Ring]]
+|{{Description|Sturdy Ring}}
+|{{name|Copper Bar|2}}{{name|Bug Meat|25}}{{name|Slime|25}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Skills#Combat|Combat]] Level 1
+|-
+|[[File:Tapper.png|center]]
+|[[Tapper]]
+|{{Description|Tapper}}
+|{{name|Copper Bar|2}}{{name|Wood|40}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 3
+|-
+|[[File:Iron Bar.png|center]]
+|[[Iron Bar|Transmute (Fe)]]
+|{{Description|Iron Bar}}
+|{{name|Copper Bar|3}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining]] Level 4
+|-
+|[[File:Trap Bobber.png|center]]
+|[[Trap Bobber]]
+|{{Description|Trap Bobber}}
+|{{name|Copper Bar|1}}{{name|Sap|10}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 6
+|-
+|}
+
+==Buildings==
+{|class="wikitable sortable roundedborder"
+! class="unsortable"|Image
+! Name
+! Description
+! Cost
+! Size
+|-
+|id="Silo"|[[File:Silo.png|48px|center]]
+|[[Silo]]
+|{{Description|Silo}}<br />''Note: Holds up to 240 pieces of [[Hay]]''
+|{{price|100}}{{name|Stone|100}}{{name|Clay|10}}{{name|Copper Bar|5}}
+|style="text-align: center;"|'''3x3'''<br />[[File:Marker3x3.png|center|3x3]]
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|like=Maru,Clint
+|hate=Sam
+}}
+
+==Bundles==
+A Copper Bar is used in the {{Bundle|Blacksmith||y}}.
+
+==Tailoring==
+A Copper Bar is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Copper Breastplate]].  [[File:Shirt149.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Copper Bar may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|180}} and 150 [[Friendship]] points.  A Copper Bar will never be requested until you have the [[Furnace]] blueprints.
+*4 Copper Bars may be requested by [[Stonefish]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 7 to 10.
+*3 Copper Bars may be requested by [[Catfish]] in a [[Fish Pond#Quests|Fish Pond quest]] to increases the capacity of the pond from 3 to 5.
+
+==Notes==
+*It is more profitable to sell Copper Bars than to transmute them into [[Iron Bar]]s and sell the Iron Bars. However, it is even more profitable to craft them into [[Trap Bobber]]s to sell.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].  Now used to make the Charcoal Kiln.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Kupferbarren]]
+[[es:Lingote de cobre]]
+[[fr:Lingot de cuivre]]
+[[it:Lingotto di rame]]
+[[ja:銅ののべ棒]]
+[[ko:구리 주괴]]
+[[hu:Réz rúd]]
+[[pt:Barra de cobre]]
+[[ru:Медный слиток]]
+[[tr:Bakır Külçesi]]
+[[zh:铜锭]]

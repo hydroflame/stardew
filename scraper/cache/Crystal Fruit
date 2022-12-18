@@ -1,0 +1,66 @@
+{{Infobox
+|eng         = Crystal Fruit
+|source      = [[Foraging]] • [[Winter Seeds]] • [[Dust Sprite]]s
+|season      = Winter
+|edibility   = 25
+|sellprice   = 150
+|xp          = <nowiki />
+*[[Foraging]]: 7 [[Foraging#Experience Points|Foraging XP]]
+*[[Winter Seeds]]: 7 [[Foraging#Experience Points|Foraging XP]]
+*[[Dust Sprite]]s: 0
+}}
+The '''Crystal Fruit''' is found via [[foraging]] in the [[Winter]], by killing [[Dust Sprite]]s in [[The Mines]] (floors 40 to 80), or by growing [[Winter Seeds|Winter wild seeds]].
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|dislike=Maru,Abigail,Haley,Jas,Vincent
+|neutral=Sebastian,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+}}
+
+==Bundles==
+Crystal Fruit is used in the {{Bundle|Winter Foraging||y}}.
+
+==Recipes==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Winter Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Wi)]]
+||{{Description|Winter Seeds}}<br />''(Produces 10 Winter Seeds per craft.)''
+|{{name|Crocus|1}}{{name|Crystal Fruit|1}}{{name|Snow Yam|1}}{{name|Winter Root|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 7
+|{{price|30}}
+|}
+
+==Tailoring==
+Crystal Fruit is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt064.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Crystal Fruit may be randomly requested in [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|450}} and 150 [[Friendship]] points.
+*One Crystal Fruit may be requested by [[Ice Pip]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].  Can be requested in a Fish Pond quest.}}
+
+{{NavboxForaging}}
+
+[[Category:Winter Forage]]
+[[Category:Winter fruit]]
+
+[[de:Kristallfrucht]]
+[[es:Fruta de cristal]]
+[[fr:Fruit de cristal]]
+[[it:Frutto cristallino]]
+[[ja:クリスタルフルーツ]]
+[[ko:수정 과일]]
+[[hu:Kristály gyümölcs]]
+[[pt:Fruta de cristal]]
+[[ru:Кристальный фрукт]]
+[[tr:Kristal Meyve]]
+[[zh:水晶果]]

@@ -1,0 +1,87 @@
+{{Infobox
+|eng         = Green Bean
+|seed        = {{name|Bean Starter}}
+|growth      = 10 days
+|season      = Spring
+|xp          = 9 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 40
+|edibility   = 10
+}}
+The '''Green Bean''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Bean Starter]] after 10 days.
+
+This crop uses a trellis, and continues to produce after maturity. Be aware, you cannot move onto a tile with a trellis, but you must be adjacent to a planted tile in order to harvest the plant. You must plan the layout of your plantings in order to guarantee access for harvesting.
+
+==Stages==
+You cannot walk through green beans at any stage of growth.  You can walk through dead Green Bean plants.
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Green Bean Stage 2.png|center|link=]]
+|[[File:Green Bean Stage 3.png|center|link=]]
+|[[File:Green Bean Stage 4.png|center|link=]]
+|[[File:Green Bean Stage 5.png|center|link=]]
+|[[File:Green Bean Stage 6.png|center|link=]]
+|[[File:Green Bean Stage 7.png|center|link=]]
+|[[File:Green Bean Stage 8.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|1 Day
+|3 Days
+|4 Days
+|Total: 10 Days
+|Regrowth: 3 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Green Bean}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Green Bean is used in the {{Bundle|Spring Crops||y}} and may be an option in the {{Bundle|quality remixed||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Bean Hotpot|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Green Bean is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shirt159|link=Tailoring{{!}}Shirt And Belt|class=inline}}. It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*The Green Bean may be randomly requested in [[Spring]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|120}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+[[Category:Vegetables]]
+[[Category:Trellis Crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Grüne Bohne]]
+[[es:Judía verde]]
+[[fr:Haricot vert]]
+[[it:Fagiolo verde]]
+[[ja:サヤエンドウ]]
+[[ko:완두콩]]
+[[hu:Zöldbab]]
+[[pt:Vagem]]
+[[ru:Зеленая фасоль]]
+[[tr:Yeşil Fasulye]]
+[[zh:青豆]]

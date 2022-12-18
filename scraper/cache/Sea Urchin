@@ -1,0 +1,93 @@
+{{Infobox fish
+|eng       = Sea Urchin
+|source    = [[Foraging]]
+|location  = [[The Beach]]
+|season    = All
+|edibility = -300
+|price     = 160
+|roe       = Dark Purple
+|professions = false
+}}
+The '''Sea Urchin''' is a [[Foraging|forageable]] item found year-round in the [[The Beach#Tide Pools|Tide Pool]] section of [[the Beach]], ''i.e.,'' to the east of the wooden footbridge<ref name="location" />.  During [[Summer]] 12-14 extra Sea Urchins appear anywhere on the beach (including possibly the western section).
+
+The average spawn rate for Sea Urchin in the tide pool section of the beach is 0.23/day. An additional 0.8 (on average) Sea Urchins per day will spawn during Summer 12-14.  These spawn rates are not affected by the presence of other forageable items on the beach; in particular, Sea Urchins are not part of the standard six item per map limit on forageable items. 7 [[Foraging]] XP are granted for every Sea Urchin picked up, and all Foraging bonuses apply to Sea Urchins.
+
+[[Emily]] may occasionally send you a Sea Urchin in the mail as a gift.  All saltwater [[Crab Pot]] [[fish]] may also produce a Sea Urchin in a [[Fish Pond]], when the population of the pond reaches 5.
+
+==Gifting==
+{{GiftsByItem
+|like=Leo
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Bundles==
+Sea Urchin is used in the {{Bundle|dye||y}}.
+
+==Recipes==
+Sea Urchin is not used in any recipes.
+
+==Tailoring==
+Sea Urchin can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Strapped Top]].  [[File:Shirt139.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Although Sea Urchins are not otherwise considered to be fish, they can be placed in a [[Fish Pond]], where they will reproduce every 4 days. The initial pond capacity is 10 Sea Urchins; no quests are necessary to increase the pond capacity. The only possible output is purple Sea Urchin [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable sortable" 
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="3" data-sort-value="Roe 1"| {{Name|Purple Roe|1|link=Roe}}
+|rowspan="3"| 14
+| 1-4  || 10%     || 2.3-5%
+|-
+| 5-8  || 28%     || 15-22%
+|-
+| 9-10 || 51%     || 44-48%
+|-
+|data-sort-value="Roe 5"| {{Name|Purple Roe|5|link=Roe}}
+| 14
+| 9-10 || 2%      || 1.7-1.9%
+|-
+|rowspan="3" data-sort-value="ZZZZ"| ''Nothing''
+|rowspan="3"| 
+| 1-4  || 90%     || 98-95%
+|-
+| 5-8  || 72%     || 85-78%
+|-
+| 9-10 || 47%     || 54-50%
+|}
+
+==Quests==
+One or two Sea Urchins may be requested by various saltwater fish in [[Fish Pond#Quests|Fish Pond quests]].
+
+==Secrets==
+* [[Secrets#Hats|Hats can be placed on sea urchins in a fish tank]].
+
+==References==
+<references>
+<ref name="location">See <samp>Beach::DayUpdate</samp> in the game code.  The spawn position starts at point (65,11) on the beach map.</ref>
+</references>
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]]. Can be produced by Fish Ponds. Can be added to Fish Ponds.}}
+
+{{NavboxForaging}}
+
+[[Category:Beach Forage]]
+
+[[de:Seeigel]]
+[[es:Erizo de mar]]
+[[fr:Oursin]]
+[[it:Riccio di mare]]
+[[ja:ウニ]]
+[[ko:성게]]
+[[hu:Tengeri sün]]
+[[pt:Ouriço-do-mar]]
+[[ru:Морской еж]]
+[[tr:Denizkestanesi]]
+[[zh:海胆]]

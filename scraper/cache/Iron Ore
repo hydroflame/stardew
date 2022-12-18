@@ -1,0 +1,73 @@
+{{Infobox
+|eng       = Iron Ore
+|source    = [[The Mines|Mines]] • [[Blacksmith]] • [[Fishing]] • [[Minerals#Geodes|Geodes]] • [[Copper Pan|Panning]] • [[Traveling Cart]]
+|sellprice = 10
+|quality   = false
+}}
+'''Iron Ore''' is obtained from Iron [[Mining#Mining Nodes|nodes]] with a [[Pickaxes|pickaxe]]. Mining an Iron Node will yield between 1 and 3 Iron Ore. The [[Skills#Mining|Miner Profession]] can further increase this.
+
+==Locations==
+* [[The Mines]] (Floors 41 - 79) have a high concentration of [[Mining#Mining Nodes|Iron Nodes]] with potential abundance at Floors 71 - 79.
+* Nodes can spawn in the [[Quarry]], the [[Quarry Mine]], or in the quarry on the [[Farm Maps|Hill-top and Four-Corners Farm Maps]]
+* Can be found in breakable crates and barrels in [[The Mines]]
+* Can be bought at the [[Blacksmith]] for {{price|150}} each in year 1 and for {{price|250}} each in year 2+
+* Can be found at any Floor of the [[Skull Cavern]]
+* Can be dropped by [[Metal Head]]s in Floors 80-119 of [[The Mines]], by [[Stone Golem]]s, by [[Dust Sprite]]s, or by [[Slimes|Iron Slimes]].
+* Can be found in [[Fishing#Treasure Chests|Fishing Treasure Chests]]
+* Can be found by [[Hoes|tilling]] soil in [[The Mines]]
+* Can be found inside any of the 4 types of [[Minerals#Geodes|Geode]]
+* Can be found by [[Copper Pan|panning]]
+* Occasionally sold by the [[Traveling Cart]] for {{tprice|10}}
+* Can be found in [[Garbage Can]]s.
+* Can be [[Recycling Machine|recycled]] from [[Trash (item)|Trash]] with a 21% chance.
+* An [[Ice Pip]] [[Fish Pond]] can produce 5 Iron Ore when the population of the pond reaches 3.
+
+==Smelting==
+Iron ore can be smelted in a [[Furnace]] to create an [[Iron Bar]]. The smelting requires 5 iron ore and 1 [[coal]] to begin and takes 2 in-game hours to complete.
+
+==Crafting==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Bomb.png|center]]
+|[[Bomb]]
+|{{Description|Bomb}}
+|{{name|Iron Ore|4}}{{name|Coal|1}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining]] Level 6
+|-
+|}
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Tailoring==
+Iron Ore can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Turtleneck Sweater]].  [[File:Shirt178.png|24px]]
+
+==Quests==
+Ten Iron Ore are requested by [[Ice Pip]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 1 to 3.
+
+==History==
+{{History|1.3.27|Increased price at the [[Blacksmith]] from 150g in year 1 to 250g in year 2+.}}
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in a Fish Pond quest. Can be produced by Fish Ponds.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Eisenerz]]
+[[es:Mena de hierro]]
+[[fr:Minerai de fer]]
+[[it:Ferro grezzo]]
+[[ja:鉄鉱石]]
+[[ko:철광석]]
+[[hu:Vas érc]]
+[[pt:Minério de ferro]]
+[[ru:Железная руда]]
+[[tr:Demir Cevheri]]
+[[zh:铁矿石]]

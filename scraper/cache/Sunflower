@@ -1,0 +1,109 @@
+{{Infobox
+|eng         = Sunflower
+|seed        = {{name|Sunflower Seeds}}
+|growth      = 8 days
+|season      = {{Season|Summer}} • {{Season|Fall}}
+|sellprice   = 80
+|xp          = 14 [[Farming#Experience Points|Farming XP]]
+|edibility   = 18
+}}
+The '''Sunflower''' is a [[Flowers|flower]] [[Crops|crop]] that grows from [[Sunflower Seeds]] after 8 days.
+
+Harvesting a sunflower will drop 1 Sunflower, and 0-2 [[Sunflower Seeds]]. The total seed drop often numbers around 75% to 90% of the number of sunflowers harvested.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Sunflower Stage 1.png|center|link=]]
+|[[File:Sunflower Stage 2.png|center|link=]]
+|[[File:Sunflower Stage 3.png|center|link=]]
+|[[File:Sunflower Stage 4.png|center|link=]]
+|[[File:Sunflower Stage 5.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|3 Days
+|2 Days
+|Total: 8 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Sunflower}}
+
+==Multi-Seasonal Crop==
+Sunflowers may be planted in both Summer and Fall. There is no difference in their behavior in either season.
+
+If a Sunflower plant (of any growth stage) is in the ground on the 28th of Summer, it will continue growing on the 1st of Fall as though nothing had changed. Fertilizer in the ground underneath a Sunflower plant on Summer 28 will not disappear on Fall 1.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,Evelyn,Lewis,Penny,Pam,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|dislike=Sebastian,George,Clint
+|love=Haley
+}}
+
+==Bundles==
+Sunflower is used in the {{Bundle|dye||y}} and is one of the options for the {{Bundle|garden||y}}.
+
+==Recipes==
+Sunflower is not used in any recipes.
+
+==Artisan Goods==
+Note that the game does not consider [[Oil]] to be an [[Artisan Goods|Artisan Good]], so it does not benefit from the [[Farming#Farming Skill|Artisan Profession]].
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Equipment
+!Time
+!Restores
+!Sell Price
+|-
+|[[File:Oil.png|center]]
+|[[Oil]]
+|{{Description|Oil}}
+|{{name|Sunflower|1}}
+|style="text-align: center;"|[[File:Oil Maker.png|center]][[Oil Maker]]
+|{{Duration|60m (1 hour)}}
+|{{energy|13}}{{health|5}}
+|{{price|100}}
+|-
+|}
+
+==Tailoring==
+Sunflower is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Long Dress|link=Tailoring{{!}}Long Dress|class=inline}}. It is a yellow dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+Sunflower is not used in any [[quests]].
+
+==Notes==
+*If placed within proper range of a [[Bee House#Range|Bee House]] (5 squares in any cardinal direction), a Sunflower will cause the [[Honey]] produced to become more profitable.
+
+==History==
+{{History|1.4|Sunflowers can now make Sunflower Honey.  Can be used in Tailoring.}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+[[Category:Fall crops]]
+[[Category:Multi-Seasonal crops]]
+
+[[de:Sonnenblume]]
+[[es:Girasol]]
+[[fr:Tournesol]]
+[[it:Girasole]]
+[[ja:ヒマワリ]]
+[[ko:해바라기]]
+[[hu:Napraforgó]]
+[[pt:Girassol]]
+[[ru:Подсолнух]]
+[[tr:Ayçiçeği]]
+[[zh:向日葵]]

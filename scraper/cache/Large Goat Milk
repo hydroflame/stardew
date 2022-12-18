@@ -1,0 +1,73 @@
+{{Infobox
+|eng        = Large Goat Milk
+|source     = [[Goat]]
+|sellprice  = 345
+|edibility  = 35
+}}
+'''Large Goat Milk''' (called '''L. Goat Milk''' in-game) is an [[:Category:Animal Products|animal product]] obtained from a [[Goat]] with sufficient [[Animals#Animal Care|friendship and mood]]. It can also randomly rotate into the [[Traveling Cart]]'s stock for {{tprice|345}}.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Linus,Pierre,Evelyn,Penny,Pam,Jodi,Leah,Marnie,Harvey,Sandy
+|neutral=Demetrius,Maru,Sebastian,Caroline,Abigail,Alex,George,Clint,Emily,Jas,Vincent,Sam,Shane,Gus,Willy,Krobus,Leo
+|dislike=Lewis,Haley,Elliott,Dwarf,Wizard
+|hate=Kent
+}}
+
+==Bundles==
+*Large Goat Milk is an option for the {{Bundle|Animal||y}}.
+*Ten Milk (any size, including [[Goat Milk]] and Large Goat Milk) may be required for the {{Bundle|home cook||y}}.
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+Goat Milk can be used to make the following [[Artisan Goods]].  Note that regular [[Goat Milk]] always produces regular quality [[Goat Cheese]], while Large Goat Milk always produces gold-quality [[Goat Cheese]].  The quality of the milk is not a factor.
+
+Goat Cheese may be aged in [[Cask]]s to increase its quality.
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Goat Cheese.png|center]]
+|[[Goat Cheese]]
+|{{Description|Goat Cheese}}
+|{{name|Goat Milk|1|class=inline}} ''or''{{name|Large Goat Milk|1}}
+|style="text-align: center;"|[[File:Cheese Press.png|center|40px]][[Cheese Press]]
+|{{duration|200m (3.33h)}}
+|data-sort-value="400"|{{Qualityprice|Goat Cheese|400|hide=silver}}
+|}
+
+==Recipes==
+{{#lsth:Milk|Recipes}}
+
+==Tailoring==
+Large Goat Milk is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt025|link=Tailoring{{!}}Shirt|class=inline}}. It is a white dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+==Quests==
+Large Goat Milk is not used in any [[Quests|quests]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from 275g to 345g}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Can now be used in recipes requiring milk.}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+
+[[de:Große Ziegenmilch]]
+[[es:Leche de cabra XXL]]
+[[fr:Grand lait de chèvre]]
+[[it:Latte di capra grande]]
+[[ja:おおきなヤギミルク]]
+[[ko:큰 염소젖]]
+[[hu:Nagy Kecsketej]]
+[[pt:Leite grande de cabra]]
+[[ru:Бол. бутыль козьего молока]]
+[[tr:Büyük Keçi Sütü]]
+[[zh:大瓶羊奶]]

@@ -1,0 +1,101 @@
+{{Infobox
+|eng         = Starfruit
+|seed        = {{name|Starfruit Seeds}}
+|growth      = 13 days
+|season      = Summer
+|xp          = 43 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 750
+|edibility   = 50
+}}
+'''Starfruit''' is a [[Fruits|fruit]] [[Crops|crop]] that grows from [[Starfruit Seeds]] after 13 days.  It has the second highest sell price of any crop in the game, with only the [[Sweet Gem Berry]] selling for more.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+|-
+|style="vertical-align: bottom; padding-bottom: 8px;"|[[File:Starfruit Stage 1.png|center|link=]]
+|style="vertical-align: bottom; padding-bottom: 8px;"|[[File:Starfruit Stage 2.png|center|link=]]
+|style="vertical-align: bottom; padding-bottom: 8px;"|[[File:Starfruit Stage 3.png|center|link=]]
+|style="vertical-align: bottom; padding-bottom: 8px;"|[[File:Starfruit Stage 4.png|center|link=]]
+|style="vertical-align: bottom; padding-bottom: 8px;"|[[File:Starfruit Stage 5.png|center|link=]]
+|style="vertical-align: bottom; padding-bottom: 8px;"|[[File:Starfruit Stage 6.png|center|link=]]
+|-
+|2 Days
+|3 Days
+|2 Days
+|3 Days
+|3 Days
+|Total: 13 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Starfruit}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|dislike=Abigail,Haley,Jas,Vincent
+}}
+
+==Bundles==
+Starfruit is one of the options in the {{Bundle|Dye Remixed||y}}.
+
+==Recipes==
+Starfruit is not used in any recipes.
+
+==Buildings==
+Starfruit is required to build a [[Junimo Hut]], purchased from the [[Wizard's Tower]].
+
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Junimo Hut.png|72px|center]]
+|[[Junimo Hut]]
+|{{Description|Junimo Hut}}
+|{{Price|20000}}{{name|Stone|200}}{{name|Starfruit|9}}{{name|Fiber|100}}
+|style="text-align: center;"|'''3x2'''<br />[[File:Marker3x2.png|center]]
+|-
+|}
+
+==Tailoring==
+Starfruit can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Genie Pants]]. [[File:Genie Pants.png|36px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*[[Kent]] requests a Starfruit by mail on the 15th of [[Summer]] (year 2) in the [[Quests#A Soldier's Star|"A Soldier's Star" Quest]].  The reward is {{Price|500}} and 1 [[Friendship]] heart.
+
+==Trivia==
+*The Starfruit's sprite depicts a cross-sectional slice of a real starfruit, which is oblong in shape.
+*1 Starfruit can be purchased each year at the Summer [[Luau]] for {{Price|3000}}.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Reduced value to {{price|750}}, down from {{price|800}}.}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]]. Can now be bought at the Luau for {{Price|3000}}}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+
+[[de:Sternfrucht]]
+[[es:Carambola]]
+[[fr:Carambole]]
+[[it:Carambola]]
+[[ja:スターフルーツ]]
+[[ko:스타프루트]]
+[[hu:Csillaggyümölcs]]
+[[pt:Carambola]]
+[[ru:Карамбола]]
+[[tr:Yıldızmeyvesi]]
+[[zh:杨桃]]

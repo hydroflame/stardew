@@ -1,0 +1,61 @@
+{{Spoiler}}
+{{Infobox
+|eng        = Fiddlehead Fern
+|source     = [[Foraging]]
+|location   = [[Secret Woods]] • [[Skull Cavern]] • [[The Mines#Shrine of Challenge|Dangerous Mines]] • [[Ginger Island#Island East| Ginger Island Jungle]]
+|season     = {{Season|Summer}}<br />{{Season|All}} on [[Ginger Island#Island East|Ginger Island Jungle]], [[Skull Cavern]] and [[The Mines#Shrine of Challenge|Dangerous Mines]]
+|edibility  = 10
+|sellprice  = 90
+|xp         = 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Fiddlehead Fern''' is a [[Vegetables|vegetable]] that can be found:
+*[[Foraging]] in the [[Secret Woods]] during [[Summer]] (78%).
+*Foraging in the [[Skull Cavern#Prehistoric Floors|Prehistoric floors]] of the [[Skull Cavern]].
+*Foraging on levels 41-69 of [[the Mines]] while the [[The Mines#Shrine of Challenge|Shrine of Challenge]] is active.
+*Foraging in the [[Ginger Island#Island East|Ginger Island jungle]] in all [[seasons]].
+*Occasionally at the [[Traveling Cart]] for {{tprice|90}}.
+
+The Fiddlehead Fern is the only foraged item categorized as a vegetable. Being a vegetable, its sell price benefits from the [[Skills#Farming|Tiller]] 10% bonus and it can be turned into [[Jellies and Pickles|Pickles]] or [[Juice]] using a [[Preserves Jar]] or [[Keg]]. But it also receives several [[Foraging]]-related benefits, because it is obtained by foraging.  Specifically, 7 Foraging XP is granted per fern and it benefits from the [[Skills#Foraging|Gatherer]] double-harvest bonus and [[Skills#Foraging|Botanist]] iridium-quality bonus.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Fiddlehead Fern is used in the {{Bundle|chef||y}} and one of the options for the {{Bundle|Wild Medicine||y}}
+
+==Recipes==
+{{Recipes|Header|hide=buff,duration}}
+{{:Fiddlehead Risotto|RecipeRow/NoBuffs}}
+{{Recipes|Footer}}
+
+==Tailoring==
+Fiddlehead Fern is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create {{name|Shirt007|link=Tailoring{{!}}Green Overalls|class=inline}}. It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+Green overalls may reference [[wikipedia:Luigi|Luigi]], from the [[wikipedia:Super_Mario|Super Mario series]]. The description of the overalls also allude to this.
+
+==Quests==
+Fiddlehead Fern is not used in any [[quests]].
+
+==History==
+{{History|1.4|Added to Prehistoric Levels in the [[Skull Cavern]]. Can now be used in [[Tailoring]].}}
+{{History|1.5|Can now be found on [[Ginger Island]].}}
+
+{{NavboxForaging}}
+
+[[Category:Summer Forage]]
+[[Category:Vegetables]]
+
+[[de:Straußfarn]]
+[[es:Helecho]]
+[[fr:Fougères de Fern]]
+[[it:Germoglio di felce]]
+[[ja:フィドルヘッド]]
+[[ko:청나래고사리]]
+[[hu:Hegedűfej páfrány]]
+[[pt:Broto de samambaia]]
+[[ru:Съедобный папоротник]]
+[[tr:Eğreltiotu]]
+[[zh:蕨菜]]

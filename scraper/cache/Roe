@@ -1,0 +1,89 @@
+{{Infobox
+|eng       = Roe
+|season    = All
+|source    = [[Fish Pond]]
+|sellprice = 30 + (Base [[Fish]] Price / 2)
+|edibility = 20
+|quality   = false
+}}
+'''Roe''' are fish eggs that are produced by [[fish]] in a [[Fish Pond]].
+
+The selling price of Roe depends on the fish's base sell price.  The equation is <samp>30 + (base fish sell price / 2)</samp>, rounded down to the next nearest integer.  The health and energy gained from eating roe are the same for all types of roe, including Sturgeon Roe.
+
+All types of roe can be placed in a [[Preserves Jar]] to create a higher-value [[Artisan Goods|Artisan Good]]: [[Sturgeon]] Roe creates [[Caviar]]; other roe create fish-specific varieties of [[Aged Roe]].
+
+Roe does not belong to any category and therefore it does not benefit from any Profession. It also cannot be sold to [[Pierre's General Store]], but it can be sold to the [[Fish Shop]] or placed in the [[Shipping|Shipping Bin]]. At the [[Stardew Valley Fair]], Roe is considered uncategorised (trash), and gives 2-3 points for judging.
+
+==Roe Types==
+All fish produce roe, except those that cannot be put in [[Fish Pond]]s (''i.e.,'' [[Fish#Legendary Fish|Legendary Fish]]) and the two varieties of Squid (which produce [[Squid Ink]] instead).  As for the two non-fish that can be put in Fish Ponds, [[Sea Urchin]]s produce roe, but [[Coral]] doesn't.
+
+The price and color of each roe is dependent upon the fish. In general, the color matches the [[Dyeing|dye]] color of the fish;<ref name="roe_color" /> [[Sturgeon]] are an exception and have black-colored roe, which is used as a blue dye in Dye Pots. Orange is used for any fish that does not have a dye color, although this is not the same color as the generic Roe image, which is a mix of orange and pink eggs.  Despite the variety of displayed colors, all types of roe create orange dye.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Alex,George,Evelyn,Lewis,Leo,Clint,Penny,Pam,Emily,Kent,Marnie,Gus,Sandy,Sebastian,Pierre,Caroline,Haley,Jas,Vincent,Jodi,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus,Linus,Leah,Harvey
+}}
+
+==Artisan Goods==
+:''See also: [[Preserves Jar Productivity]]''
+Note that processing times are approximate. One hour = 60 minutes from 6am to 2am, but 1 hour = 100 minutes from 2am to 6am.
+{| class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Processing Time
+!Sell Price
+|-
+|[[File:Aged Roe.png|center]]
+|[[Aged Roe]]
+|{{Description|Aged Roe}}
+|{{Name|Roe|1}} (from any fish other than [[Sturgeon]])
+|[[File:Preserves Jar.png|36px|center]][[Preserves Jar]]
+|{{Duration|4000m (2-3 days)}} 
+|2 × Roe price
+|-
+|[[File:Caviar.png|center]]
+|[[Caviar]]
+|{{Description|Caviar}}
+|{{name|Sturgeon Roe|1}}
+|[[File:Preserves Jar.png|36px|center]][[Preserves Jar]]
+|{{Duration|6000m (&#8776;4 days)}} 
+|{{price|500}}
+|-
+|}
+
+==Tailoring==
+Roe can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Polka Dot Shirt]].  [[File:Shirt272.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Bundles==
+15 Roe are one of options for the {{Bundle|Fish Farmers||y}}
+
+==Bugs==
+When eating Roe that is not the base orange-pinkish color, the Roe will become the orange-pinkish color just before being consumed.
+
+==References==
+<references>
+<ref name="roe_color">The name, price, and color of each type of roe is set by <samp>FishPond::GetFishProduce</samp>, which calls <samp>TailoringMenu:GetDyeColor</samp> to get the fish-appropriate color.</ref>
+</references>
+
+==History==
+{{History|1.4|Introduced.}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+[[Category:Bugs tested in 1.5]]
+
+[[de:Fischlaich]]
+[[es:Huevas]]
+[[fr:Oeufs de poisson]]
+[[it:Uova di pesce]]
+[[ja:明太子]]
+[[ko:어란]]
+[[hu:Ikra]]
+[[pt:Ovas]]
+[[ru:Икра]]
+[[tr:Balık Yumurtası]]
+[[zh:鱼籽]]

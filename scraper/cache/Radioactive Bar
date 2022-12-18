@@ -1,0 +1,71 @@
+{{Spoiler}}
+{{Infobox
+|eng             = Radioactive Bar
+|source          = [[Furnace]]
+|ingredients     = {{name|Radioactive Ore|5}}{{name|Coal|1}}
+|sellprice       = 3000
+|quality         = false
+|craftingstation = {{name|Furnace}}
+|crafttime       = 10h
+}}
+A '''Radioactive Bar''' is crafted by smelting 5 [[Radioactive Ore]] and 1 [[Coal]] in a [[Furnace]]. 
+
+A Radioactive Bar can be [[Shipping|shipped]] or sold to [[Clint]] at the [[Blacksmith]] Shop for {{price|3000}} ({{price|4500}} with the [[Mining#Mining Skill|Blacksmith profession]]). 
+
+10 Radioactive Bars can be traded to the [[Island Trader]] for one [[Galaxy Soul]] on the last day of  a season after killing at least 50 [[Monsters#Dangerous Monsters|dangerous monsters]].
+
+==Crafting==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Heavy Tapper.png|center]]
+|[[Heavy Tapper]]
+|{{Description|Heavy Tapper}}
+|{{name|Radioactive Bar|1}}{{name|Hardwood|30}}
+|[[Qi's Walnut Room]] for {{price|20|Gem}}
+|-
+|[[File:Hopper.png|center]]
+|[[Hopper]]
+|{{Description|Hopper}}
+|{{name|Radioactive Bar|1}}{{name|Hardwood|10}}{{name|Iridium Bar|1}}
+|[[Qi's Walnut Room]] for {{price|50|Gem}}
+|}
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Clint,Sam,Leo
+|love=Maru
+}}
+
+==Tailoring==
+Radioactive Bar is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create {{name|Radioactive Goggles|link=Tailoring{{!}}Radioactive Goggles|class=inline}}. It is a lime dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at [[Emily]]'s and [[Haley]]'s house for use in [[dyeing]].
+
+==Quests==
+Radioactive Bar is not used in any quests.
+
+==Trivia==
+* The description is most likely a reference to the often-parodied California Proposition 65 warning: ''Known to the state of California to cause cancer, birth defects, or other reproductive harm.''
+
+==History==
+{{History|1.5|Introduced.}}
+{{History|1.5.5|Fixed bug where Blacksmith profession would not apply to Radioactive Bars.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Radioaktiver Barren]]
+[[es:Lingote radiactivo]]
+[[fr:Lingot radioactif]]
+[[it:Lingotto radioattivo]]
+[[ja:放射性ののべ棒]]
+[[ko:방사능 주괴]]
+[[hu:Radioaktív rúd]]
+[[pt:Barra Radioativa]]
+[[ru:Радиоактивный слиток]]
+[[tr:Radyoaktif Külçe]]
+[[zh:放射性矿锭]]

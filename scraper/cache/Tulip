@@ -1,0 +1,84 @@
+{{Infobox
+|eng         = Tulip
+|seed        = {{name|Tulip Bulb}}
+|growth      = 6 days
+|season      = Spring
+|xp          = 7 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 30
+|edibility   = 18
+}}
+The '''Tulip''' is a [[Flowers|flower]] that can be [[Crops|grown]] from [[Tulip Bulb]]s in 6 days. 
+
+If grown within proper range of a [[Bee House#Range|Bee House]] (5 squares in any cardinal direction), a Tulip will cause [[Honey|Tulip Honey]] to be produced, increasing the honey base value from {{Price|100}} to {{Price|160}}.
+
+Tulips can be purchased from the [[Traveling Cart]] for {{tprice|30}}.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Tulip Stage 1.png|center|link=]]
+|[[File:Tulip Stage 2.png|center|link=]]
+|[[File:Tulip Stage 3.png|center|link=]]
+|[[File:Tulip Stage 4.png|center|link=]]
+|[[File:Tulip Stage 6.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|2 Days
+|2 Day
+|Total: 6 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Tulip}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|dislike=Sebastian,George,Clint
+|love=Evelyn
+}}
+
+==Bundles==
+Tulip is one of the options for the {{Bundle|garden||y}}.
+
+==Recipes==
+Tulip is not used in any recipes.
+
+==Tailoring==
+Tulip can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Skirt]]. [[File:Skirt.png|36px]]  It can also be used as a red dye in the dye pots, located at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Tulip is not used in any [[quests]].
+
+==Notes==
+*Tulips have an equal chance of being one of five different colors.  Tulips of different colors will occupy different slots in inventory or chests.  Five colors &times; four [[Crops#Crop Quality|quality]] levels = 20 possible spaces used.
+:[[File:TulipColors.png]]
+*Due to its relatively small profit margin, it may be better to grow Tulips for aesthetic purposes or to use as gifts than for profit.
+*Their cheap price, short growing period and reasonable energy restoration rate makes them surprisingly useful as early-game energy source.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+
+[[de:Tulpe]]
+[[es:Tulipán]]
+[[fr:Tulipe]]
+[[it:Tulipano]]
+[[ja:チューリップ]]
+[[ko:튤립]]
+[[hu:Tulipán]]
+[[pt:Tulipa]]
+[[ru:Тюльпан]]
+[[tr:Lale]]
+[[zh:郁金香]]

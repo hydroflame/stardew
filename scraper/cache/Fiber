@@ -1,0 +1,243 @@
+{{Infobox
+|eng       = Fiber
+|seed      = {{name|Fiber Seeds}}
+|source    = <nowiki />
+*[[Weeds]]
+*[[Desert Trader]]
+*[[Wilderness Golem]] 
+|sellprice = 1
+|quality   = false
+}}
+'''Fiber''' is a [[:Category:Resources|resource]] obtained by destroying [[Weeds]] or harvesting fully-grown [[Fiber Seeds]]. Each weed has a 50% chance to drop 1 Fiber when cut with a [[Scythe]], [[Axes|Axe]], [[Pickaxes|Pickaxe]], [[Hoes|Hoe]], or [[Weapons#Sword|Sword]], or blown up by a [[Crafting#Bombs|bomb]]. The [[Desert Trader]] will also exchange five [[stone]] for one fiber on [[Days of the Week#Tuesday|Tuesdays]].
+
+Weeds that drop Fiber can frequently be found in high quantities on Floors 25-29 and 81-109 of [[the Mines]]. The late-game [[Mutant Bug Lair]] is also a good source, generating 40-70 fiber from its weeds, which regenerate every few days.
+
+[[Wilderness Golem]]s on the [[Farm Maps|Wilderness Farm map]] have a 90% chance of dropping Fiber, and a 50% chance of dropping a second Fiber, when slain.
+
+Fiber is always normal quality.
+
+==Stages==
+<noinclude>Shown below are the stages of growth when Fiber is grown from {{name|Fiber Seeds|class=inline}}.</noinclude>
+{|class="wikitable roundedborder" style="text-align:center;"
+|-
+!Season
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+!Spring<br />Summer
+|[[File:Fiber Stage 1.png|link=]]
+|[[File:Fiber Stage 2.png|center|link=]]
+|[[File:Fiber Stage 3.png|center|link=]]
+|[[File:Fiber Stage 4.png|center|link=]]
+|[[File:Fiber Stage 5.png|center|link=]]
+|-
+!Fall
+|[[File:Fiber Stage 1 Fall.png|link=]]
+|[[File:Fiber Stage 2 Fall.png|center|link=]]
+|[[File:Fiber Stage 3 Fall.png|center|link=]]
+|[[File:Fiber Stage 4 Fall.png|center|link=]]
+|[[File:Fiber Stage 5 Fall.png|center|link=]]
+|-
+!Winter
+|[[File:Fiber Stage 1 Winter.png|link=]]
+|[[File:Fiber Stage 2 Winter.png|center|link=]]
+|[[File:Fiber Stage 3 Winter.png|center|link=]]
+|[[File:Fiber Stage 4 Winter.png|center|link=]]
+|[[File:Fiber Stage 5 Winter.png|center|link=]]
+|-
+|'''Days:'''
+|1 Day
+|2 Days
+|2 Days
+|2 Days
+|Total: 7 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Fiber}}
+
+==Recipes==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Grass Starter.png|center]]
+|[[Grass Starter]]
+|{{Description|Grass Starter}}
+|{{name|Fiber|10}}
+|[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store]] ({{price|1000}})
+|-
+|[[File:Scarecrow.png|center]]
+|[[Scarecrow]]
+|{{Description|Scarecrow}}
+|{{name|Fiber|20}}{{name|Wood|50}}{{name|Coal|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 1
+|-
+|[[File:Deluxe Scarecrow.png|center]]
+|[[Deluxe Scarecrow]]
+|{{Description|Deluxe Scarecrow}}
+|{{name|Fiber|40}}{{name|Wood|50}}{{name|Iridium Ore|1}}
+|Mail, after collecting all 8 [[Scarecrow#Rarecrows|Rarecrows]]
+|-
+|[[File:Loom.png|center]]
+|[[Loom]]
+|{{Description|Loom}}
+|{{name|Fiber|30}}{{name|Wood|60}}{{name|Pine Tar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 7
+|-
+|[[File:Worm Bin.png|center]]
+|[[Worm Bin]]
+|{{Description|Worm Bin}}
+|{{name|Fiber|50}}{{name|Hardwood|25}}{{name|Gold Bar|1}}{{name|Iron Bar|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 8
+|-
+|[[File:Flute Block.png|center]]
+|[[Flute Block]]
+|{{Description|Flute Block}}
+|{{name|Fiber|20}}{{name|Wood|10}}{{name|Copper Ore|2}}
+|[[File:Robin Icon.png|24px|link=]] [[Robin]] 6-heart event
+|-
+|[[File:Drum Block.png|center]]
+|[[Drum Block]]
+|{{Description|Drum Block}}
+|{{name|Fiber|20}}{{name|Stone|10}}{{name|Copper Ore|2}}
+|[[File:Robin Icon.png|24px|link=]] [[Robin]] 6-heart event
+|-
+|[[File:Tree Fertilizer.png|center]]
+|[[Tree Fertilizer]]
+|{{Description|Tree Fertilizer}}
+|{{name|Fiber|5}}{{name|Stone|5}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 7
+|-
+|[[File:Tea Sapling.png|center]]
+|[[Tea Sapling]]
+|{{Description|Tea Sapling}}
+|{{name|Fiber|5}}[[Crafting#Seeds|Wild Seeds]] (Any) (2){{name|Wood|5}}
+|Mail after [[File:Caroline Icon.png|24px|link=]] [[Caroline]]'s 2+ [[File:HeartIconLarge.png|16px|link=|alt=heart]] event
+|-
+|[[File:Warp Totem Farm.png|center]]
+|[[Warp Totem: Farm]]
+|{{Description|Warp Totem: Farm}}
+|{{name|Fiber|20}}{{name|Hardwood|1}}{{name|Honey|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 8
+|-
+|[[File:Warp Totem Beach.png|center]]
+|[[Warp Totem: Beach]]
+|{{Description|Warp Totem: Beach}}
+|{{name|Fiber|10}}{{name|Hardwood|1}}{{name|Coral|2}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 6
+|-
+|[[File:Straw Floor.png|center]]
+|[[Straw Floor]]
+|{{Description|Straw Floor}}
+|{{name|Fiber|1}}{{name|Wood|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|200}})
+|-
+|[[File:Wild Bait.png|center]]
+|[[Wild Bait]] (5)
+|{{Description|Wild Bait}}
+|{{name|Fiber|10}}{{name|Slime|5}}{{name|Bug Meat|5}}
+|[[File:Linus Icon.png|24px|link=]] [[Linus]] 4-heart event
+|-
+|[[File:Wooden Brazier.png|center]]
+|[[Wooden Brazier]]
+|{{Description|Wooden Brazier}}
+|{{name|Fiber|5}}{{name|Wood|10}}{{name|Coal|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|250}})
+|-
+|[[File:Stone Brazier.png|center]]
+|[[Stone Brazier]]
+|{{Description|Stone Brazier}}
+|{{name|Fiber|5}}{{name|Stone|10}}{{name|Coal|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|400}})
+|-
+|[[File:Gold Brazier.png|center]]
+|[[Gold Brazier]]
+|{{Description|Gold Brazier}}
+|{{name|Fiber|5}}{{name|Gold Bar|10}}{{name|Coal|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|1000}})
+|-
+|[[File:Campfire.png|center]]
+|[[Campfire]]
+|{{Description|Campfire}}
+|{{name|Fiber|10}}{{name|Stone|10}}{{name|Wood|10}}
+|''Starter''
+|-
+|[[File:Deluxe Retaining Soil.png|center]]
+|[[Deluxe Retaining Soil]]
+|{{Description|Deluxe Retaining Soil}}
+|{{name|Fiber|3}}{{name|Stone|5}}{{name|Clay|1}}
+|Purchase from [[Island Trader]] for {{name|Cinder Shard|50|class=inline}}
+|-
+|[[File:Cookout Kit.png|center]]
+|[[Cookout Kit]]
+|{{Description|Cookout Kit}}
+|{{name|Fiber|10}}{{name|Coal|3}}{{name|Wood|15}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 9
+|}
+
+==Buildings==
+Fiber is required to build [[Junimo Hut]]s, purchased from the [[Wizard's Tower]], as well as [[Cabin|Plank Cabin]]s for [[Multiplayer]] farms.
+
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Junimo Hut.png|72px|center]]
+|[[Junimo Hut]]
+|{{Description|Junimo Hut}}
+|{{Price|20000}}{{name|Stone|200}}{{name|Starfruit|9}}{{name|Fiber|100}}
+|style="text-align: center;"|'''3x2'''<br />[[File:Marker3x2.png|center]]
+|-
+|[[File:Plank Cabin Stage 1.png|72px|center]]
+|[[Cabin|Plank Cabin]]
+|{{Description|Cabin}}<br />''(Houses 1 farmhand in a [[multiplayer]] game.)''
+|{{price|100}}{{name|Wood|5}}{{name|Fiber|10}}
+|style="text-align: center;"|'''5x3'''<br />[[File:Marker5x3.png|center]]
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+}}
+
+==Tailoring==
+Fiber is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable [[Tailoring|Basic Pullover]].
+*Male version: [[File:Shirt176.png|24px]]
+*Female version: [[File:Shirt177.png|24px]]
+It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+15 Fiber may be requested by [[Crayfish]], [[Periwinkle]], or [[Snail]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5..
+
+==History==
+{{History|1.3.27|Added Plank Cabin.}}
+{{History|1.4|Added [[Grass Starter]], [[Deluxe Scarecrow]], [[Tree Fertilizer]], and [[Tea Sapling]] recipes.  Can now be used in [[Tailoring]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Can now be grown from [[Fiber Seeds]]. Used as an ingredient to the Deluxe Retaining Soil and Cookout Kit recipes.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+[[Category:Multi-Seasonal crops]]
+
+[[de:Fasern]]
+[[es:Fibra vegetal]]
+[[fr:Fibre]]
+[[it:Fibra]]
+[[ja:せんい]]
+[[ko:섬유]]
+[[hu:Rost]]
+[[pt:Fibra]]
+[[ru:Волокна]]
+[[tr:Lif]]
+[[zh:纤维]]

@@ -1,0 +1,84 @@
+{{Infobox
+|eng       = Bug Meat
+|source    = {{name|Bug|76%}}{{name|Bug Dangerous|76%}}{{name|Cave Fly|90%}}{{name|Cave Fly Dangerous|90%}}{{name|Grub|60%}}{{name|Grub Dangerous|60%}}{{name|Mutant Fly|90%}}{{name|Mutant Grub|60%}}{{name|Armored Bug|76%}}{{name|Armored Bug Dangerous|76%}}
+|sellprice = 8
+|quality   = false
+}}
+'''Bug Meat''' is a [[Monster Loot]] item which is dropped from any type of [[Adventurer's Guild#Cave Insect|insect]], including [[Armored Bug]]s and [[Armored Bug (dangerous)|dangerous Armored Bugs]] if the player has forged their weapon with a [[Forge#Combat enchantments|Bug Killer enchantment]].
+
+[[Dorado]], [[Lingcod]], or [[Pike]] [[Fish Pond]]s may produce 20 Bug Meat when the population of the pond reaches 9.
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Crafting==
+{{Spoiler}}
+Note that the [[Training Rod]] and [[Bamboo Pole]] cannot use any type of bait.  A [[Fiberglass Rod]] or [[Iridium Rod]] is required.
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Bait.png|center]]
+|[[Bait (item)|Bait]] (5)
+|{{Description|Bait}}
+|{{name|Bug Meat|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 2
+|-
+|[[File:Wild Bait.png|center]]
+|[[Wild Bait]] (5)
+|{{Description|Wild Bait}}
+|{{name|Bug Meat|5}}{{name|Fiber|10}}{{name|Slime|5}}
+|[[File:Linus Icon.png|24px|link=]] [[Linus]] 4-heart event
+|-
+|[[File:Sturdy Ring.png|center]]
+|[[Sturdy Ring]]
+|{{Description|Sturdy Ring}}
+|{{name|Bug Meat|25}}{{name|Copper Bar|2}}{{name|Slime|25}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 1
+|-
+|[[File:Bug Steak.png|center]]
+|[[Bug Steak]]
+|{{Description|Bug Steak}}
+|{{name|Bug Meat|10}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 1
+|-
+|[[File:Magic Bait.png|center]]
+|[[Magic Bait]] (5)
+|{{Description|Magic Bait}}
+|{{name|Bug Meat|3}}{{name|Radioactive Ore|1}}
+|[[File:Mr. Qi Icon.png|24px|link=]] [[Qi's Walnut Room|Mr. Qi]] ({{price|20|Gem}})
+|}
+
+==Bundles==
+Bug Meat is not used in any [[Bundles|bundles]].
+
+==Tailoring==
+Bug Meat is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt027|link=Tailoring{{!}}Pink Striped Shirt|class=inline}}. It is a dark pink dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the purple dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*10 Bug Meat may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+*[[Willy]] requests 100 Bug Meat in the [[Quests#Juicy Bugs Wanted|"Juicy Bugs Wanted!"]] Special Order. The rewards are {{Price|3000}} and the [[Quality Bobber]] recipe.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.4|Used as an ingredient to the [[Sturdy Ring]] recipe.  Can now be used in [[Tailoring]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]]. Can be produced by [[Fish Pond|Fish Ponds]].}}
+{{History|1.5|Needed in the [[Quests#Juicy Bugs Wanted|"Juicy Bugs Wanted!" Special Order]]. Used as an ingredient to the [[Bug Steak]] and [[Magic Bait]] recipes.}}
+
+[[Category:Monster Loot]]
+
+[[de:Käferfleisch]]
+[[es:Carne de insecto]]
+[[fr:Viande d'insecte]]
+[[it:Carne d'insetto]]
+[[ja:虫の肉]]
+[[ko:벌레 고기]]
+[[hu:Rovarhús]]
+[[pt:Carne de inseto]]
+[[ru:Жучиная плоть]]
+[[tr:Böcek Eti]]
+[[zh:虫肉]]

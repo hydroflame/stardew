@@ -1,0 +1,84 @@
+{{Infobox
+|eng         = Iridium Ore
+|source      = [[Skull Cavern]] • [[The Mines|Mines]] • [[Statue Of Perfection]] • [[Fishing#Treasure Chests|Fishing]] • [[Magma Geode]] • [[Omni Geode]] • [[Super Cucumber]] [[Fish Pond]] • [[Copper Pan|Panning]] • [[Traveling Cart]]
+|sellprice   = 100
+|quality     = false
+}}
+'''Iridium Ore''' is a [[:Category:Resources|resource]] found in [[Mining#Mining Nodes|Iridium Nodes]], [[Mining#Mining Nodes|Mystic Stones]], [[Magma Geode]]s, and [[Omni Geode]]s. It is also a rare drop from high level [[Monsters]], and can be found in [[Fishing#Treasure Chests|Fishing Treasure Chests]] and [[Random Events#Meteorite|meteorites]] on the farm. It can also be produced in a [[Super Cucumber]] [[Fish Pond]] when the population is at least 9. [[Copper Pan|Panning]] may also occasionally yield Iridium Ore. The [[Statue Of Perfection]] produces 2-8 Iridium Ore per day.
+
+Five Iridium Ore can be traded at the [[Desert Trader]] for one [[Mega Bomb]].
+
+==Locations==
+* The [[Traveling Cart]] will occasionally sell it for {{tprice|100}}.
+* [[The Mines]]: A fairly reliable source of the ore is through [[Magma Geode|Magma]] and [[Omni Geode]]s on lower mine levels. These can be obtained frequently by mining all rocks on mine levels 115-119. To further enhance geode frequency, choose the [[Mining#Mining Skill|Geologist Profession]] at [[mining]] level 5 and the [[Mining#Mining Skill|Excavator Profession]] at [[mining]] level 10.
+* A fallen [[Random Events#Meteorite|meteorite]] on [[The Farm]] will drop 6 Iridium Ore.
+* [[Mining#Mining Nodes|Iridium Nodes and Mystic Stones]] can be found in the [[Quarry]].
+* [[Skull Cavern]]: The chance to find Iridium Ore increases steadily the further one descends into the Skull Cavern.  [[Stone]] can be bought from the [[Carpenter's Shop]] to craft a [[staircase]]. Staircases can also be bought from the [[Desert Trader]] for 1 [[Jade]] each on [[Days of the Week#Sunday|Sundays]]. Large amounts of staircases or [[Crafting#Bombs|bombs]] can get one deep into Skull Cavern quickly.
+* Purple slimes in the [[Skull Cavern]] or a [[Slime Hutch]] have a chance to drop both iridium ore and bars.
+* [[Bats|Iridium Bats]] in the [[Skull Cavern]] may drop an [[Iridium Bar]] (0.8% chance) and up to 4 Iridium Ore when slain.
+* [[Iridium Crab]]s in the [[Skull Cavern]] may drop up to 3 Iridium Ore when slain.
+* A [[Super Cucumber]] [[Fish Pond]] may produce 1-3 Iridium Ore when the population of the pond reaches 9.
+* [[Krobus]] sells 1 [[Omni Geode]] each [[Days of the Week#Tuesday|Tuesday]] for {{price|300}} each and [[Oasis|The Oasis]] sells 3 Omni Geodes each [[Days of the Week#Wednesday|Wednesday]] for {{price|1000}} each, which can then be broken by [[Clint]] or with a [[Geode Crusher]].  There is a 5% chance an Omni Geode will contain 1-11 Iridium Ore.
+* The [[Statue Of Perfection]], which can be obtained after getting four candles during [[Grandpa#Grandpa's Evaluation|Grandpa's Evaluation]], gives the player 2-8 Iridium Ore per day.
+
+==Smelting==
+Iridium Ore can be smelted in a [[Furnace]] to create an [[Iridium Bar]].  The smelting requires 5 iridium ore and 1 [[Coal]] and takes 8 in-game hours.
+
+==Crafting==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Deluxe Scarecrow.png|center]]
+|[[Deluxe Scarecrow]]
+|{{Description|Deluxe Scarecrow}}
+|{{name|Wood|50}}{{name|Iridium Ore|1}}{{name|Fiber|40}}
+|Mail, after collecting all 8 [[Scarecrow#Rarecrows|Rarecrows]]
+|-
+|[[File:Warp Totem Desert.png|center]]
+|[[Warp Totem: Desert]]
+|{{Description|Warp Totem: Desert}}
+|{{name|Hardwood|2}}{{name|Coconut|1}}{{name|Iridium Ore|4}}
+|[[Desert Trader]] for {{name|Iridium Bar|10|class=inline}}
+|-
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|neutral=Clint
+|hate=Sam
+}}
+
+==Bundles==
+1 Iridium Ore is used in {{Bundle|engineers||y}}.
+==Tailoring==
+Iridium Ore is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Iridium Energy Shirt]].  [[File:Shirt179.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Notes==
+When used with [[Weapons#Slingshot|Slingshots]], Iridium Ore deals more damage to monsters than any other ammunition.
+
+==Quests==
+One Iridium Ore may be requested by [[Rainbow Trout]], [[Spook Fish]], [[Super Cucumber]], or [[Void Salmon]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 7 to 10.
+
+==History==
+{{History|1.4|Added use in Crafting, Tailoring, and Fish Pond quests.  Adjusted Iridium Node spawn chance after floor 100 in the Skull Cavern. Can be produced by Fish Ponds.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Iridiumerz]]
+[[es:Mena de iridio]]
+[[fr:Minerai d'iridium]]
+[[it:Iridio grezzo]]
+[[ja:イリジウム鉱石]]
+[[ko:이리듐광석]]
+[[hu:Irídium érc]]
+[[pt:Minério de irídio]]
+[[ru:Иридиевая руда]]
+[[tr:İridyum Cevheri]]
+[[zh:铱矿石]]

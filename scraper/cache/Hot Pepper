@@ -1,0 +1,88 @@
+{{Infobox
+|eng         = Hot Pepper
+|seed        = {{name|Pepper Seeds}}
+|growth      = 5 days
+|season      = Summer
+|xp          = 9 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 40
+|edibility   = 5
+}}
+The '''Hot Pepper''' is a [[Fruits|fruit]] [[Crops|crop]] that grows from [[Pepper Seeds]] after 5 days.
+
+==Stages==
+When harvested, each Hot Pepper plant gives 1 Hot Pepper every 3 days, with a 3% chance for more Hot Peppers.
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Hot Pepper Stage 1.png|center|link=]]
+|[[File:Hot Pepper Stage 2.png|center|link=]]
+|[[File:Hot Pepper Stage 3.png|center|link=]]
+|[[File:Hot Pepper Stage 4.png|center|link=]]
+|[[File:Hot Pepper Stage 4b.png|center|link=]]
+|[[File:Hot Pepper Stage 5.png|center|link=]]
+|[[File:Hot Pepper Stage 6.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|1 Day
+|1 Day
+|1 Day
+|Total: 5 Days
+|Regrowth: 3 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Hot Pepper}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pam,Jodi,Kent,Leah,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Clint,Penny,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|dislike=Abigail,Haley,Jas,Vincent
+|love=Lewis,Shane
+}}
+
+==Bundles==
+Hot Pepper is used in the {{Bundle|Summer Crops||y}} and may be an option for the {{Bundle|Quality remixed||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Pepper Poppers|RecipeRow}}
+{{:Spicy Eel|RecipeRow}}
+{{:Tropical Curry|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Hot Pepper is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shorts|link=Tailoring#Pants{{!}}Shorts|class=inline}}. It is a red dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the red dye pot at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]], for use in [[dyeing]].
+
+==Quests==
+*[[George]] requests a Hot Pepper by mail on the 25th of [[Summer]] in the [[Quests#Knee Therapy|"Knee Therapy" Quest]].  The reward is {{Price|200}} and 1 [[Friendship]] heart.
+*Hot Pepper may be randomly requested in [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|120}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Introduced [[Tropical Curry]] recipe. Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Peperoni]]
+[[es:Chile]]
+[[fr:Piment fort]]
+[[it:Peperoncino]]
+[[ja:トウガラシ]]
+[[ko:매운 고추]]
+[[hu:Erős paprika]]
+[[pt:Pimenta quente]]
+[[ru:Жгучий перец]]
+[[tr:Acı Biber]]
+[[zh:辣椒]]

@@ -1,0 +1,74 @@
+{{Infobox
+|eng         = Maple Syrup
+|source      = [[Crafting]]
+|season      = All
+|sellprice   = 200
+|quality     = false
+|edibility   = 20
+|craftingstation = {{name|Tapper}}
+|crafttime   = 9 days
+|ingredients = [[Maple Tree]]
+}}
+'''Maple Syrup''' is [[Trees|Tree]] sap made from the [[Tapper]] when it is placed on a [[Maple Tree]], taking {{duration|9 days|class=inline}}.
+
+Maple Syrup can be obtained by tapping [[Maple Tree]]s growing on [[The Farm]] or growing naturally in Stardew Valley (''e.g.,'' in [[Cindersap Forest]]). It can also rarely be obtained after processing [[Hardwood]] in a [[Wood Chipper]].
+
+Although Maple Syrup is labeled "Artisan Good" in-game, it does not benefit from the [[Skills#Farming|Artisan Profession]], but instead from the [[Skills#Foraging|Tapper Profession]] (+25% sell price).
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|dislike=Maru
+}}
+
+==Bundles==
+Maple Syrup is used in the {{Bundle|Chef||y}}, and is one of the options for the {{Bundle|Exotic||y}}.
+
+==Recipes==
+===Cooking===
+{{Recipes|header}}
+{{:Maple Bar|RecipeRow}}
+{{Recipes|footer}}
+
+===Crafting===
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Bee House.png]]
+|[[Bee House]]
+|{{Description|Bee House}}
+|{{name|Wood|40}}{{name|Coal|8}}{{name|Iron Bar|1}}{{name|Maple Syrup|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Skills#Farming|Farming]] Level 3
+|-
+|}
+
+==Tailoring==
+Maple Syrup can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{name|Floppy Beanie|class=inline}}. It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*One Maple Syrup is required to complete the [[Quests#Strange Note|"Strange Note" quest]] that is triggered by reading [[Secret Notes#Secret Note #23|Secret Note #23]].
+*One or two Maple Syrup may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+
+==History==
+{{History|1.3.27|Added Strange Note quest.}}
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Ahornsirup]]
+[[es:Jarabe de arce]]
+[[fr:Sirop d'érable]]
+[[it:Sciroppo d'acero]]
+[[ja:メープルシロップ]]
+[[ko:메이플 시럽]]
+[[hu:Juharfaszirup]]
+[[pt:Xarope de ácer]]
+[[ru:Кленовый сироп]]
+[[tr:Akçaağaç Pekmezi]]
+[[zh:枫糖浆]]

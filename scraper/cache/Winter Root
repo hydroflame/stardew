@@ -1,0 +1,84 @@
+{{Infobox
+|eng       = Winter Root
+|source    = [[Hoes|Tilling]] • [[Winter Seeds]] • [[Slimes|Blue Slimes]]
+|xp        = <nowiki />
+*[[Hoes|Tilling]]: 0
+*[[Winter Seeds]]: 7 [[Foraging#Experience Points|Foraging XP]]
+*[[Slimes|Blue Slimes]]: 0
+|season    = Winter
+|edibility = 10
+|sellprice = 70
+}}
+The '''Winter Root''' is a [[foraging]] item found only in [[Winter]]. Wild winter roots do not grow above ground, but instead they are buried in the snow/dirt and must be dug up with a [[Hoes|Hoe]] (no other tools, even [[Crafting#Bombs|Bombs]], will work).
+
+The highest chance of finding a Winter Root (17-24%, map-dependent) is when digging up an [[Artifact Spot]].<ref name="artifact_chance" />  There is also a 4% chance of finding a Winter Root when digging standard tillable soil in any exterior location.<ref name="soil_chance" />  Exceptions are in the [[The Farm|Farm]], where Winter Roots can be found at artifact spots, but not standard tillable soil, and both the [[The Desert|Desert]] and [[Ginger Island]], where Winter Roots can not be found at all.  Digging up a Winter Root provides no experience.
+
+Winter Roots can also be grown from [[Winter Seeds]], in which case they are a standard wild-seed crop: they grow above ground, can be harvested without using a tool, give 7 Foraging XP each, and are affected by the [[Skills#Foraging|Gatherer]] and [[Skills#Foraging|Botanist]] professions.
+
+Occasionally they may be sold at the [[Traveling Cart]] or found in [[Garbage Can]]s in [[Winter]].  They may also be dropped by Blue [[Slimes]] (8% chance) in [[The Mines]] (floors 41-79) or [[Secret Woods]].
+
+Putting a Winter Root in a [[Seed Maker]] will generate 1-3 [[Winter Seeds]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Kent,Marnie,Gus,Sandy
+|dislike=Sebastian,Pierre,Caroline,Haley,Leo,Jas,Vincent,Jodi,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus
+|like=Linus,Leah,Harvey
+}}
+
+==Bundles==
+Winter Root is used in the {{Bundle|Winter Foraging||y}}.
+
+==Recipes==
+===Cooking===
+{{Recipes|header}}
+{{:Roots Platter|RecipeRow}}
+{{Recipes|footer}}
+
+===Crafting===
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Winter Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Wi)]]
+||{{Description|Winter Seeds}}<br />''(Produces 10 Winter Seeds per craft.)''
+|{{name|Crocus|1}}{{name|Crystal Fruit|1}}{{name|Snow Yam|1}}{{name|Winter Root|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 7
+|{{price|30}}
+|}
+
+==Tailoring==
+Winter Root is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Orange Bow Shirt]].  [[File:Shirt267.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*Winter Root may be randomly requested in [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|140}} and 150 [[Friendship]] points.
+
+==References==
+<references>
+<ref name="artifact_chance">The chance of appearing in an artifact spot is calculated by <samp>GameLocation::digUpArtifactSpot</samp>.  The base chance in code is 30% (0.5*0.6), but the actual chance is lower because artifacts and lost books are checked first and must all fail their checks.</ref>
+<ref name="soil_chance">The chance of appearing in standard tillable soil is calculated by <samp>GameLocation::checkForBuriedItem</samp>.</ref>
+</references>
+
+==History==
+{{History|1.4|Winter Root can no longer be dug up in the Desert in Winter.  Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Winter Forage]]
+
+[[de:Winterwurzel]]
+[[es:Raíz invernal]]
+[[fr:Racine d'hiver]]
+[[it:Radice invernale]]
+[[ja:クワイ]]
+[[ko:겨울뿌리]]
+[[hu:Téli gyökér]]
+[[pt:Raiz de inverno]]
+[[ru:Зимний корень]]
+[[tr:Kış Kökü]]
+[[zh:冬根]]

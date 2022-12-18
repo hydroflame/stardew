@@ -1,0 +1,78 @@
+{{Infobox
+|eng         = Sweet Gem Berry
+|seed        = {{name|Rare Seed}}
+|growth      = 24 days
+|season      = Fall
+|xp          = 64 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 3000
+|edibility   = -300
+}}
+The '''Sweet Gem Berry''' is a [[Crops|crop]] that grows from a [[Rare Seed]] after 24 days. It is not considered a [[Fruits|Fruit]] or [[Vegetables|Vegetable]] and cannot be used in a [[Keg]] or [[Preserves Jar]], nor does it benefit from the [[Farming#Farming Skill|Tiller profession]].
+
+[[Rare Seed]]s can be purchased from the [[Traveling Cart]] for {{price|1000}} in Spring &amp; Summer, or for {{tprice|200}} in any season. A [[Seed Maker]] can also produce Rare Seeds from a Sweet Gem Berry.
+
+Despite its high value, the berry is regarded as a [[Friendship#Universal Neutrals|neutral gift]] by all the NPCs in [[Stardew Valley]]. When given to [[Old Master Cannoli]] in the [[Secret Woods]], however, the player receives a [[Stardrop]] in return. In [[multiplayer]], all players receive a Stardrop with the gift of a single berry.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+|-
+|[[File:Sweet Gem Berry Stage 1.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 2.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 3.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 4.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 5.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 6.png|center|link=]]
+|-
+|2 Days
+|4 Days
+|6 Days
+|6 Days
+|6 Days
+|Total: 24 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Sweet Gem Berry}}
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Bundles==
+Sweet Gem Berry is one of the options for the {{bundle|rare crops||y}}.
+
+==Recipes==
+Sweet Gem Berry is not used in any recipes.
+
+==Tailoring==
+Sweet Gem Berry is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{name|White Turban|class=inline}}.  It can also be used as a red dye in the dye pots, located at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Sweet Gem Berry is not used in any [[quests]].
+
+==History==
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].  Bugfix for stages of growth with [[Deluxe Speed-Gro]] + [[Skills#Farming|Agriculturist]]}}
+
+{{NavboxCrop}}
+
+[[Category:Fall crops]]
+
+[[de:Süße Edelsteinbeere]]
+[[es:Baya de gema dulce]]
+[[fr:Baie gemme sucrée]]
+[[it:Baccagemma dolce]]
+[[ja:スイートジェムベリー]]
+[[ko:달콤보석베리]]
+[[hu:Édes drágakő bogyó]]
+[[pt:Cereja de Joia Doce]]
+[[ru:Сладкая ягодка]]
+[[tr:Tatlıtaş Meyvesi]]
+[[zh:宝石甜莓]]

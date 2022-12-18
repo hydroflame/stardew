@@ -1,0 +1,81 @@
+{{Infobox
+|eng         = Rhubarb
+|seed        = {{name|Rhubarb Seeds}}
+|growth      = 13 days
+|season      = Spring
+|xp          = 26 [[Farming#Experience Points|Farming XP]]
+|edibility   = -300
+|sellprice   = 220
+}}
+'''Rhubarb''' is a [[Fruits|fruit]] [[Crops|crop]] that grows from [[Rhubarb Seeds]] after 13 days. Rhubarb seeds can be purchased only from the [[Oasis]], or occasionally from the [[Traveling Cart]].
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+|-
+|[[File:Rhubarb Stage 1.png|center|link=]]
+|[[File:Rhubarb Stage 2.png|center|link=]]
+|[[File:Rhubarb Stage 3.png|center|link=]]
+|[[File:Rhubarb Stage 4.png|center|link=]]
+|[[File:Rhubarb Stage 5.png|center|link=]]
+|[[File:Rhubarb Stage 6.png|center|link=]]
+|-
+|2 Days
+|2 Days
+|2 Days
+|3 Days
+|4 Days
+|Total: 13 Days
+|-
+|}
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Rhubarb}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|dislike=Abigail,Haley,Jas,Vincent
+}}
+
+==Bundles==
+Rhubarb is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Rhubarb Pie|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Rhubarb can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Green Buttoned Vest]].  [[File:Shirt281b.png|24px]] It can also be used as a red dye in the dye pots, located in [[Haley]]'s and [[Emily]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Rhubarb is not used in any [[quests]].
+
+==Trivia==
+In reality, Rhubarb is a vegetable, as the edible part of the plant is the stalk.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+
+[[de:Rhabarber]]
+[[es:Ruibarbo]]
+[[fr:Rhubarbe]]
+[[it:Rabarbaro]]
+[[ja:ルバーブ]]
+[[ko:대황]]
+[[hu:Rebarbara]]
+[[pt:Ruibarbo]]
+[[ru:Ревень]]
+[[tr:Uşkun]]
+[[zh:大黄]]

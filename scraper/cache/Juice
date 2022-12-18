@@ -1,0 +1,57 @@
+{{Infobox
+|eng             = Juice
+|source          = [[Artisan Goods]]
+|sellprice       = 2.25 × Base [[Vegetables|Vegetable]] Price
+|ingredients     = Any [[Vegetables|vegetable]] (1) (other than [[Wheat]], [[Hops]], & [[Tea Leaves]])
+|edibility       = 30
+|craftingstation = {{name|Keg}}
+|crafttime       = 6000m (&#8776;4d)
+|quality         = false
+}}
+{{For|a detailed analysis of profit using the Keg|Keg Productivity}}
+'''Juice''' is an [[Artisan Goods|Artisan Good]] made from the [[Keg]], taking approximately 4 [[Day Cycle|days]]. Its selling price is the base value of the [[Vegetables|vegetable]] input multiplied by 2.25 (3.15 with the [[Skills#Farming|Artisan]] profession).
+
+The [[energy]] and [[health]] gains of Juice are the same no matter what vegetable is used to make it.
+
+Although [[Wheat]], [[Hops]], and [[Tea Leaves]] are classified as [[vegetables]], when used with a [[Keg]], they produce [[Beer]], [[Pale Ale]], and [[Green Tea]] respectively.
+
+Juice cannot be put in a [[cask]].
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|hate=Sebastian,Jas,Vincent
+}}
+
+==Bundles==
+Juice is one of the options for {{bundle|brewers||y}}.
+
+==Recipes==
+Juice is not used in any recipes.
+
+==Tailoring==
+Juice is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sports Shirt]].  [[File:Shirt209.png|24px]] It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+[[Pam]] requests 12 Potato Juice in the [[Quests#The Strong Stuff|"The Strong Stuff"]] Special Order.
+
+==Trivia==
+Juice sold by the [[Traveling Cart]] will not be of any vegetable type and will sell for {{price|150}} (or {{price|210}} with the [[Skills#Farming|Artisan Profession]]).
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Saft]]
+[[es:Zumo]]
+[[fr:Jus]]
+[[it:Succo]]
+[[ja:ジュース]]
+[[ko:주스]]
+[[hu:Gyümölcslé]]
+[[pt:Suco]]
+[[ru:Сок]]
+[[tr:Meyve Suyu]]
+[[zh:果汁]]

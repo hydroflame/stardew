@@ -1,0 +1,68 @@
+{{Infobox
+|eng       = Hazelnut
+|source    = [[Foraging]] • [[Fall Seeds]]
+|season    = Fall
+|sellprice = 90
+|edibility = 12
+|xp        = 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Hazelnut''' is found via [[foraging]] throughout Stardew Valley in the [[Fall]].  It can also be grown from [[Fall Seeds]]. Shaking a [[Maple Tree]] from the 15th through 28th of [[Fall]] has a chance to cause a hazelnut to drop from the tree.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Kent,Marnie,Gus,Sandy
+|dislike=Sebastian,Pierre,Caroline,Haley,Jas,Leo,Vincent,Jodi,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus
+|like=Linus,Leah,Harvey
+}}
+
+==Bundles==
+Hazelnut is used in the {{Bundle|Fall Foraging||y}}.
+
+==Recipes==
+===Cooking===
+{{Recipes|header}}
+{{:Roasted Hazelnuts|RecipeRow}}
+{{:Stuffing|RecipeRow}}
+{{Recipes|footer}}
+
+===Crafting===
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Fall Seeds.png|center|link=]]
+|[[Crafting#Seeds|Wild Seeds (Fa)]]
+||{{Description|Fall Seeds}}<br />''(Produces 10 Fall Seeds per craft)''
+|{{name|Blackberry|1}}{{name|Common Mushroom|1}}{{name|Hazelnut|1}}{{name|Wild Plum|1}}
+|class="no-wrap"|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 6
+|{{price|45}}
+|}
+
+==Tailoring==
+Hazelnut is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Brown Overalls]].  [[File:Shirt266.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Hazelnut may be randomly requested in [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|270}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Fall Forage]]
+
+[[de:Haselnuss]]
+[[es:Avellana]]
+[[fr:Noisette]]
+[[it:Nocciola]]
+[[ja:ヘーゼルナッツ]]
+[[ko:헤이즐넛]]
+[[hu:Mogyoró]]
+[[pt:Avelã]]
+[[ru:Фундук]]
+[[tr:Fındık]]
+[[zh:榛子]]

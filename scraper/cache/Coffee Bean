@@ -1,0 +1,121 @@
+{{Infobox
+|eng       = Coffee Bean
+|source    = [[Dust Sprite]] • [[Traveling Cart]]
+|seed      = {{Name|Coffee Bean}}
+|growth    = 10 days
+|season    = {{Season|Spring}} • {{Season|Summer}}
+|xp        = 4 [[Farming#Experience Points|Farming XP]] per harvest
+|sellprice = 15
+|edibility = -300
+}}
+A '''Coffee Bean''' is a plantable seed that is also the [[Crops|crop]] harvested from the plants. Coffee Beans grow and mature 10 days after being planted (and every 2 days thereafter) in either [[Spring]] or [[Summer]]. The primary source of Coffee Beans is [[Dust Sprite]]s, but they are only rarely dropped (1% chance). They may also randomly appear in the [[Traveling Cart]]'s Special Stock for {{price|2500}} (25% chance) or Standard Stock for {{tprice|15}}. Coffee Beans cannot be purchased from any other stores.
+
+When harvested, each plant gives four beans every two days, with a small random chance for more beans.  [[Basic Fertilizer]] and [[Quality Fertilizer]] affect only the first bean from every harvest.
+
+Because Coffee Bean is fundamentally considered to be a seed (rather than a vegetable or fruit), its sale price does not benefit from the [[Skills#Farming|Tiller]] profession. Also, it cannot be placed into a [[Preserves Jar]]. However, 5 Coffee Beans can be placed inside a [[Keg]] to produce [[Coffee]].
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Coffee Stage 1.png|center|link=]]
+|[[File:Coffee Stage 2.png|center|link=]]
+|[[File:Coffee Stage 3.png|center|link=]]
+|[[File:Coffee Stage 4.png|center|link=]]
+|[[File:Coffee Stage 5.png|center|link=]]
+|[[File:Coffee Stage 6.png|center|link=]]
+|[[File:Coffee Stage 7.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|2 Days
+|3 Days
+|2 Days
+|Total: 10 Days
+|Regrowth: 2 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Coffee Bean}}
+
+==Multi-Seasonal Crop==
+Coffee Beans may be planted in both Spring and Summer. There is no difference in their behavior in either season.
+
+If a Coffee Bean plant (of any growth stage) is in the ground on the 28th of Spring, it will continue growing on the 1st of Summer as though nothing had changed. Fertilizer in the ground underneath a Coffee Bean plant on Spring 28 will not disappear on Summer 1.
+
+==Crafting==
+In order to make [[Coffee]], 5 Coffee Beans '''from one stack''' must be put into the Keg. It is not possible, for example, to place 3 Coffee Beans of silver quality and 2 of gold quality into a Keg, because the different quality levels are not stackable with each other, and the Keg will only accept 5 Coffee Beans at a time.
+
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Coffee.png|center]]
+|[[Coffee]]
+|It smells delicious. This is sure to give you a boost.
+|{{name|Coffee Bean|5}}
+|style="text-align: center;"|[[File:Keg.png|center|40px]][[Keg]]
+|{{duration|120m (2h)}}
+|{{price|150}}
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+}}
+
+==Bundles==
+Coffee Bean is not used in any [[Bundles]].
+
+==Recipes==
+Coffee Bean is not used in any recipes.
+
+==Tailoring==
+Coffee Bean is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Flannel Shirt]].  [[File:Shirt154.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Five Coffee Beans may be requested by [[Blobfish]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5.
+
+==Notes==
+* For Coffee Beans of Gold Star quality or lower, it is always more profitable to brew the beans into coffee before shipping. Each coffee sold (150g each) is essentially selling the beans at 30g apiece (equal to the iridium star price), regardless of the quality level of the source beans. 
+* Using Iridium-star Coffee Beans to brew coffee is not profitable, because the price of 5 Iridium beans (30g each) is equal to 1 Coffee (150g each).
+* There is no price difference between selling 3 Coffees and 1 Triple Shot Espresso, so it is more time efficient to simply ship the Coffee.
+
+==History==
+{{History|1.1|Introduced.}}
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in a [[Fish Pond#Quests|Fish Pond quest]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+{{NavboxSeeds}}
+
+[[Category:Summer crops]]
+[[Category:Spring crops]]
+[[Category:Spring seeds]]
+[[Category:Summer seeds]]
+[[Category:Multi-Seasonal crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Kaffeebohne]]
+[[es:Grano de café]]
+[[fr:Grain de café]]
+[[it:Chicco di caffè]]
+[[ja:コーヒー豆]]
+[[ko:커피콩]]
+[[hu:Kávébab]]
+[[pt:Grão de café]]
+[[ru:Кофейное зерно]]
+[[tr:Kahve Çekirdeği]]
+[[zh:咖啡豆]]

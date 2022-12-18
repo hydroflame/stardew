@@ -1,0 +1,106 @@
+{{Infobox
+|eng       = Battery Pack
+|source    = [[Lightning Rod]] • [[Solar Panel]] • {{name|Iridium Bat|5%}}
+|sellprice = 500
+|quality   = false
+}}
+[[File:Rod normal vs charged.gif|framed|left|Uncharged vs Charged rod]]
+
+[[File:Rod lightning.gif|framed|Lightning striking a Rod]]
+
+The '''Battery Pack''' is created in the [[Lightning Rod]] during [[Weather|thunderstorms]] or the [[Solar Panel]] after 7 sunny days. 
+
+To acquire a Battery Pack from a Lightning Rod, during a thunderstorm a particular sound will be heard, which means that one of the rods is now charged, pulsating with energy. There is no guarantee that a specific lightning rod will be struck by lightning during a thunderstorm. On the day after the storm, a Battery Pack can be acquired from it.
+
+Battery Packs can sometimes be purchased from the [[Traveling Cart]] for {{tprice|500}} and can be sold to Robin at the [[Carpenter's Shop]].  Very rarely, a Battery Pack can be dropped by breaking boxes or crates in the [[Skull Cavern]].  They may also be dropped by [[Bats|Iridium Bats]] (5% chance).
+[[Kent]] and [[Pam]] may also send the player a Battery Pack in the mail.
+
+Three Battery Packs will be received as a reward for completing the [[Remixed Bundles#Children's Bundle|Children's Bundle]] in the [[Community Center]].
+
+==Crafting==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Iridium Sprinkler.png|center]]
+|[[Iridium Sprinkler]]
+|{{Description|Iridium Sprinkler}}
+|{{name|Battery Pack|1}}{{name|Gold Bar|1}}{{name|Iridium Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 9
+|-
+|[[File:Crystalarium.png|center]]
+|[[Crystalarium]]
+|{{Description|Crystalarium}}
+|{{name|Battery Pack|1}}{{name|Stone|99}}{{name|Gold Bar|5}}{{name|Iridium Bar|2}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 9
+|-
+|[[File:Slime Egg-Press.png|center]]
+|[[Slime Egg-Press]]
+|{{Description|Slime Egg-Press}}
+|{{name|Battery Pack|1}}{{name|Coal|25}}{{name|Fire Quartz|1}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 6
+|-
+|[[File:Wood Lamp-post.png|center]]
+|[[Wood Lamp-post]]
+|{{Description|Wood Lamp-post}}
+|{{name|Battery Pack|1}}{{name|Wood|50}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|500}})
+|-
+|[[File:Iron Lamp-post.png|center]]
+|[[Iron Lamp-post]]
+|{{Description|Iron Lamp-post}}
+|{{name|Battery Pack|1}}{{name|Iron Bar|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|1000}})
+|-
+|[[File:Mini-Jukebox.png|center]]
+|[[Mini-Jukebox]]
+|{{Description|Mini-Jukebox}}
+|{{name|Battery Pack|1}}{{name|Iron Bar|2}}
+|[[File:Gus Icon.png|24px|link=]] [[Gus]] 5-heart event
+|-
+|[[File:Farm Computer.png|center]]
+|[[Farm Computer]]
+|{{Description|Farm Computer}}
+|{{name|Battery Pack|1}}{{name|Dwarf Gadget|1}}{{name|Refined Quartz|10}}
+|[[File:Demetrius Icon.png|24px|link=]] [[Demetrius]] ([[Quests#List of Special Orders|Special Order]])
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|love=Maru
+}}
+
+==Bundles==
+Battery Pack is used in the {{Bundle|Engineers||y}}.
+
+==Tailoring==
+Battery Pack is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt106|link=Tailoring{{!}}Shirt|class=inline}}. It is a cyan dye when used in the spool of the [[Sewing Machine]] with a dyeable clothing item in the feed. It can be placed in the blue dye pot at [[Emily]]'s and [[Haley]]'s house for use in [[dyeing]].
+
+==Quests==
+*A Battery Pack is needed for [[Quests#The Mysterious Qi|"The Mysterious Qi" quest]].
+*[[Pam]] requests a Battery Pack by mail on the 19th of [[Fall]] (year 2) in the [[Quests#Pam Needs Juice|"Pam Needs Juice" quest]].  The reward is {{Price|400}} and 1 [[Friendship]] heart.
+*[[Fish Shop#Willy's Boat|Willy's Boat]] needs 5 Battery Packs to repair the ticket stand.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Used as an ingredient to the Mini-Jukebox recipe.}}
+{{History|1.5|Is now used in a remixed bundle. Used as an ingredient to the Farm Computer recipe. Five are now required to repair [[Fish Shop#Willy's Boat|Willy's Boat]].}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Batterie]]
+[[es:Pila]]
+[[fr:Pile]]
+[[it:Batteria]]
+[[ja:電池]]
+[[ko:배터리 팩]]
+[[hu:Elem csomag]]
+[[pt:Conjunto de pilhas]]
+[[ru:Аккумулятор]]
+[[tr:Pil]]
+[[zh:电池组]]

@@ -1,0 +1,82 @@
+{{Infobox
+|eng         = Artichoke
+|seed        = {{name|Artichoke Seeds}}
+|growth      = 8 days
+|season      = Fall
+|sellprice   = 160
+|xp          = 22 [[Farming#Experience Points|Farming XP]]
+|edibility   = 12
+}}
+The '''Artichoke''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Artichoke Seeds]] after 8 days.  The seeds are available from [[Pierre's General Store]] starting in Year 2.
+
+Artichoke can be acquired before Year 2 through the use of [[Mixed Seeds]].  Artichokes can then be placed in a [[Seed Maker]] to produce [[Artichoke Seeds]].
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+|-
+|[[File:Artichoke Stage 1.png|center|link=]]
+|[[File:Artichoke Stage 2.png|center|link=]]
+|[[File:Artichoke Stage 3.png|center|link=]]
+|[[File:Artichoke Stage 4.png|center|link=]]
+|[[File:Artichoke Stage 5.png|center|link=]]
+|[[File:Artichoke Stage 6.png|center|link=]]
+|-
+|2 Days
+|2 Days
+|1 Day
+|2 Days
+|1 Day
+|Total: 8 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Artichoke}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Artichoke is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header}}
+{{:Artichoke Dip|RecipeRow}}
+{{:Super Meal|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Artichoke is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shirt140|link=Tailoring{{!}}Button Down Shirt|class=inline}}. It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*Artichoke may be randomly requested in [[Fall]] (year 2+) at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|480}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Fall crops]]
+[[Category:Vegetables]]
+
+[[de:Artischocke]]
+[[es:Alcachofa]]
+[[fr:Artichaut]]
+[[it:Carciofo]]
+[[ja:アーティチョーク]]
+[[ko:아티초크]]
+[[hu:Articsóka]]
+[[pt:Alcachofra]]
+[[tr:Enginar]]
+[[ru:Артишок]]
+[[zh:洋蓟]]

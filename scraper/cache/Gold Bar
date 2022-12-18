@@ -1,0 +1,189 @@
+{{Infobox
+|eng             = Gold Bar
+|source          = [[Crafting]] • [[Furnace]] • [[Hoes|Tilling]] in [[The Mines]] • [[Monsters|Monster]] drop
+|ingredients     = {{name|Gold Ore|5}}{{name|Coal|1}}
+|sellprice       = 250
+|quality         = false
+|craftingstation = {{name|Furnace}}
+|crafttime       = 5h
+}}
+A '''Gold Bar''' is created by smelting 5 [[Gold Ore]] in a [[furnace]] with 1 [[coal]] for fuel, or by transmuting 2 [[Iron Bar|Iron Bars]] into one Gold Bar. Smelting [[Gold Ore]] in a furnace takes 5 in-game hours.  The "Transmute (Au)" recipe is earned at [[Mining]] Level 7. 
+
+A Gold Bar can be found (rarely) in the [[Garbage Can]] next to the [[Blacksmith]], after the player has unlocked the [[Furnace]] blueprint. Five Gold Bars are the reward for completing the {{Bundle|Enchanters||y}}.  If [[Clint]] is your secret gift-giver at the [[Feast of the Winter Star]], he may give you 5 Gold Bars.
+
+Gold Bars are also dropped from [[Dust Sprite]]s (0.1% chance), [[Squid Kid]]s (5% chance), [[Shadow Brute]]s (1% chance), and [[Shadow Shaman]] (1% chance).  They may be dug up in [[The Mines]] at floors 41-80 (0.1% chance).
+
+Gold bars are used in a variety of [[crafting]] recipes and are used to upgrade [[tools]] to tier 4. One Gold Bar can be sold for {{price|250}}, or {{price|375}} with the [[Skills#Mining|Blacksmith Profession]].
+
+==Tool Upgrades==
+Gold Bars are required for the third upgrade of tools.
+
+{|class="wikitable"
+!Image
+!Name
+!Cost
+!Ingredients
+|-
+|[[File:Gold Hoe.png]]
+|[[Hoes|Gold Hoe]]
+|{{price|10000}}
+|{{name|Gold Bar|5}}
+|-
+|[[File:Gold Pickaxe.png]]
+|[[Pickaxes|Gold Pickaxe]]
+|{{price|10000}}
+|{{name|Gold Bar|5}}
+|-
+|[[File:Gold Axe.png]]
+|[[Axes|Gold Axe]]
+|{{price|10000}}
+|{{name|Gold Bar|5}}
+|-
+|[[File:Gold Watering Can.png]]
+|[[Watering Cans|Gold Watering Can]]
+|{{price|10000}}
+|{{name|Gold Bar|5}}
+|-
+|[[File:Trash Can Gold.png]]
+|[[Trash Cans|Gold Trash Can]]
+|{{price|5000}}
+|{{name|Gold Bar|5}}
+|}
+
+==Crafting==
+{{Spoiler}}
+Gold Bars are used to make the following items:
+
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Quality Sprinkler.png|center]]
+|[[Quality Sprinkler]]
+|{{Description|Quality Sprinkler}}
+|{{name|Gold Bar|1}}{{name|Iron Bar|1}}{{name|Refined Quartz|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 6
+|-
+|[[File:Iridium Sprinkler.png|center]]
+|[[Iridium Sprinkler]]
+|{{Description|Iridium Sprinkler}}
+|{{name|Gold Bar|1}}{{name|Iridium Bar|1}}{{name|Battery Pack|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 9
+|-
+|[[File:Oil Maker.png|center]]
+|[[Oil Maker]]
+|{{Description|Oil Maker}}
+|{{name|Gold Bar|1}}{{name|Slime|50}}{{name|Hardwood|20}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 8
+|-
+|[[File:Ring of Yoba.png|center]]
+|[[Ring of Yoba]]
+|{{Description|Ring of Yoba}}
+|{{name|Gold Bar|5}}{{name|Iron Bar|5}}{{name|Diamond|1}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 7
+|-
+|[[File:Worm Bin.png|center]]
+|[[Worm Bin]]
+|{{Description|Worm Bin}}
+|{{name|Gold Bar|1}}{{name|Hardwood|25}}{{name|Iron Bar|1}}{{name|Fiber|50}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 8
+|-
+|[[File:Crystalarium.png|center]]
+|[[Crystalarium]]
+|{{Description|Crystalarium}}
+|{{name|Gold Bar|5}}{{name|Stone|99}}{{name|Iridium Bar|2}}{{name|Battery Pack|1}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 9
+|-
+|[[File:Seed Maker.png|center]]
+|[[Seed Maker]]
+|{{Description|Seed Maker}}
+|{{name|Gold Bar|1}}{{name|Coal|10}}{{name|Wood|25}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 9
+|-
+|[[File:Treasure Hunter.png|center]]
+|[[Treasure Hunter]]
+|{{Description|Treasure Hunter}}
+|{{name|Gold Bar|2}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 7
+|-
+|[[File:Barbed Hook.png|center]]
+|[[Barbed Hook]]
+|{{Description|Barbed Hook}}
+|{{name|Gold Bar|1}}{{name|Copper Bar|1}}{{name|Iron Bar|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 8
+|-
+|[[File:Gold Brazier.png|center]]
+|[[Gold Brazier]]
+|{{Description|Gold Brazier}}
+|{{name|Gold Bar|1}}{{name|Coal|1}}{{name|Fiber|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|1000}})
+|-
+|[[File:Thorns Ring.png|center]]
+|[[Thorns Ring]]
+|{{Description|Thorns Ring}}
+|{{name|Gold Bar|1}}{{name|Bone Fragment|50}}{{name|Stone|50}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 7
+|-
+|[[File:Solar Panel.png|center]]
+|[[Solar Panel]]
+|{{Description|Solar Panel}}
+|{{name|Gold Bar|5}}{{name|Iron Bar|5}}{{name|Refined Quartz|10}}
+|[[File:Caroline Icon.png|24px|link=]] [[Caroline]] ([[Quests#Island Ingredients|Special Order]])
+|-
+|[[File:Geode Crusher.png|center]]
+|[[Geode Crusher]]
+|{{Description|Geode Crusher}}
+|{{name|Gold Bar|2}}{{name|Diamond|1}}{{name|Stone|50}}
+|[[File:Clint Icon.png|24px|link=]] [[Clint]] ([[Quests#Cave Patrol|Special Order]])
+|-
+|[[File:Mini-Obelisk.png|center]]
+|[[Mini-Obelisk]]
+|{{Description|Mini-Obelisk}}
+|{{name|Gold Bar|3}}{{name|Hardwood|30}}{{name|Solar Essence|20}}
+|[[File:Wizard Icon.png|24px|link=]] [[Wizard]] ([[Quests#A Curious Substance|Special Order]])
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy
+|love=Maru,Clint
+|hate=Sam
+|like=Willy,Krobus
+}}
+
+==Bundles==
+A Gold Bar is used in the {{Bundle|Blacksmith||y}}. Five Gold Bars are the reward for completing the {{Bundle|Enchanters||y}}.
+
+==Tailoring==
+A Gold Bar is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt150|link=Tailoring{{!}}Gold Breastplate|class=inline}}. It is a gold dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]], for use in [[dyeing]].
+
+{{Collapse|Secret|content=
+Placing Mayor [[Lewis]]' Lucky Purple Shorts in the feed of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] and a Gold Bar on the spool will create Trimmed Lucky Purple Shorts, which can be worn by the player.}}
+
+==Quests==
+*The Gold Bar may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|750}} and 150 [[Friendship]] points. A Gold Bar will never be requested until you have the [[Furnace]] blueprints.
+*Three Gold Bars may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+
+==History==
+{{History|1.4|Changed [[Charcoal Kiln]] recipe from 1 Gold Bar to 2 [[Copper Bar]]s.  Gold Bar can now be used in Tailoring.   Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Used as an ingredient to the Thorns Ring, Solar Panel, Geode Crusher, and Mini-Obelisk recipes.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+[[Category:Craftable items]]
+
+[[de:Goldbarren]]
+[[es:Lingote de oro]]
+[[fr:Lingot en or]]
+[[it:Lingotto d'oro]]
+[[ja:金ののべ棒]]
+[[ko:금 주괴]]
+[[hu:Arany rúd]]
+[[pt:Barra de ouro]]
+[[ru:Золотой слиток]]
+[[tr:Altın Külçesi]]
+[[zh:金锭]]

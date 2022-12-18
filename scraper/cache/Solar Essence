@@ -1,0 +1,94 @@
+{{Spoiler}}
+{{Infobox
+|eng       = Solar Essence
+|source    = {{name|Ghost}}{{name|Iridium Bat}}{{name|Metal Head}}{{name|Metal Head Dangerous}}{{name|Haunted Skull}}{{name|Squid Kid}}{{name|Squid Kid Dangerous}}{{name|Mummy}}{{NPC|Krobus}}{{name|Hot Head}}{{name|Blue Squid}}{{name|Sunfish|[[Fish Pond]]}}
+|sellprice = 40
+|quality   = false
+}}
+'''Solar Essence''' is a [[Monster Loot]] item which is dropped from the [[Ghost]], [[Bats|Iridium Bat]], [[Metal Head]], [[Metal Head (dangerous)]], [[Haunted Skull]], [[Squid Kid]], [[Squid Kid (dangerous)]], [[Mummy]], [[Hot Head]], and [[Blue Squid]]. [[Krobus]] also sells 10 a day for {{price|80}} each.  [[Sunfish]] may randomly produce a Solar Essence in a [[Fish Pond]] when the pond population reaches 10 fish.
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Harvey,Sandy,Willy,Krobus,Leo
+|neutral=Dwarf
+|love=Wizard
+}}
+
+==Bundles==
+Solar Essence is an option for the {{Bundle|adventurer||y}}.
+
+==Crafting==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Glowstone Ring.png|center]]
+|[[Glowstone Ring]]
+|{{Description|Glowstone Ring}}
+|{{name|Solar Essence|5}}{{name|Iron Bar|5}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 4
+|-
+|[[File:Mega Bomb.png|center]]
+|[[Mega Bomb]]
+|{{Description|Mega Bomb}}
+|{{name|Solar Essence|1}}{{name|Gold Ore|4}}{{name|Void Essence|1}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 8
+|-
+|[[File:Iridium Band.png|center]]
+|[[Iridium Band]]
+|{{Description|Iridium Band}}
+|{{name|Solar Essence|50}}{{name|Iridium Bar|5}}{{name|Void Essence|50}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 9
+|-
+|[[File:Barrel Brazier.png|center]]
+|[[Barrel Brazier]]
+|{{Description|Barrel Brazier}}
+|{{name|Solar Essence|1}}{{name|Wood|50}}{{name|Coal|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|800}})
+|-
+|[[File:Quality Bobber.png|center]]
+|[[Quality Bobber]]
+|{{Description|Quality Bobber}}
+|{{name|Solar Essence|5}}{{name|Copper Bar|1}}{{name|Sap|20}}
+|[[File:Willy Icon.png|24px|link=]] [[Willy]] ([[Quests#Juicy Bugs Wanted|Special Order]])
+|-
+|[[File:Mini-Obelisk.png]]
+|[[Mini-Obelisk]]
+|{{Description|Mini-Obelisk}}
+|{{name|Solar Essence|20}}{{name|Hardwood|30}}{{name|Gold Bar|3}}
+|[[File:Wizard Icon.png|24px|link=]] [[Wizard]] ([[Quests#A Curious Substance|Special Order]])
+|-
+|[[File:Hyper Speed-Gro.png|center]]
+|[[Hyper Speed-Gro]]
+|{{Description|Hyper Speed-Gro}}
+|{{name|Solar Essence|1}}{{name|Radioactive Ore|1}}{{name|Bone Fragment|3}}
+|[[File:Mr. Qi Icon.png|24px|link=]] [[Qi's Walnut Room|Mr. Qi]] ({{price|30|Gem}})
+|}
+
+==Tailoring==
+Solar Essence is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Yoba Shirt]].  [[File:Shirt219.png|24px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*A Solar Essence is needed for the 3rd part of [[Quests#The Mysterious Qi|"The Mysterious Qi" Quest]]
+*5 Solar Essence may be requested by several fish in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 7 to 10.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].  Can be produced by Fish Ponds.}}
+{{History|1.5|Used as an ingredient to the Quality Bobber, Mini-Obelisk, and Hyper Speed-Gro recipes. No longer used as an ingredient to the Skull Brazier recipe.}}
+
+[[Category:Monster Loot]]
+
+[[de:Solar-Essenz]]
+[[es:Esencia solar]]
+[[fr:Essence solaire]]
+[[it:Essenza solare]]
+[[ja:光の結晶]]
+[[ko:태양 정수]]
+[[hu:Szoláris esszencia]]
+[[pt:Essência solar]]
+[[ru:Солнечная эссенция]]
+[[tr:Güneş Özü]]
+[[zh:太阳精华]]

@@ -1,0 +1,50 @@
+{{Infobox
+|eng         = Green Tea
+|source      = [[Artisan Goods]]
+|buff        = {{name|Max Energy|+30}}
+|buffduration= 4m 12s
+|edibility   = 5
+|sellprice   = 100
+|ingredients = {{name|Tea Leaves|1}}
+|craftingstation = {{name|Keg}}
+|crafttime   = 180m (3h)
+|quality     = false
+}}
+'''Green Tea''' is a drinkable [[Artisan Goods|Artisan Good]] made with the [[Keg]] using [[Tea Leaves]], taking 3 hours.
+
+When consumed, it grants the player +30 [[Energy|Max Energy]] for 4m 12s.  As a drink, its [[Buffs|buff]] stacks with any food buffs (including Max Energy), but replaces any other drink buffs (''i.e.,'' from [[Coffee]], [[Ginger Ale]] or [[Triple Shot Espresso]]).
+
+==Gifting==
+{{GiftsByItem
+|like=Penny,Sebastian,Robin,Demetrius,Maru,Linus,Pierre,Pam,Abigail,Alex,George,Evelyn,Clint,Emily,Haley,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|hate=Jas,Vincent
+|love=Caroline,Lewis
+}}
+
+==Bundles==
+Green Tea is one of the options for {{bundle|brewers||y}}.
+
+==Tailoring==
+Green Tea is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Tea Shirt]].  [[File:Shirt287.png|24px]] It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+One Green Tea may be requested by [[Blobfish]] or [[Octopus]] in [[Fish Pond#Quests|Fish Pond quests]].
+
+==History==
+{{History|1.4|Introduced.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Grüner Tee]]
+[[es:Té verde]]
+[[fr:Thé vert]]
+[[it:Tè verde]]
+[[ja:緑茶]]
+[[ko:녹차]]
+[[hu:Zöld tea]]
+[[pt:Chá Verde]]
+[[ru:Зеленый Чай]]
+[[tr:Yeşil Çay]]
+[[zh:绿茶]]

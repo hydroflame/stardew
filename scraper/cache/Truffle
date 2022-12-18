@@ -1,0 +1,81 @@
+{{Infobox
+|eng       = Truffle
+|source    = [[Pig]]s
+|season    = {{Season|Spring}} • {{Season|Summer}} • {{Season|Fall}}
+|edibility = 5
+|sellprice = 625
+}}
+The '''Truffle''' is a type of mushroom that can only be spawned by a [[Pig]] on [[The Farm]] when the pig is outside the [[Barn]]. Since pigs do not go out of the barn in winter, they spawn no truffles in that season.  Truffles sell for a base price of {{Price|625}}.
+
+Despite being spawned by pigs, truffles are not considered to be animal produce, like eggs or milk. They do not receive a price increase from the [[Farming#Farming Skill|Rancher]] profession.
+
+Despite being mushrooms, Truffles technically are also not considered to be [[Foraging|foraged]] items, but give Foraging XP when picked up on the farm. They are not among the items included in the foraging category at the [[Stardew Valley Fair]], nor are they labeled as "Forage" in [[inventory]]. They do, however, benefit from the [[Skills#Foraging|Gatherer]] and [[Skills#Foraging|Botanist]] professions.
+
+Truffles not gathered on the 28th day of a season disappear on the following morning, the 1st day of the new season.
+
+On rare occasions, a Truffle can be purchased from the [[Traveling Cart]] for {{tprice|625}}.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|hate=Maru
+|love=Leah
+}}
+
+==Bundles==
+Truffle is used in the {{Bundle|chef||y}}.
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Restores
+!Sell Price
+|-
+|[[File:Truffle Oil.png]]
+|[[Truffle Oil]]
+|{{Description|Truffle Oil}}
+|{{name|Truffle|1}}
+|style="text-align: center;"|[[File:Oil Maker.png|center]][[Oil Maker]]
+|{{Duration|360m (6 hours)}}
+|{{Energy|38}}{{Health|17}}
+|{{price|1065}}
+|}
+
+==Recipes==
+Truffle is not used in any recipes.
+
+==Tailoring==
+Truffle can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Dark Bandana Shirt]].  [[File:Shirt262a.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Truffle may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|1875}} and 150 [[Friendship]] points. The Truffle will never be requested unless the player owns a [[Pig]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from {{price|500}} to {{price|625}}.}}
+{{History|1.11|Fixed bug where truffles could spawn in the water.}}
+{{History|1.2.26|Fixed crash that occurred when a pig tried to spawn a truffle in an area with no space for it.}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxAnimals}}
+
+[[Category:Foraging]]
+[[Category:Animal Products]]
+
+[[de:Trüffel]]
+[[es:Trufa]]
+[[fr:Truffe]]
+[[it:Tartufo]]
+[[ja:トリュフ]]
+[[ko:송로버섯]]
+[[hu:Szarvasgomba]]
+[[pt:Trufa]]
+[[ru:Трюфель]]
+[[tr:Yermantarı]]
+[[zh:松露]]

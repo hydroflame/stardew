@@ -4,10 +4,14 @@ import { CookingState } from "./RecipeState";
 
 export type FishCollection = Record<string, boolean>;
 export type CookingCollection = Record<string, CookingState>;
+export type ShippingCollection = Record<string, boolean>;
+export type ArtefactsCollection = Record<string, boolean>;
 
 export interface Collections {
   fishes: FishCollection;
   cooking: CookingCollection;
+  shipping: ShippingCollection;
+  artefacts: ArtefactsCollection;
 }
 
 const initialFishCollection = (): FishCollection => {
@@ -29,4 +33,6 @@ const initialCookingCollection = (): CookingCollection => {
 export const defaultCollections = (): Collections => ({
   fishes: initialFishCollection(),
   cooking: initialCookingCollection(),
+  shipping: {},
+  artefacts: {},
 });

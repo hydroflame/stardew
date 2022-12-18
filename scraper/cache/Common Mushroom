@@ -1,0 +1,83 @@
+{{Infobox
+|eng         = Common Mushroom
+|source      = [[Foraging]] • [[Fall Seeds]] • [[The Cave|The Farm Cave]]
+|location    = Stardew Valley, including [[Secret Woods]]
+|season      = [[Spring]] • [[Fall]]
+|sellprice   = 40
+|edibility   = 15
+|xp          = <nowiki />
+*Foraging: 7 [[Foraging#Experience Points|Foraging XP]]
+*Fall Seeds: 7 [[Foraging#Experience Points|Foraging XP]]
+*The Farm Cave: 0
+}}
+The '''Common Mushroom''' is a mushroom found via [[foraging]] throughout Stardew Valley in the [[Fall]]. They can be found in the [[Secret Woods]] during [[Spring]] and [[Fall]], [[Farm Maps|Forest Farm]] during [[Summer]], and in the [[Ginger Island#Dig Site|Ginger Island mushroom cave]]. They can be grown from [[Fall Seeds|Wild Seeds (Fa)]] or in mushroom bins in the [[The Cave]] if the mushroom option is chosen. They can also be obtained by [[Tapper|tapping]] a [[Mushroom Tree]].  
+
+Putting a Common Mushroom in a [[Seed Maker]] will generate 1-3 [[Fall Seeds]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Kent,Marnie,Gus,Sandy
+|dislike=Maru,Sebastian,Pierre,Caroline,Haley,Jas,Leo,Vincent,Jodi,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus
+|like=Linus,Leah,Harvey
+}}
+
+==Bundles==
+Common Mushroom is used in the {{Bundle|Fall Foraging||y}}.
+
+==Recipes==
+===Cooking===
+{{Recipes|Header}}
+{{:Fried Mushroom|RecipeRow}}
+{{:Stir Fry|RecipeRow}}
+{{:Tom Kha Soup|RecipeRow}}
+{{Recipes|Footer}}
+
+===Crafting===
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Fall Seeds.png|center|link=]]
+|[[Crafting#Seeds|Wild Seeds (Fa)]]
+||{{Description|Fall Seeds}}<br />''(Produces 10 Fall Seeds per craft)''
+|{{name|Blackberry|1}}{{name|Common Mushroom|1}}{{name|Hazelnut|1}}{{name|Wild Plum|1}}
+|class="no-wrap"|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 6
+|{{price|45}}
+|}
+
+==Tailoring==
+Common Mushroom is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt074.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+This shirt is very likely a reference to the [[wikipedia:Super_Mario|Super Mario]] game series, where the titular character [[wikipedia:Mario|Mario]] commonly eats mushrooms.
+
+==Quests==
+*The Common Mushroom may be randomly requested in [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|120}} and 150 [[Friendship]] points.
+*2-3 Common Mushrooms may be requested by [[Bullhead]], [[Largemouth Bass]], [[Midnight Carp]], or [[Woodskip]] in [[Fish Pond#Quests|Fish Pond quests]].
+
+==Trivia==
+*Common Mushrooms are the only fall forageable that can be directly put into the [[Seed Maker]].
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Can be found in the Ginger Island mushroom cave.}}
+
+{{NavboxForaging}}
+
+[[Category:Fall Forage]]
+[[Category:Mushrooms]]
+
+[[de:Gewöhnlicher Pilz]]
+[[es:Seta común]]
+[[fr:Champignon commun]]
+[[it:Fungo comune]]
+[[ja:マッシュルーム]]
+[[ko:흔한 버섯]]
+[[hu:Közönséges gomba]]
+[[pt:Cogumelo comum]]
+[[ru:Шампиньон]]
+[[tr:Mantar]]
+[[zh:普通蘑菇]]

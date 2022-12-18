@@ -1,0 +1,191 @@
+{{Spoiler}}
+{{Infobox
+|eng         = Hardwood
+|source      = <ul><li>[[Foraging]]</li><li>{{name|Woodskip|[[Fish Pond]]}}</li><li>[[Mahogany Tree]]s</li></ul>
+|sellprice   = 15
+|quality     = false
+}}
+'''Hardwood''' is a [[:Category:Resources|resource]]. It is obtained by chopping down a [[Mahogany Tree]] with any [[Axes|axe]], a [[Large Stump]] with a [[Axes|Copper Axe]] or better, or a [[Large Log]] with a [[Axes|Steel Axe]] or better.
+
+Six (6) [[Large Stump]]s respawn daily in the [[Secret Woods]], making it possible to obtain 12 Hardwood per day. With the Forest Farm map there are eight (8) more stumps at the left side of the farm making for an additional 16 Hardwood that respawns daily. On the four corners farm 1 respawns at the top left corner making it 14. Hardwood can also be received as loot by breaking barrels and boxes in [[the Mines]]. Hardwood is readily available from various trees (using the appropriate [[Axes|axes]]) in the [[The Mines#Shrine of Challenge|Dangerous Mines]] level 41-69.
+
+Normal trees have a chance of dropping Hardwood with the [[Skills#Foraging|Lumberjack Profession]]; this can be done with either any [[Axes|axe]] or any [[Crafting#Bombs|bombs]]. Several [[Mahogany Tree]]s on [[Ginger Island]] produce hardwood when chopped, and will regrow. [[Robin]] may also gift the player 25 Hardwood at the [[Feast of the Winter Star]].
+
+A [[Woodskip]] [[Fish Pond]] may produce 5 Hardwood when the population of the pond reaches 6.
+
+==Recipes==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Cheese Press.png|center]]
+|[[Cheese Press]]
+|{{Description|Cheese Press}}
+|{{name|Hardwood|10}}{{name|Wood|45}}{{name|Stone|45}}{{name|Copper Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 6
+|-
+|[[File:Oil Maker.png|center]]
+|[[Oil Maker]]
+|{{Description|Oil Maker}}
+|{{name|Hardwood|20}}{{name|Slime|50}}{{name|Gold Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 8
+|-
+|[[File:Hardwood Fence.png|center]]
+|[[Hardwood Fence]]
+|{{Description|Hardwood Fence}}
+|{{name|Hardwood|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 6
+|-
+|[[File:Cork Bobber.png|center]]
+|[[Cork Bobber]]
+|{{Description|Cork Bobber}}
+|{{name|Hardwood|5}}{{name|Wood|10}}{{name|Slime|10}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 7
+|-
+|[[File:Worm Bin.png|center]]
+|[[Worm Bin]]
+|{{Description|Worm Bin}}
+|{{name|Hardwood|25}}{{name|Gold Bar|1}}{{name|Iron Bar|1}}{{name|Fiber|50}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 8
+|-
+|[[File:Warp Totem Beach.png|center]]
+|[[Warp Totem: Beach]]
+|{{Description|Warp Totem: Beach}}
+|{{name|Hardwood|1}}{{name|Coral|2}}{{name|Fiber|10}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 6
+|-
+|[[File:Warp Totem Mountains.png|center]]
+|[[Warp Totem: Mountains]]
+|{{Description|Warp Totem: Mountains}}
+|{{name|Hardwood|1}}{{name|Iron Bar|1}}{{name|Stone|25}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 7
+|-
+|[[File:Warp Totem Farm.png|center]]
+|[[Warp Totem: Farm]]
+|{{Description|Warp Totem: Farm}}
+|{{name|Hardwood|1}}{{name|Honey|1}}{{name|Fiber|20}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 8
+|-
+|[[File:Warp Totem Desert.png|center]]
+|[[Warp Totem: Desert]]
+|{{Description|Warp Totem: Desert}}
+|{{name|Hardwood|2}}{{name|Coconut|1}}{{name|Iridium Ore|4}}
+|[[File:Desert Trader Icon.png|24px|link=]] [[Desert Trader]] for {{name|Iridium Bar|10|class=inline}}
+|-
+|[[File:Warp Totem Island.png|center]]
+|[[Warp Totem: Island]]
+|{{Description|Warp Totem: Island}}
+|{{name|Hardwood|5}}{{name|Dragon Tooth|1}}{{name|Ginger|1}}
+|[[Volcano Dungeon#Shop|Volcano Shop]] ({{price|10000}})
+|-
+|[[File:Rain Totem.png|center]]
+|[[Rain Totem]]
+|{{Description|Rain Totem}}
+|{{name|Hardwood|1}}{{name|Truffle Oil|1}}{{name|Pine Tar|5}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 9
+|-
+|[[File:Stump Brazier.png|center]]
+|[[Stump Brazier]]
+|{{Description|Stump Brazier}}
+|{{name|Hardwood|5}}{{name|Coal|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|800}})
+|-
+|[[File:Carved Brazier.png|center]]
+|[[Carved Brazier]]
+|{{Description|Carved Brazier}}
+|{{name|Hardwood|10}}{{name|Coal|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|2000}})
+|-
+|[[File:Cask.png|center]]
+|[[Cask]]
+|{{Description|Cask}}
+|{{name|Hardwood|1}}{{name|Wood|20}}
+|[[Farmhouse]] cellar upgrade
+|-
+|[[File:Ostrich Incubator.png|center]]
+|[[Ostrich Incubator]]
+|{{Description|Ostrich Incubator}}
+|{{name|Hardwood|50}}{{name|Bone Fragment|50}}{{name|Cinder Shard|20}}
+|[[File:Professor Snail Icon.png|24px|link=]] [[Professor Snail]] after completing his [[Island Field Office|collections and surveys]]
+|-
+|[[File:Heavy Tapper.png|center]]
+|[[Heavy Tapper]]
+|{{Description|Heavy Tapper}}
+|{{name|Hardwood|30}}{{name|Radioactive Bar|1}}
+|[[File:Mr. Qi Icon.png|24px|link=]] [[Qi's Walnut Room|Mr. Qi]] ({{price|20|Gem}})
+|-
+|[[File:Mini-Obelisk.png|center]]
+|[[Mini-Obelisk]]
+|{{Description|Mini-Obelisk}}
+|{{name|Hardwood|30}}{{name|Solar Essence|20}}{{name|Gold Bar|3}}
+|[[File:Wizard Icon.png|24px|link=]] [[Wizard]] ([[Quests#A Curious Substance|Special Order]])
+|-
+|[[File:Hopper.png|center]]
+|[[Hopper]]
+|{{Description|Hopper}}
+|{{name|Hardwood|10}}{{name|Iridium Bar|1}}{{name|Radioactive Bar|1}}
+|[[File:Mr. Qi Icon.png|24px|link=]] [[Qi's Walnut Room|Mr. Qi]] ({{price|50|Gem}})
+|}
+
+==Buildings==
+{|class="wikitable roundedborder"
+! Image
+! Name
+! Description
+! Cost
+|-
+|[[File:House (tier 3).png|center|72px]]
+|[[Farmhouse#Upgrades|Farmhouse Upgrade 2]]
+|Adds two new rooms, one empty, and one with a crib and two single beds, thus allowing you to have children. Kitchen and bedroom are larger.
+|{{Price|50000}}{{name|Hardwood|150}}
+|-
+|[[File:Horse Stable.png|72px|center]]
+|[[Stable]]
+|{{Description|Stable}}
+|{{Price|10000}}{{name|Hardwood|100}}{{name|Iron Bar|5}}
+|}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin
+|dislike=Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+}}
+
+==Bundles==
+Ten Hardwood are required for the {{Bundle|Construction||y}}.
+
+==Tailoring==
+Hardwood is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt047|link=Tailoring{{!}}Shirt|class=inline}}. It is a brown dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the orange dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*[[Robin]] requests 10 Hardwood by mail on the 21st of [[Winter]] in the [[Quests#Robin's Request|"Robin's Request" Quest]].  The reward is {{Price|500}} and 1 [[Friendship]] heart.
+*[[Robin]] requests 80 Hardwood in the [[Quests#Robin's Project|"Robin's Project"]] Special Order. The reward is {{Price|2000}} and the [[Deluxe Red Double Bed]] Recipe.
+*[[Fish Shop#Willy's Boat|Willy's Boat]] needs 200 Hardwood to repair the boat's outer hull.
+*10 Hardwood are requested by [[Woodskip]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 1 to 3.
+*5 Hardwood may be requested by [[Crayfish]], [[Periwinkle]], or [[Snail]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==Notes==
+*A [[Wood Chipper]] can be used to convert Hardwood into [[Wood]], [[Maple Syrup]], [[Oak Resin]] or [[Pine Tar]].
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].  The Forester Profession no longer increases the sale price of Hardwood. Used as an ingredient to the Warp Totem: Desert recipe. Can be requested in [[Fish Pond#Quests|Fish Pond quests]]. Can be produced by Fish Ponds.}}
+{{History|1.5|Can now be obtained by chopping down Mahogany Trees. Needed in Special Order 'Robin's Project' and repairing Willy's Boat. Used as an ingredient to the Warp Totem: Island, Ostrich Incubator, Heavy Tapper, Mini-Obelisk, and Hopper recipes. No longer used as an ingredient to the Skull Brazier recipe.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Hartholz]]
+[[es:Madera noble]]
+[[fr:Bois dur]]
+[[it:Legno duro]]
+[[ja:堅い木]]
+[[ko:단단한 나무]]
+[[hu:Keményfa]]
+[[pt:Madeira de lei]]
+[[ru:Твердая древесина]]
+[[tr:Kereste]]
+[[zh:硬木]]

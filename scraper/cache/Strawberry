@@ -1,0 +1,263 @@
+{{Infobox
+|eng         = Strawberry
+|seed        = {{name|Strawberry Seeds}}
+|growth      = 8 days
+|season      = Spring
+|xp          = 18 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 120
+|edibility   = 20
+}}
+The '''Strawberry''' is a [[Fruits|fruit]] [[Crops|crop]] that grows from [[Strawberry Seeds]] after 8 days.
+
+==Stages==
+When harvested, each Strawberry plant gives 1 Strawberry every 4 days, with a 2% chance for more Strawberries.
+<section begin="cropstages" />
+{| class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Strawberry Stage 1.png|center|link=]]
+|[[File:Strawberry Stage 2.png|center|link=]]
+|[[File:Strawberry Stage 3.png|center|link=]]
+|[[File:Strawberry Stage 4.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 6.png|center|link=]]
+|[[File:Strawberry Stage 7.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|2 Days
+|2 Days
+|2 Days
+|Total: 8 Days
+|Regrowth: 4 Days
+|-
+|}<section end="cropstages" />
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Strawberry}}
+
+==Number of Harvests==
+'''Planting on Spring 1'''
+
+{| class="wikitable"
+! Modifier
+! Growing days
+! Harvest days
+! # Harvests
+|-
+| None
+| 8 days
+| 20 days
+| 5
+|-
+| 10%
+| 7 days
+| 21 days
+| 6
+|-
+| 20%
+| 6 days
+| 22 days
+| 6
+|-
+| 25%
+| 6 days
+| 22 days
+| 6
+|-
+| 35%
+| 5 days
+| 23 days
+| 6
+|}
+
+'''Planting on Day of Egg Festival'''
+
+Planting a lot of strawberries can be difficult during the evening after the Egg Festival concludes. The best strategy involves land preparation before the festival. Tilling, fertilizing, and watering can all be completed separately, hours prior to planting.
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="text-align:center; min-width:406px;"
+|-
+!colspan="7"|Planting on Spring 13 - No Modifiers
+|-
+!Mon
+!Tue
+!Wed
+!Thu
+!Fri
+!Sat
+!Sun
+|-
+| || || || || || || style="height:50px;" |
+|-
+| || || || ||
+|[[File:Strawberry Stage 1.png|center|link=]]
+|[[File:Strawberry Stage 2.png|center|link=]]
+|-
+|[[File:Strawberry Stage 3.png|center|link=]]
+|[[File:Strawberry Stage 3.png|center|link=]]
+|[[File:Strawberry Stage 4.png|center|link=]]
+|[[File:Strawberry Stage 4.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry.png|center|link=]]
+|-
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|}
+
+{| class="wikitable"
+! Modifier
+! Growing days
+! Harvest days
+! # Harvests
+|-
+| None
+| 8 days
+| 8 days
+| 2
+|-
+| 10%
+| 7 days
+| 9 days
+| 3
+|-
+| 20%
+| 6 days
+| 10 days
+| 3
+|-
+| 25%
+| 6 days
+| 10 days
+| 3
+|-
+| 35%
+| 5 days
+| 11 days
+| 3
+|}
+
+'''Planting on Spring 14'''
+
+These are the stats for planting on the day following the festival.
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="text-align:center; min-width:406px;"
+|-
+!colspan="7"|Planting on Spring 14 - No Modifiers
+|-
+!Mon
+!Tue
+!Wed
+!Thu
+!Fri
+!Sat
+!Sun
+|-
+| || || || || || || style="height:50px;" |
+|-
+| || || || || ||
+|[[File:Strawberry Stage 1.png|center|link=]]
+|-
+|[[File:Strawberry Stage 2.png|center|link=]]
+|[[File:Strawberry Stage 3.png|center|link=]]
+|[[File:Strawberry Stage 3.png|center|link=]]
+|[[File:Strawberry Stage 4.png|center|link=]]
+|[[File:Strawberry Stage 4.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|-
+|[[File:Strawberry.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|}
+
+{| class="wikitable"
+! Modifier
+! Growing days
+! Harvest days
+! # Harvests
+|-
+| None
+| 8 days
+| 7 days
+| 2
+|-
+| 10%
+| 7 days
+| 8 days
+| 2
+|-
+| 20%
+| 6 days
+| 9 days
+| 3
+|-
+| 25%
+| 6 days
+| 9 days
+| 3
+|-
+| 35%
+| 5 days
+| 10 days
+| 3
+|}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Linus,Pam,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|love=Demetrius,Maru
+|neutral=Sebastian,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Emily,Sam,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|dislike=Abigail,Haley,Jas,Vincent
+}}
+
+==Bundles==
+Strawberry is not used in any [[bundles]].
+
+==Recipes==
+Strawberry is not used in any recipes.
+
+==Tailoring==
+Strawberry can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Farmer Pants]].  [[File:Farmer Pants.png|36px]]  It can also be used as a red dye in the dye pots, located at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Strawberry is not used in any [[quests]].
+
+==Trivia==
+*It is possible to get three harvests from strawberry plants during Spring of year 1. This requires using [[Speed-Gro]] and planting on Spring 13, and the easiest way to do this is to complete the [[Bundles#Spring Crops Bundle|spring crops bundle]]; this requires planting cauliflower on Spring 1 as well as visiting the [[Community Center]] after the [[Egg Festival]] before planting the strawberries. The other way to acquire Speed-Gro by Spring 13 is to craft it, but this requires achieving level 3 [[foraging]] by Spring 6 to acquire [[Pine Tar]] in time, which is more difficult.
+
+==History==
+{{History|1.4|Removed from [[Summer]] help wanted [[quests]].  Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Erdbeere]]
+[[es:Fresa]]
+[[fr:Fraise]]
+[[it:Fragola]]
+[[ja:イチゴ]]
+[[ko:딸기]]
+[[hu:Eper]]
+[[pt:Morango]]
+[[ru:Клубника]]
+[[tr:Çilek]]
+[[zh:草莓]]

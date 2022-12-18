@@ -1,0 +1,105 @@
+{{Infobox
+|eng       = Clay
+|source    = [[Artifact Spot]]s • [[Minerals#Geodes|Geodes]] • [[Mining#Clay Node|Clay Nodes]]
+|sellprice = 20
+|quality   = false
+}}
+'''Clay''' is a resource that can be found by tilling dirt, sand, or [[Artifact Spot]]s, by mining [[Mining#Clay Node|Clay Nodes]] at the [[Ginger Island#Dig Site|Ginger Island Dig Site]], or from cracking open [[Minerals#Geodes|Geodes]]. It can also be received as a gift from [[Jas]] or [[Vincent]] at the [[Feast of the Winter Star]].
+
+==Recipes==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Quality Retaining Soil.png|center]]
+|[[Quality Retaining Soil]] (2)
+|{{Description|Quality Retaining Soil}}
+|{{name|Clay|1}}{{name|Stone|3}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 7
+|-
+|[[File:Garden Pot.png|center]]
+|[[Garden Pot]]
+|{{Description|Garden Pot}}
+|{{name|Clay|1}}{{name|Stone|10}}{{name|Refined Quartz|1}}
+|[[File:Evelyn Icon.png|24px|link=]] [[Evelyn]] cutscene after completing the [[Greenhouse]]
+|-
+|[[File:Brick Floor.png|center]]
+|[[Brick Floor]] (5)
+|{{Description|Brick Floor}}
+|{{name|Clay|2}}{{name|Stone|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|500}})
+|-
+|[[File:Fiber Seeds.png|center]]
+|[[Fiber Seeds]] (4)
+|{{Description|Fiber Seeds}}
+|{{name|Clay|1}}{{name|Mixed Seeds|1}}{{name|Sap|5}}
+|[[File:Linus Icon.png|24px|link=]] [[Linus]] ([[Quests#Community Cleanup|Special Order]])
+|-
+|[[File:Deluxe Retaining Soil.png|center]]
+|[[Deluxe Retaining Soil]]
+|{{Description|Deluxe Retaining Soil}}
+|{{name|Clay|1}}{{name|Stone|5}}{{name|Fiber|3}}
+|[[File:Island Trader Icon.png|24px|link=]] [[Island Trader]] for {{name|Cinder Shard|50|class=inline}}
+|-
+|[[File:Bone Mill.png|center]]
+|[[Bone Mill]]
+|{{Description|Bone Mill}}
+|{{name|Clay|3}}{{name|Bone Fragment|10}}{{name|Stone|20}}
+|[[File:Gunther Icon.png|24px|link=]] [[Gunther]] ([[Quests#Fragments of the past|Special Order]])
+|}
+
+==Buildings==
+{|class="wikitable"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Silo.png|48px|center]]
+|[[Silo]]
+|{{Description|Silo}}
+|{{Price|100}}{{name|Stone|100}}{{name|Clay|10}}{{name|Copper Bar|5}}
+|style="text-align: center;"|'''3x3'''<br />[[File:Marker3x3.png]]
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Alex,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Sam,Leah,Shane,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|hate=Sebastian,Abigail,George,Evelyn,Haley,Jas,Vincent,Marnie
+}}
+
+==Bundles==
+Clay is not used in any [[Bundles|bundles]].
+
+==Tailoring==
+Clay is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring#Shirts|Shirt]]. [[File:Shirt001.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Two, three, or five Clay may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+==Tips==
+* It may be worth considering digging for clay in [[the Mines]], as this will additionally produce [[Cave Carrot]]s. [[Bomb]]s or other explosives can be used to dig the dirt faster.
+
+==History==
+{{History|1.3.27|Added [[Garden Pot]].}}
+{{History|1.4|Can now be used in [[Tailoring]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Used as an ingredient to the Fiber Seeds, Deluxe Retaining Soil, and Bone Mill recipes. Can now be dropped by Clay Nodes.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Lehm]]
+[[es:Arcilla]]
+[[fr:Argile]]
+[[it:Argilla]]
+[[ja:粘土]]
+[[ko:점토]]
+[[hu:Agyag]]
+[[pt:Argila]]
+[[ru:Глина]]
+[[tr:Kil]]
+[[zh:粘土]]

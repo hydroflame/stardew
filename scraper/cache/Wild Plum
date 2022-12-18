@@ -1,0 +1,71 @@
+{{Infobox
+|eng       = Wild Plum
+|source    = [[Foraging]] • [[Fall Seeds]] • [[The Cave|The Farm Cave]]
+|season    = Fall
+|edibility = 10
+|sellprice = 80
+|xp        = 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Wild Plum''' is a [[Fruits|fruit]] found via [[foraging]] throughout Stardew Valley in the [[Fall]].  It can also be grown from [[Fall Seeds]] and can be found at any time (randomly) in the [[The Cave|Farm Cave]] if the fruit bat option is chosen.
+
+==Gifting==
+{{GiftsByItem
+|like=Linus,Leah,Harvey,Demetrius,Elliott,Jodi,Kent,Pam,Robin,Sandy,Shane
+|neutral=Sebastian,Maru,Alex,George,Evelyn,Lewis,Clint,Penny,Emily,Marnie,Gus,Caroline,Dwarf,Krobus,Pierre,Sam,Willy,Wizard,Leo
+|dislike=Haley,Jas,Vincent,Abigail
+}}
+
+==Bundles==
+*Wild Plum is used in the {{Bundle|Fall Foraging||y}}.
+*Twenty Wild Plums are an option for the {{Bundle|Forager||y|}}.
+
+==Recipes==
+===Cooking===
+{{Recipes|Header|hide=buff,duration}}
+{{:Plum Pudding|RecipeRow/NoBuffs}}
+{{Recipes|Footer}}
+
+===Crafting===
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Fall Seeds.png|center|link=]]
+|[[Crafting#Seeds|Wild Seeds (Fa)]]
+||{{Description|Fall Seeds}}<br />''(Produces 10 Fall Seeds per craft)''
+|{{name|Blackberry|1}}{{name|Common Mushroom|1}}{{name|Hazelnut|1}}{{name|Wild Plum|1}}
+|class="no-wrap"|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 6
+|{{price|45}}
+|}
+
+==Tailoring==
+Wild Plum can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Farmer Pants]].  [[File:Farmer Pants.png|36px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Wild Plum may be randomly requested in [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|240}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Labeled as a fruit, allowing it to be made into [[wine]] and [[Jellies and Pickles|jelly]].}}
+{{History|1.4|Changed from Forage to Fruit in Brazilian-Portuguese, Chinese, German, Japanese, Spanish, and Russian.  Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Fall Forage]]
+[[Category:Fall fruit]]
+
+[[de:Wildpflaume]]
+[[es:Ciruela salvaje]]
+[[fr:Prune sauvage]]
+[[it:Prugna selvatica]]
+[[ja:野生のプラム]]
+[[ko:야생 자두]]
+[[hu:Vadszilva]]
+[[pt:Ameixa selvagem]]
+[[ru:Черная слива]]
+[[tr:Çakaleriği]]
+[[zh:野梅]]

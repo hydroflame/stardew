@@ -1,0 +1,45 @@
+{{Infobox
+|eng             = Caviar
+|source          = [[Artisan Goods]]
+|edibility       = 70
+|sellprice       = 500
+|ingredients     = {{name|Sturgeon Roe|1}}
+|craftingstation = {{name|Preserves Jar}}
+|crafttime       = 6000m
+|quality         = false
+}}
+'''Caviar''' is an [[Artisan Goods|Artisan Good]] made from [[Sturgeon]] [[Roe]] using the [[Preserves Jar]].  It may also randomly appear at the [[Traveling Cart]] for {{tprice|500}}.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Emily,Haley,Jodi,Kent,Sam,Leah,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Penny,Pam,Shane,Leo
+|hate=Jas,Sebastian,Vincent
+}}
+
+==Bundles==
+Caviar is an option for the {{bundle|missing||y}}.
+
+==Tailoring==
+Caviar is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{name|Fashion Hat|class=inline}}.
+
+==Quests==
+Caviar is not used in any [[quests]].
+
+==History==
+{{History|1.4|Introduced.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Kaviar]]
+[[es:Caviar]]
+[[fr:Caviar]]
+[[it:Caviale]]
+[[ja:キャビア]]
+[[ko:캐비아]]
+[[hu:Kaviár]]
+[[pt:Caviar]]
+[[ru:Черная икра]]
+[[tr:Hayvar]]
+[[zh:鱼子酱]]

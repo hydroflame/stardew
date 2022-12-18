@@ -1,0 +1,143 @@
+{{Infobox
+|eng         = Honey
+|source      = [[Artisan Goods]] • [[Oasis]]
+|season      = [[Spring]], [[Summer]], [[Fall]]
+|ingredients = Various [[flowers]]
+|edibility   = -300
+|sellprice   = 100
+|quality     = false
+|craftingstation = {{name|Bee House}}
+|crafttime   = 6100m (&#8776;4d)
+}}
+'''Honey''' is an [[Artisan Goods|Artisan Good]] produced by the [[Bee House]] every 4 days in every season other than [[Winter]]. It can be purchased from the [[Oasis]] year-round on Fridays for {{price|200}} or at the Traveling Cart for {{tprice|100}}. 
+
+Honey can be made into [[Mead|mead]] by placing it inside a [[Keg|keg]].
+
+==Flower Honey==
+Fully-grown flowers planted near the Bee House will have an effect on the type of honey produced, increasing its sale price. Flowers are not used up when a hive produces honey, and multiple hives can make honey from the same flower, so one flower can service a large number of hives. The honey type is determined when harvested, rather than when it becomes ready: If honey is left in a Bee House until a nearby flower has bloomed, it will be harvested as flower honey.
+
+If no flowers are planted near the Bee House, or if a Bee House has produced flower honey, but the flower is harvested before the honey, the honey will become "Wild Honey," the least profitable Honey. Similarly, if a Bee House is removed with a [[Tools|tool]] while it has flower honey ready for harvesting, the honey will go into inventory as "Honey", which is functionally identical to Wild Honey. Honey purchased from the [[Oasis]] or [[Traveling Cart]], or [[Deconstructor|deconstructed]] from a [[Warp Totem: Farm]], is also called "Honey", and is also functionally identical to Wild Honey.
+
+==Sell Prices== 
+[[Flowers]] not listed below (''i.e.,'' [[Crocus]] and [[Sweet Pea]]) do not influence the price of honey.  [[Daffodil]] and [[Dandelion]] are classified as "Forage" not "Flower" in-game, so they do not influence the price of honey either.
+
+The formula used to calculate the sale price of honey is <code>base honey sell price + (base flower sell price &times; 2)</code>.<ref name="sellprice" />
+
+{|class="wikitable sortable roundedborder"
+!Flower Honey
+!Flower Season
+!Flower Growth Time
+![[File:Honey.png|24px|link=]] Honey Sell Price
+![[File:Artisan.png|24px|link=]] Artisan Profession<br />Sell Price (+40%)
+|-
+|N/A (Wild Honey)
+|data-sort-value="0"|{{Season|Spring}} <br /> {{Season|Summer}} <br /> {{Season|Fall}} 
+|data-sort-value="0"|N/A 
+|{{price|100}} 
+|{{price|140}}
+|-
+|{{name|Tulip}}
+|data-sort-value="0"|{{Season|Spring}}
+|data-sort-value="6"|6 Days 
+|{{price|160}}
+|{{price|224}}
+|-
+|{{name|Blue Jazz}}
+|data-sort-value="0"|{{Season|Spring}}
+|data-sort-value="7"|7 Days
+|{{price|200}}
+|{{price|280}}
+|-
+|{{name|Summer Spangle}}
+|data-sort-value="1"|{{Season|Summer}}
+|data-sort-value="8"|8 Days
+|{{price|280}}
+|{{price|392}}
+|-
+|{{name|Poppy}}
+|data-sort-value="1"|{{Season|Summer}}
+|data-sort-value="7"|7 Days 
+|{{price|380}} 
+|{{price|532}}
+|-
+|{{name|Sunflower}}
+|data-sort-value="1"|{{Season|Summer}} <br /> {{Season|Fall}}
+|data-sort-value="8"|8 Days 
+|{{price|260}} 
+|{{price|364}}
+|-
+|{{name|Fairy Rose}}
+|data-sort-value="2"|{{Season|Fall}}
+|data-sort-value="12"|12 Days
+|{{price|680}}
+|{{price|952}}
+|-
+|}
+
+==Range==
+Flowers within 5 tiles of a [[Bee House]] will affect the type of honey produced.
+
+[[File:Bee House Range.png]]
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Jas,Vincent,Leo
+|hate=Maru,Sebastian
+}}
+
+==Bundles==
+It is an option for the {{Bundle|Artisan||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration,restores}}
+{{:Warp Totem: Farm|RecipeRow/NoBuffsHealthEnergy}}
+{{Recipes|footer}}
+
+==Artisan Goods==
+Honey may be placed in a [[Keg]] to produce [[Mead]].  Mead may be aged in [[Cask]]s to increase its quality.
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Mead.png]]
+|[[Mead]]
+|{{Description|Mead}}
+|{{name|Honey|1}}
+|{{name|Keg}}
+|-
+|}
+
+==Tailoring==
+Honey is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Simple Dress]]. [[File:Simple Dress.png|36px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+One Honey (of any type) may be requested by several fish in [[Fish Pond#Quests|Fish Pond quests]].
+
+==References==
+<references>
+<ref name="sellprice">See <samp>Object::checkForAction</samp> in the game code.  The base sell price of honey is set in <samp>ObjectInformation.xnb</samp>.</ref>
+</references>
+
+==History==
+{{History|1.4|Added sunflower honey.  Fixed lopsided bee house range.  Jas & Vincent now like honey, instead of hating it.  Honey can now be used in Tailoring.  Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Honey can now be collected from bee houses right when the morning starts (every 4 days).}}
+{{History|1.5.2|Fixed bug where Honey could not be collected from bee houses on the Ginger Island farm during Winter.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Honig]]
+[[es:Miel]]
+[[fr:Miel]]
+[[it:Miele]]
+[[ja:ハチミツ]]
+[[ko:벌꿀]]
+[[hu:Méz]]
+[[pt:Mel]]
+[[ru:Мед]]
+[[tr:Bal]]
+[[zh:蜂蜜]]

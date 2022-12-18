@@ -1,0 +1,56 @@
+{{Infobox
+|eng         = Spring Onion
+|source      = [[Foraging]]
+|location    = [[Cindersap Forest]]
+|season      = Spring
+|edibility   = 5
+|sellprice   = 8
+|xp          = 3 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Spring Onion''' is a [[Foraging|foraged]] item found in [[Spring]] in [[Cindersap Forest]], but only on the southeast island (''i.e.,'' north of [[the Sewers]] entrance).  Unlike other foraged items, spring onions are respawned daily: all unharvested onions are removed at the end of each day, and new onions appear. The [[Livin' Off The Land]] [[Television]] channel airs a tip about Spring Onions on day 4. Spring Onions may randomly appear in the [[Traveling Cart]]'s stock for {{tprice|8}}.
+
+Harvesting a Spring Onion grants the player 3 Foraging XP. Only one onion can be harvested per plant; the [[Skills#Foraging|Gatherer]] profession does not apply to spring onions.
+
+Once the player has earned 8 hearts of [[friendship]] with [[Jas]] and [[Vincent]], [[Spring Onion Mastery]] can be obtained, which permanently increases the sell price of Spring Onions by 5&times;.
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Sandy,Willy,Krobus,Leo
+|like=Linus,Leah,Harvey
+}}
+
+==Bundles==
+Spring Onion is an option in the {{Bundle|spring forage remixed||y}}.
+
+==Recipes==
+Spring Onion is not used in any recipes.
+
+==Tailoring==
+Spring Onion is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Spring Shirt]].  [[File:Shirt258.png|24px]]
+
+==Quests==
+Spring Onion is not used in any [[quests]].
+
+==Bugs==
+On rainy days a harvested Spring Onion will leave behind a tile of dry tilled soil, whereas other tilled soil will be wet.
+
+==History==
+{{History|1.3.27|Added [[Spring Onion Mastery]].}}
+{{History|1.4|Spring Onions' quality is now determined at the start of the day.  This fixes an exploit where repeatedly clicking on a Spring Onion with a full inventory would harvest the Onion and change its quality to the quality of an Onion held in inventory.  Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Spring Forage]]
+[[Category:Bugs tested in 1.3.36]]
+
+[[de:Frühlingszwiebel]]
+[[es:Cebolleta]]
+[[fr:Oignon nouveau]]
+[[it:Cipolla primaverile]]
+[[ja:葉タマネギ]]
+[[ko:파]]
+[[hu:Újhagyma]]
+[[pt:Cebolinha]]
+[[ru:Лук-батун]]
+[[tr:Yeşil Soğan]]
+[[zh:大葱]]

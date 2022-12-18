@@ -1,0 +1,68 @@
+{{Infobox
+|eng             = Goat Cheese
+|source          = [[Artisan Goods]]
+|ingredients     = {{name|Goat Milk|1|class=inline}} ''or''{{name|Large Goat Milk|1}}
+|sellprice       = 400
+|edibility       = 50
+|craftingstation = {{name|Cheese Press}}
+|crafttime       = 200m (&#8776;3h)
+}}
+'''Goat Cheese''' is an [[Artisan Goods|Artisan Good]] made by placing [[Goat Milk]] in a [[Cheese Press]] (takes 3.3 hours). Using Goat Milk will produce normal quality Goat Cheese, while [[Large Goat Milk]] will produce gold quality Goat Cheese.
+
+==Aged Values==
+Goat Cheese can be placed inside a [[Cask]] to age from normal quality to silver, gold, and eventually iridium quality. Iridium quality doubles the base sell price of Goat Cheese.  
+
+Normal, silver, and gold quality Goat Cheese can be prematurely removed from a cask at any time by striking the cask with an [[Axes|Axe]], [[Hoes|Hoe]], or [[Pickaxes|Pickaxe]].
+
+{|class="wikitable roundedborder"
+!Base Quality
+!Silver Star<br />(x 1.25)
+!Gold Star<br />(x 1.5)
+!Iridium Star<br />(x 2)
+|-
+|{{Qualityprice|Goat Cheese|400|hide=silver,gold}}
+|{{Qualityprice|Goat Cheese|400|hide=normal,gold}} ''Aged: 3 Days''
+|{{Qualityprice|Goat Cheese|400|hide=normal,silver}} ''Aged: 4 Days<br />Total: 7 Days''
+|{{Qualityprice|Goat Cheese|400|iridium|hide=normal,silver,gold}} ''Aged: 7 Days<br />Total: 14 Days''
+|}
+
+==Gifting==
+{{GiftsByItem
+|love=Robin,Leah
+|like=Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jodi,Kent,Sam,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Sandy,Willy,Krobus,Leo
+|hate=Sebastian,Jas,Vincent
+|dislike=Harvey
+}}
+
+==Bundles==
+Goat Cheese is an option for the {{Bundle|Artisan||y}}.
+
+==Recipes==
+Goat Cheese is not used in any recipes.
+
+==Tailoring==
+Goat Cheese is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt093.png|24px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Goat Cheese is not used in any quests.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Added ability to age in [[cask]]s. Increased sell price from 300g to 375g.}}
+{{History|1.4|Increased sell price from 375g to 400g.  Can now be used in [[Tailoring]].}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Ziegenkäse]]
+[[es:Queso de cabra]]
+[[fr:Fromage de chèvre]]
+[[it:Formaggio di capra]]
+[[ja:ヤギのチーズ]]
+[[ko:염소 치즈]]
+[[hu:Kecskesajt]]
+[[pt:Queijo de cabra]]
+[[ru:Козий сыр]]
+[[tr:Keçi Peyniri]]
+[[zh:山羊奶酪]]

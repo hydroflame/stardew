@@ -1,0 +1,61 @@
+{{Spoiler}}
+{{Infobox
+|eng       = Ginger
+|source    = <nowiki />
+*[[Foraging]] on [[Ginger Island]]
+*{{name|Tiger Slime}}
+|season    = All
+|sellprice = 60
+|edibility = 10
+|quality   = false
+}}
+'''Ginger''' is a root found growing wild on [[Ginger Island]]. It must be harvested with a [[Hoes|hoe]]. It can also be dropped by [[Slimes|Tiger Slimes]].  Harvesting Ginger does not grant any XP.
+
+==Gifting==
+{{GiftsByItem
+|like=Harvey,Leah,Linus
+|neutral=Alex,Abigail,Emily,Maru,Penny,Clint,Demetrius,Evelyn,George,Gus,Kent,Lewis,Marnie,Pam,Robin,Sandy
+|dislike=Elliott,Sam,Sebastian,Shane,Haley,Caroline,Dwarf,Jas,Jodi,Krobus,Leo,Pierre,Vincent,Willy,Wizard
+}}
+
+==Recipes==
+===Cooking===
+{{Recipes|header|}}
+{{:Ginger Ale|RecipeRow}}
+{{Recipes|footer}}
+
+===Crafting===
+{{Recipes|header|hide=buff,duration,restores}}
+{{:Warp Totem: Island|RecipeRow/NoBuffsHealthEnergy}}
+{{Recipes|footer}}
+
+==Artisan Goods==
+Ginger can be placed in a [[Preserves Jar]] to make Ginger Pickles. Ginger is the only "Forage" item that can be [[Jellies and Pickles|pickled]]. Ginger cannot be placed in a [[Keg]].
+
+==Tailoring==
+It is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{name|Forager's Hat|class=inline}}. It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*[[Caroline]] may request 100 ginger in the [[Quests#List of Special Orders|"Island Ingredients"]] Special Order. The reward is gold equivalent to 50% of base crop price and the [[Solar Panel]] recipe.
+
+==Notes==
+*Ginger and ginger ale are common remedies for nausea. Though it is not specified in the objects descriptions, eating Ginger or drinking [[Ginger Ale]] cures the [[Buffs#Nauseated|Nauseated debuff]]. This is hinted at by [[File:Birdie Icon.png|24px|link=]] [[Birdie]], the pirate's widow who lives on [[Ginger Island]].
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxForaging}}
+
+[[Category:Foraging]]
+
+[[de:Ingwer]]
+[[es:Jengibre]]
+[[fr:Gingembre]]
+[[it:Zenzero]]
+[[ja:ショウガ]]
+[[ko:생강]]
+[[hu:Gyömbér]]
+[[pt:Gengibre]]
+[[ru:Имбирь]]
+[[tr:Zencefil]]
+[[zh:姜]]

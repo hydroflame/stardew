@@ -1,0 +1,107 @@
+{{Infobox
+|eng         = Hops
+|seed        = {{name|Hops Starter}}
+|growth      = 11 days
+|season      = Summer
+|xp          = 6 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 25
+|edibility   = 18
+}}
+'''Hops''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Hops Starter]] after 11 days.
+
+Hops can be put into a [[Keg]] to make [[Pale Ale]]. Pale Ale has one of the highest returns on investment in the game, surpassed only by [[Starfruit]] wine.
+
+==Stages==
+You cannot walk through Hops at any stage of growth.  You can walk through dead Hops plants.
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Hops Stage 1.png|center|link=]]
+|[[File:Hops Stage 3.png|center|link=]]
+|[[File:Hops Stage 4.png|center|link=]]
+|[[File:Hops Stage 5.png|center|link=]]
+|[[File:Hops Stage 6.png|center|link=]]
+|[[File:Hops Stage 7.png|center|link=]]
+|[[File:Hops Stage 8.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|2 Day
+|3 Day
+|4 Days
+|Total: 11 Days
+|Regrowth: 1 Day
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Hops}}
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|hate=Penny,Leo
+}}
+
+==Bundles==
+Hops is used in {{Bundle|Wild Medicine||y}}
+
+==Recipes==
+Hops is not used in any recipes.
+
+==Artisan Goods==
+Hops may be placed in a [[Keg]] to produce [[Pale Ale]].  Pale Ale may be aged in [[Cask]]s to increase its quality.
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Pale Ale.png|center]]
+|[[Pale Ale]]
+|{{Description|Pale Ale}}
+|{{name|Hops|1}}
+|style="text-align: center;" | [[File:Keg.png|36px|center]][[Keg]]
+|{{duration|2250m (37.5h &#8776;1.5d)}}
+|{{price|300}}
+|}
+
+==Tailoring==
+Hops is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shirt159|link=Tailoring{{!}}Shirt and Belt|class=inline}}. It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Tip==
+Hops give the 2nd best experience for leveling up your [[Farming]] skill in a single season (102 to 126 depending on how fast you grow it to maturity). It is only beaten out by a mature [[Ancient Fruit]] crop. A large amount of Hops Starters can be a great way to quickly level up your Farming skill your first summer.
+
+Selling [[Hops Starter]] made from the [[Seed Maker]] can be more profitable than selling the Hops directly, and also potentially generates [[Ancient Seeds]]. Pale Ale and Pickled Hops are more profitable, but the Seed Maker only takes 20 in-game minutes.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+[[Category:Vegetables]]
+[[Category:Trellis Crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Hopfen]]
+[[es:Lúpulo]]
+[[fr:Houblon]]
+[[it:Luppolo]]
+[[ja:ホップ]]
+[[ko:홉]]
+[[hu:Komló]]
+[[pt:Lúpulo]]
+[[ru:Хмель]]
+[[tr:Şerbetçiotu]]
+[[zh:啤酒花]]

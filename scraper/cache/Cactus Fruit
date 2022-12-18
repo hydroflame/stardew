@@ -1,0 +1,115 @@
+{{Infobox
+|eng         = Cactus Fruit
+|source      = <nowiki />
+*<span class="no-wrap">[[Foraging]] in [[the Desert]]</span>
+*[[Oasis]]
+*{{name|Cactus Seeds}}
+|season      = All
+|growth      = 12 days
+|xp          = <nowiki />
+*[[Foraging]]: 7 [[Foraging]] XP
+*[[Cactus Seeds]]: 14 [[Farming]] XP
+*[[Oasis]]: N/A
+|sellprice   = 75
+|edibility   = 30
+}}
+The '''Cactus Fruit''' is found via [[foraging]] in [[The Desert|the Calico Desert]]. It can also be bought at the [[Oasis]] on Tuesdays for {{price|150}} or randomly at the [[Traveling Cart]] for {{tprice|75}}.
+
+Cactus Fruit may also be grown from [[Cactus Seeds]].  Cactus Fruit grown from Cactus Seeds benefits from the [[Farming#Farming Skill|Tiller Profession]] bonus.
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Cactus Stage 1.png|center|link=]]
+|[[File:Cactus Stage 2.png|center|link=]]
+|[[File:Cactus Stage 3.png|center|link=]]
+|[[File:Cactus Stage 4.png|center|link=]]
+|[[File:Cactus Stage 5.png|center|link=]]
+|[[File:Cactus Stage 6.png|center|link=]]
+|[[File:Cactus Stage 7.png|center|link=]]
+|-
+|2 Days
+|2 Days
+|2 Days
+|3 Days
+|3 Days
+|Total: 12 Days
+|Regrowth: 3 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Cactus Fruit}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Lewis,Jodi,Kent,Leah,Shane,Elliott,Harvey,Sandy
+|neutral=Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Clint,Penny,Emily,Marnie,Gus,Dwarf,Wizard,Willy,Krobus,Leo
+|love=Linus,Pam,Sam
+|dislike=Abigail,Haley,Jas,Vincent
+}}
+
+==Bundles==
+*Cactus Fruit is one of the options for the {{Bundle|Exotic Foraging||y}}.
+*Cactus Fruit may be an option for the {{Bundle|Dye Remixed||y}}.
+
+==Recipes==
+Cactus Fruit is not used in any recipes.
+
+==Buildings==
+Cactus Fruit is used to construct [[Desert Obelisk]]s purchased from the [[Wizard's Tower]].
+
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Desert Obelisk.png|60px|center]]
+|[[Desert Obelisk]]
+|{{Description|Desert Obelisk}}
+|{{Price|1000000}}{{name|Iridium Bar|20}}{{name|Coconut|10}}{{name|Cactus Fruit|10}}
+|style="text-align: center;"|'''3x2'''[[File:Marker3x2.png|center|3x2]]
+|}
+
+==Tailoring==
+Cactus Fruit is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable [[Tailoring|80's Shirt]].
+*Female version: [[File:Shirt136.png|24px]]
+*Male version: [[File:Shirt152.png|24px]]
+It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*Cactus Fruit may be randomly requested after the player has completed the [[Bundles#Vault|Vault Bundles]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|225}} and 150 [[Friendship]] points.
+*3 Cactus Fruit may be requested by [[Sandfish]] or [[Scorpion Carp]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5.
+
+==History==
+{{History|1.3.27|Added ability to grow from [[Cactus Seeds]].}}
+{{History|1.4|Added [[Desert Obelisk]] building requirement.  Added to [[Quests#Help Wanted Quests|Help Wanted quests]]. Can now be used in [[Tailoring]]. Can be requested in a [[Fish Pond#Quests|Fish Pond quest]].}}
+{{History|1.5|Iridium quality is now possible for grown Cactus Fruit when using [[Deluxe Fertilizer]].}}
+
+{{NavboxForaging}}
+{{NavboxCrop}}
+
+[[Category:Desert Forage]]
+[[Category:Multi-Seasonal crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Kaktus-Frucht]]
+[[es:Higo chumbo]]
+[[fr:Fruit de cactus]]
+[[it:Fico d'India]]
+[[ja:サボテンフルーツ]]
+[[ko:선인장 열매]]
+[[hu:Kaktusz gyümölcs]]
+[[pt:Fruto do cacto]]
+[[ru:Плод кактуса]]
+[[tr:Kaktüs Meyvesi]]
+[[zh:仙人掌果子]]

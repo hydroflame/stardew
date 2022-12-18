@@ -1,0 +1,67 @@
+{{Infobox
+|eng         = Daffodil
+|source      = [[Foraging]] • [[Spring Seeds]]
+|season      = Spring
+|sellprice   = 30
+|edibility   = 0
+|xp          = 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Daffodil''' is found via [[foraging]] in the [[Spring]], or grown from [[Spring Seeds]].  Up to ten can also be purchased from [[Pierre]] at the [[Flower Dance]].  Although it is a flower in its description (and in real life), the game classifies it as "Forage" and not "Flower."
+
+==Healing==
+The Daffodil is edible, but does not increase [[Energy]] or [[Health]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Alex,Lewis,Clint,Penny,Marnie
+|dislike=Sebastian,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus,Leo
+|like=Linus,Pierre,Caroline,George,Evelyn,Pam,Emily,Haley,Jas,Vincent,Kent,Leah,Gus,Harvey
+|hate=Jodi
+|love=Sandy
+}}
+
+==Bundles==
+Daffodil is used in the {{Bundle|Spring Foraging||y}}.
+
+==Recipes==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Spring Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Sp)]]
+||{{Description|Spring Seeds}}<br />''(Produces 10 Spring Seeds per craft.)''
+|{{name|Wild Horseradish|1}}{{name|Daffodil|1}}{{name|Leek|1}}{{name|Dandelion|1}}
+|class="no-wrap"|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 1
+|{{price|35}}
+|-
+|}
+
+==Tailoring==
+Daffodil is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt067.png|24px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Daffodil may be randomly requested in [[Spring]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|90}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Spring Forage]]
+
+[[de:Narzisse]]
+[[es:Narciso]]
+[[fr:Jonquille]]
+[[it:Giunchiglia]]
+[[ja:ラッパスイセン]]
+[[ko:수선화]]
+[[hu:Nárcisz]]
+[[pt:Narciso]]
+[[ru:Нарцисс]]
+[[tr:Fulya]]
+[[zh:黄水仙]]

@@ -1,0 +1,79 @@
+{{Infobox
+|eng         = Garlic
+|seed        = {{name|Garlic Seeds}}
+|growth      = 4 days
+|season      = Spring
+|xp          = 12 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 60
+|edibility   = 8
+}}
+'''Garlic''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Garlic Seeds]] after 4 days.  The seeds are available at [[Pierre's General Store]] starting in Year 2.
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Garlic Stage 1.png|center|link=]]
+|[[File:Garlic Stage 2.png|center|link=]]
+|[[File:Garlic Stage 3.png|center|link=]]
+|[[File:Garlic Stage 4.png|center|link=]]
+|[[File:Garlic Stage 5.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|1 Day
+|1 Day
+|Total: 4 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Garlic}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Caroline,Alex,George,Lewis,Clint,Penny,Pam,Emily,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|hate=Pierre,Evelyn
+|dislike=Abigail,Haley,Jas,Vincent,Jodi,Sam
+}}
+
+==Bundles==
+Garlic is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header}}
+{{:Escargot|RecipeRow}}
+{{:Fiddlehead Risotto|RecipeRow}}
+{{:Oil of Garlic|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Garlic can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Shirt And Belt]].  [[File:Shirt159.png|24px]]
+
+==Quests==
+Garlic is not used in any [[quests]].
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+[[Category:Vegetables]]
+
+[[de:Knoblauch]]
+[[es:Ajo]]
+[[fr:Ail]]
+[[it:Aglio]]
+[[ja:ニンニク]]
+[[ko:마늘]]
+[[pt:Alho]]
+[[hu:Fokhagyma]]
+[[ru:Чеснок]]
+[[tr:Sarımsak]]
+[[zh:蒜]]

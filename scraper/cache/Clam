@@ -1,0 +1,82 @@
+{{Infobox fish
+|eng        = Clam
+|source     = <nowiki />
+* {{Name|Crab Pot|class=inline}}: [[Crab Pot#Saltwater|Saltwater]]
+* [[Foraging]]: [[The Beach]]
+|xp         = <nowiki />
+* Crab Pot: 5 [[Fishing#Experience Points|Fishing XP]]
+* Foraging: 7 [[Foraging#Experience Points|Foraging XP]]
+|season     = Any
+|size       = 1-5
+|edibility  = -300
+|price      = 50
+|professions = false
+}}
+The '''Clam''' is an item that can be caught using a [[Crab Pot]] in any [[Crab Pot#Saltwater|saltwater]] body of water. It can also be [[Foraging|foraged]] from [[The Beach]] or randomly found at the [[Traveling Cart]] for {{tprice|50}}.
+
+Even though all other Crab Pot creatures are considered to be [[fish]], Clams are not. Therefore, they cannot be used in [[Cooking#Recipes|recipes]] that call for any fish, cannot be placed in a [[Fish Pond]], do not benefit from the [[Skills#Fishing|Fisher or Angler professions]], and do not count towards the four fishing [[Fishing#Achievements|achievements]]. They also appear in the [[collections]] tab under [[Collections#Items Shipped|Items Shipped]] instead of the [[Collections#Fish|Fish section]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Vincent,Leo
+|hate=Evelyn
+}}
+
+==Bundles==
+Clam is an option for the {{Bundle|Crab||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Chowder|RecipeRow}}
+{{:Speed-Gro|RecipeRow}}
+{{Recipes|footer}}
+
+==Buildings==
+Ten clams are required to purchase the [[Water Obelisk]] from the [[Wizard's Tower]].
+
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Water Obelisk.png|48px|center]]
+|[[Water Obelisk]]
+||{{Description|Water Obelisk}}
+|{{price|500000}}{{name|Iridium Bar|5}}{{name|Clam|10}}{{name|Coral|10}}
+|style="text-align: center;"|'''3x2'''<br />[[File:Marker3x2.png|center|3x2]]
+|}
+
+==Tailoring==
+Clam can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt261a.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*Two Clams may be requested by several ocean fish in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.1|Used as a building material to the [[Water Obelisk]].}}
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+
+{{NavboxForaging}}
+{{NavboxFish}}
+
+[[Category:Crab pot fish]]
+[[Category:Ocean fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+[[Category:Beach Forage]]
+
+[[de:Venusmuschel]]
+[[es:Almeja]]
+[[fr:Palourde]]
+[[it:Vongola]]
+[[ja:アサリ]]
+[[ko:조개]]
+[[hu:Kagyló]]
+[[pt:Concha]]
+[[ru:Гребешок]]
+[[tr:Deniz Tarağı]]
+[[zh:蛤]]

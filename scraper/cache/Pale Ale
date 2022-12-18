@@ -1,0 +1,69 @@
+{{Infobox
+|eng         = Pale Ale
+|source      = <nowiki />
+*[[Artisan Goods]]
+*[[Ginger Island#Island South|Ginger Island Resort]]
+|buff        = {{name|Tipsy|link=Buffs#Tipsy{{!}}Tipsy}}{{name|Speed|−1}}
+|buffduration= 30s
+|edibility   = 20
+|sellprice   = 300
+|ingredients = {{name|Hops|1}}
+|craftingstation = {{name|Keg}}
+|crafttime   = 2250m (37.5h)
+}}
+'''Pale Ale''' is an [[Artisan Goods|Artisan Good]] made from the [[Keg]] using [[Hops]], taking 1-2 days. It is also available at the [[Ginger Island#Island South|Ginger Island Resort]] for {{price|1000}}. It has the second highest profit per day of any crop used in the [[Keg]] (after [[Starfruit]], 12 &times; base [[Hops]] value) and takes less time compared to other crops (tied with [[Wheat]]). When consumed, Pale Ale causes a [[Buffs|Tipsy]] buff that decreases [[Speed]] by 1.
+
+==Aged Values==
+Pale Ale can be placed inside a [[Cask]] to age from normal quality to silver, gold, and eventually iridium quality. Iridium quality doubles the base sell price of Pale Ale.  
+
+Normal, silver, and gold quality Pale Ale can be prematurely removed from a cask at any time by striking the cask with an [[Axes|Axe]], [[Hoes|Hoe]], or [[Pickaxes|Pickaxe]].
+
+{| class="wikitable roundedborder"
+!Base Quality
+!Silver Star<br />(x 1.25)
+!Gold Star<br />(x 1.5)
+!Iridium Star<br />(x 2)
+|-
+|{{Qualityprice|Pale Ale|300|hide=silver,gold}}
+|{{Qualityprice|Pale Ale|300|hide=normal,gold}} ''Aged: 9 Days''
+|{{Qualityprice|Pale Ale|300|hide=normal,silver}} ''Aged: 8 Days<br />Total: 17 Days''
+|{{Qualityprice|Pale Ale|300|iridium|hide=normal,silver,gold}} ''Aged: 17 Days<br />Total: 34 Days''
+|-
+|}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Emily,Haley,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|hate=Sebastian,Penny,Jas,Vincent,Leo
+|love=Pam
+}}
+
+==Bundles==
+Pale Ale is one of the options for {{Bundle|brewers||y}}.
+
+==Tailoring==
+Pale Ale can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Black Leather Jacket]].  [[File:Shirt138.png|24px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*[[Pam]] requests a Pale Ale by mail on the 14th of [[Summer]] in the [[Quests#Pam Is Thirsty|"Pam Is Thirsty" quest]].  The reward is {{Price|350}} and 1 [[Friendship]] heart.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Added ability to age inside [[cask]]s.}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Helles Bier]]
+[[es:Cerveza pálida]]
+[[fr:Bière blonde]]
+[[it:Malto chiaro]]
+[[ja:ペールエール]]
+[[ko:페일 에일]]
+[[hu:Világos sör]]
+[[pt:Pale Ale]]
+[[ru:Светлый эль]]
+[[tr:Soluk Bira]]
+[[zh:淡啤酒]]

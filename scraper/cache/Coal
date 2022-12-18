@@ -1,0 +1,175 @@
+{{Infobox
+|eng       = Coal
+|source    = [[The Mines|Mines]] • [[Blacksmith]] • [[Charcoal Kiln]] • [[Recycling Machine]] • [[Minerals#Geodes|Geodes]] • [[Fishing#Treasure Chests|Fishing Treasure Chest]] • [[Artifact Spot]] • [[Copper Pan|Panning]] • [[Traveling Cart]] • [[Railroad|Trains]]
+|sellprice = 15
+|quality   = false
+}}
+'''Coal''' is a basic [[:Category:Resources|resource]]. It can be obtained in many different ways, primarily from rocks or [[Dust Sprite]]s in [[The Mines]], purchased from [[Clint]] at the [[Blacksmith]] shop, or using a [[Charcoal Kiln]].  It may also be produced by [[Recycling Machine|recycling]] [[trash]] or found in [[Fishing#Treasure Chests|Fishing Treasure Chests]].  A random amount of coal may be found in addition to metal ores by [[Copper Pan|Panning]]. 
+
+Coal is used in some [[crafting]] recipes and is necessary for smelting in a [[furnace]].
+
+==Locations==
+* Coal can sometimes be found by mining rocks — both in the mines and anywhere on the map. Both daily [[Luck]] and the [[Mining#Mining Skill|Prospector Profession]] increase the chances of finding coal.
+* Coal can be found in mine carts in certain Floors of the mines - follow the mine railways then simply click on the coal-filled cart (Note: this works only once per cart).
+* Coal can be found in brown miner's bags lying in certain Floors of the mines. Every bag contains around 6 pieces.  (Again, this works only once per bag.)
+* A [[Charcoal Kiln]] can be used to convert 10 [[wood]] into 1 coal
+* You can farm coal by killing [[Dust Sprite]]s between Floors 41-79 of the Mines (50% chance of dropping coal).  You can use the elevator to quickly and repeatedly travel between floors ending in 0 or 5.  (This is an easy way to farm [[Iron Ore]] as well.)
+** When farming [[Dust Sprite]]s for Coal, it is best to wear a [[Burglar's Ring]] ([[Adventurer's Guild#Monster Eradication Goals|earned]] by killing [[Dust Sprite]]s).
+* Red, Purple, and Black [[Slimes]] may drop coal (10% chance). They can be raised in [[Slime Hutch|Slime Hutches]]
+* [[Stone Golem]]s, [[Wilderness Golem]]s, [[Metal Head]]s, [[Shadow Brute]]s, and [[Shadow Shaman]]s may drop coal (10% chance).
+* Can be found by digging up an [[Artifact Spot]] (at [[Backwoods]], [[the Mountain]]s, or [[the Farm]])
+* Coal may occasionally be found by [[Copper Pan|Panning]]
+* Coal may occasionally be sold by the [[Traveling Cart]] for {{tprice|15}}.
+* Coal can be found inside all 4 types of [[Minerals#Geodes|geodes]].
+* If a Fruit tree is struck by lightning, it will produce coal instead of fruit for a few days before returning to normal.
+* [[Railroad|Trains]] may randomly drop coal.
+
+Coal purchased at the [[Blacksmith]] costs {{price|150}} during year 1, so it is cheaper in year 1 to buy 10 wood for {{price|100}} from [[Robin]] at the [[Carpenter's Shop]] and convert that wood into coal in the [[Charcoal Kiln]]. After year 1, wood pricing increases to {{price|50}} per piece but coal increases to only {{price|250}}, so it is cheaper to purchase coal directly.
+
+==Recipes==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Bee House.png|center]]
+|[[Bee House]]
+|{{Description|Bee House}}
+|{{name|Coal|8}}{{name|Wood|40}}{{name|Iron Bar|1}}{{name|Maple Syrup|1}}
+|class="no-wrap"|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 3
+|-
+|[[File:Preserves Jar.png|center]]
+|[[Preserves Jar]]
+|{{Description|Preserves Jar}}
+|{{name|Coal|8}}{{name|Wood|50}}{{name|Stone|40}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 4
+|-
+|[[File:Warrior Ring.png|46px|center]]
+|[[Warrior Ring]]
+|{{Description|Warrior Ring}}
+|{{name|Coal|25}}{{name|Iron Bar|10}}{{name|Frozen Tear|10}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 4
+|-
+|[[File:Cherry Bomb.png|center]]
+|[[Cherry Bomb]]
+|{{Description|Cherry Bomb}}
+|{{name|Coal|1}}{{name|Copper Ore|4}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 1
+|-
+|[[File:Bomb.png|46px|center]]
+|[[Bomb]]
+|{{Description|Bomb}}
+|{{name|Coal|1}}{{name|Iron Ore|4}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 6
+|-
+|[[File:Explosive Ammo.png|center]]
+|[[Explosive Ammo]]
+|{{Description|Explosive Ammo}}
+|{{name|Coal|2}}{{name|Iron Bar|1}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 8
+|-
+|[[File:Wicked Statue.png|center]]
+|[[Wicked Statue]]
+|{{Description|Wicked Statue}}
+|{{name|Coal|5}}{{name|Stone|25}}
+|[[File:Krobus Icon.png|24px|link=]] [[Krobus#Shop|Krobus]] ({{price|1000}})
+|-
+|[[File:Wooden Brazier.png|center]]
+|[[Wooden Brazier]]
+|{{Description|Wooden Brazier}}
+|{{name|Coal|1}}{{name|Wood|10}}{{name|Fiber|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|250}})
+|-
+|[[File:Stone Brazier.png|center]]
+|[[Stone Brazier]]
+|{{Description|Stone Brazier}}
+|{{name|Coal|1}}{{name|Stone|10}}{{name|Fiber|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|400}})
+|-
+|[[File:Barrel Brazier.png|center]]
+|[[Barrel Brazier]]
+|{{Description|Barrel Brazier}}
+|{{name|Coal|1}}{{name|Wood|50}}{{name|Solar Essence|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|800}})
+|-
+|[[File:Stump Brazier.png|center]]
+|[[Stump Brazier]]
+|{{Description|Stump Brazier}}
+|{{name|Coal|1}}{{name|Hardwood|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|800}})
+|-
+|[[File:Gold Brazier.png|center]]
+|[[Gold Brazier]]
+|{{Description|Gold Brazier}}
+|{{name|Coal|1}}{{name|Gold Bar|10}}{{name|Fiber|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|1000}})
+|-
+|[[File:Carved Brazier.png|center]]
+|[[Carved Brazier]]
+|{{Description|Carved Brazier}}
+|{{name|Coal|1}}{{name|Hardwood|10}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|2000}})
+|-
+|[[File:Scarecrow.png|center]]
+|[[Scarecrow]]
+|{{Description|Scarecrow}}
+|{{name|Coal|1}}{{name|Wood|50}}{{name|Fiber|20}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 1
+|-
+|[[File:Seed Maker.png|center]]
+|[[Seed Maker]]
+|{{Description|Seed Maker}}
+|{{name|Coal|10}}{{name|Wood|25}}{{name|Gold Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 9
+|-
+|[[File:Slime Egg-Press.png|center]]
+|[[Slime Egg-Press]]
+|{{Description|Slime Egg-Press}}
+|{{name|Coal|25}}{{name|Fire Quartz|1}}{{name|Battery Pack|1}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 6
+|-
+|[[File:Cookout Kit.png|center]]
+|[[Cookout Kit]]
+|{{Description|Cookout Kit}}
+|{{name|Coal|3}}{{name|Wood|15}}{{name|Fiber|10}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 9
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|neutral=Clint
+|hate=Sam
+}}
+
+==Bundles==
+Coal is not used in any [[Bundles|bundles]].
+
+==Tailoring==
+Coal is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a {{name|Shirt048|link=Tailoring{{!}}Shirt|class=inline}}. It is a black dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+==Quests==
+Ten Coal may be requested by [[Ice Pip]] or [[Stonefish]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.3.27|Increased price from 150g in year 1 to 250g in year 2+.}}
+{{History|1.4|Can now be used in Tailoring and to create a [[Wilted Bouquet]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Used to operate the Geode Crusher. Used as an ingredient to the Cookout Kit recipe. No longer used as an ingredient to the Skull Brazier recipe.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Kohle]]
+[[es:Carbón]]
+[[fr:Charbon]]
+[[it:Carbone]]
+[[ja:石炭]]
+[[ko:석탄]]
+[[hu:Szén]]
+[[pt:Carvão]]
+[[ru:Уголь]]
+[[tr:Kömür]]
+[[zh:煤炭]]

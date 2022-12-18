@@ -1,0 +1,76 @@
+{{Infobox
+|eng         = Bok Choy
+|seed        = {{name|Bok Choy Seeds}}
+|growth      = 4 days
+|season      = Fall
+|xp          = 14 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 80
+|edibility   = 10
+}}
+'''Bok Choy''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Bok Choy Seeds]] after 4 days.
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Bok Choy Stage 1.png|center|link=]]
+|[[File:Bok Choy Stage 2.png|center|link=]]
+|[[File:Bok Choy Stage 3.png|center|link=]]
+|[[File:Bok Choy Stage 4.png|center|link=]]
+|[[File:Bok Choy Stage 5.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|1 Day
+|1 Day
+|Total: 4 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Bok Choy}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Bok Choy is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header}}
+{{:Super Meal|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Bok Choy is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable {{name|Shirt140|link=Tailoring{{!}}Button Down Shirt|class=inline}}. It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in [[dyeing]].
+
+==Quests==
+*Bok Choy may be randomly requested in [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|240}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Fall crops]]
+[[Category:Vegetables]]
+
+[[de:Senfkohl]]
+[[es:Col china]]
+[[fr:Chou chinois]]
+[[it:Bok Choy]]
+[[ja:チンゲンサイ]]
+[[ko:청경채]]
+[[hu:Bok Choy]]
+[[pt:Couve chinesa]]
+[[ru:Бок-чой]]
+[[tr:Çin Lahanası]]
+[[zh:小白菜]]

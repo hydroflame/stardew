@@ -1,0 +1,94 @@
+{{Spoiler}}
+{{Infobox
+|eng       = Cinder Shard
+|source    = [[Volcano Dungeon]] • [[Stingray]] [[Fish Pond]]
+|sellprice = 50
+|quality   = false
+}}
+'''Cinder Shard''' is a [[:Category:Resources|resource]] that can be obtained in the [[Volcano Dungeon]] by mining [[Mining#Mining Nodes|Cinder Shard nodes]]. It can also drop from a [[Magma Sprite]], [[Magma Sparker]], [[Magma Duggy]], or [[False Magma Cap]]. It can also be acquired from a [[Stingray]] [[Fish Pond]] with a population of at least 7.
+
+==Forging==
+{{main article|Forge}}
+Cinder Shards are used in the [[Forge]] to combine rings, enchant tools, and forge melee weapons with gemstones. 20 Cinder Shards are used to combine two rings, apply a random enchantment to a tool or weapon, or add a [[Galaxy Soul]] to a Galaxy weapon, while 10/15/20 are used to forge a tool for the first, second, and third time, respectively.
+
+==Gifting==
+{{GiftsByItem
+|dislike=Penny,Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Lewis,Clint,Pam,Emily,Haley,Jas,Vincent,Kent,Sam,Leah,Shane,Elliott,Dwarf,Wizard,Harvey,Sandy,Maru,Evelyn,Jodi,Marnie,Leo,Gus,Willy,Krobus
+}}
+
+==Bundles==
+Cinder Shard is not used in any [[bundles]].
+
+==Trading==
+Cinder Shards can be traded for goods and recipes at the [[Island Trader]] and the Dwarf shop in the [[Volcano Dungeon#Shop|Volcano Dungeon]].
+{|class="wikitable"
+!Image
+!Name
+!Description
+!Purchase Price
+!Source
+|-
+|[[File:Cinderclown Shoes.png|center]]
+|[[Cinderclown Shoes]]
+|{{Description|Cinderclown Shoes}}
+|{{name|Cinder Shard|100}}
+|Dwarf in [[Volcano Dungeon#Shop|Volcano Dungeon]]
+|-
+|[[File:Jungle Torch.png|36px|center]]
+|[[Jungle Torch]]
+|{{Description|Furniture}}
+|{{name|Cinder Shard|5}}
+|[[Island Trader]]
+|-
+|[[File:Wild Double Bed.png|60px|center]]
+|[[Wild Double Bed]]
+|{{Description|Furniture}}
+|{{name|Cinder Shard|100}}
+|[[Island Trader]]
+|-
+|{{recipe|Deluxe Retaining Soil}}
+|[[Deluxe Retaining Soil]] Recipe
+|{{Description|Recipe|Deluxe Retaining Soil}}
+|{{name|Cinder Shard|50}}
+|[[Island Trader]]
+|}
+
+==Crafting==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Ostrich Incubator.png|center]]
+|[[Ostrich Incubator]]
+|{{Description|Ostrich Incubator}}
+|{{name|Bone Fragment|50}}{{name|Hardwood|50}}{{name|Cinder Shard|20}}
+|[[File:Professor Snail.png|24px|link=]] [[Professor Snail]] after completing the fossil collection and surveys at the [[Island Field Office]]
+|}
+
+==Tailoring==
+It is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create {{name|Sunglasses|class=inline}}. It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+7 Cinder Shards are requested by [[Stingray]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5.
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Schlackenscherbe]]
+[[es:Fragmento de ceniza]]
+[[fr:Éclat de braise]]
+[[it:Scheggia di brace]]
+[[ja:噴石のかけら]]
+[[ko:잉걸불 파편]]
+[[hu:Parázs töredék]]
+[[pt:Fragmento de Brasa]]
+[[ru:Тлеющий осколок]]
+[[tr:Köz Parçacığı]]
+[[zh:火山晶石]]

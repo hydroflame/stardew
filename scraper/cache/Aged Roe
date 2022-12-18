@@ -1,0 +1,49 @@
+{{Infobox
+|eng             = Aged Roe
+|source          = [[Artisan Goods]]
+|edibility       = 40
+|sellprice       = 2 × [[Roe]] Price<br /><span class="no-wrap">(60 + Base [[Fish]] Price)</span>
+|ingredients     = {{name|Roe|1}}
+|craftingstation = {{name|Preserves Jar}}
+|crafttime       = 4000m (3-4 days)
+|quality         = false
+}}
+'''Aged Roe''' is an [[Artisan Goods|Artisan Good]] made from the [[Preserves Jar]] using any type of [[Roe]] except [[Sturgeon]] Roe. The sell price is twice the unprocessed [[Roe]] sell price.  The health and energy gained from eating Aged Roe is the same for all types of Aged Roe.
+
+Using Sturgeon Roe in a Preserves Jar produces [[Caviar]] instead of Aged Roe.
+
+==Gifting==
+{{GiftsByItem
+|like=Caroline,Lewis,Penny,Robin,Demetrius,Maru,Linus,Pierre,Pam,Abigail,Alex,George,Evelyn,Clint,Emily,Haley,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|hate=Sebastian,Jas,Vincent
+}}
+
+==Bundles==
+15 Aged Roe are one of the options for the {{Bundle|fish farmers||y}}.
+
+==Tailoring==
+Aged Roe is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Globby Shirt]]. [[File:Shirt284a.png|24px]]
+
+It can also be used as an orange dye in the dye pots located in [[Haley]]'s and [[Emily]]'s house, [[2 Willow Lane]]. 
+
+==Quests==
+Aged Roe is not used in any [[quests]].
+
+==History==
+{{History|1.4|Introduced.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Gealterter Fischlaich]]
+[[es:Huevas envejecidas]]
+[[fr:Oeufs de poisson marinés]]
+[[it:Uova di pesce invecchiate]]
+[[ja:熟成卵]]<!-- redirects to 熟した卵, possible bad translation in data files -->
+[[ko:숙성된 어란]]
+[[hu:Érlelt ikra]]
+[[pt:Ovas Maturadas]]
+[[ru:Вяленая икра]]
+[[tr:Olgun Yumurta]]
+[[zh:腌鱼籽]]

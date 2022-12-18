@@ -1,0 +1,84 @@
+{{Spoiler}}
+{{Infobox
+|eng         = Taro Root
+|seed        = {{name|Taro Tuber}}
+|growth      = 10 days (7 when irrigated) 
+|season      = {{Season|All}} on [[Ginger Island]]<br />{{Season|Summer}} in the Valley
+|xp          = 5 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 100
+|edibility   = 15
+}}
+The '''Taro Root''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Taro Tuber]] after 10 days, or 7 days if the crop is planted near water. Taro Root plants do not need to be watered if they are planted near water.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align:center;"
+!Type
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|
+|[[File:Taro Stage 1.png|center|link=]]
+|[[File:Taro Stage 2.png|center|link=]]
+|[[File:Taro Stage 3.png|center|link=]]
+|[[File:Taro Stage 4.png|center|link=]]
+|[[File:Taro Stage 5.png|center|link=]]
+|-
+| Non-Irrigated
+| 1 Day
+| 2 Days
+| 3 Days
+| 4 Days
+|Total: 10 Days
+|-
+| Irrigated
+| 1 Day
+| 1 Day
+| 2 Day
+| 3 Days
+|Total: 7 Days
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Taro Root}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Recipes==
+{{Recipes|header}}
+{{:Poi|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+A Taro Root can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Shirt And Belt]].  [[File:Shirt159.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*[[Caroline]] may request 100 Taro Roots in the [[Quests#List of Special Orders|"Island Ingredients"]] Special Order. The reward is gold equivalent to 50% of base crop price and the [[Solar Panel]] recipe.
+
+==Trivia==
+After harvesting a Taro Root, the ground underneath it will remain watered for the rest of the day.
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxCrop}}
+
+[[Category:Vegetables]]
+
+[[de:Taro-Wurzel]]
+[[es:Raíz de taro]]
+[[fr:Racine de taro]]
+[[it:Radice di taro]]
+[[ja:タロイモの根]]
+[[ko:토란]]
+[[hu:Tarógyökér]]
+[[pt:Inhame-coco]]
+[[ru:Корень Таро]]
+[[tr:Gölevez Kökü]]
+[[zh:芋头]]

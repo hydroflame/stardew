@@ -1,0 +1,53 @@
+{{Infobox
+|eng             = Truffle Oil
+|source          = [[Artisan Goods]]
+|ingredients     = {{name|Truffle|1}}
+|edibility       = 15
+|sellprice       = 1065
+|quality         = false
+|craftingstation = {{name|Oil Maker}}
+|crafttime       = 360m (6h)
+}}
+'''Truffle Oil''' is an [[Artisan Goods|Artisan Good]] made in the [[Oil Maker]] from a [[Truffle]]. It takes 6 hours to produce. Despite being listed as "A gourmet cooking ingredient" there are no cooking recipes that use it, but it is used to make the [[Rain Totem]].
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Sandy,Willy,Krobus,Leo
+|hate=Sebastian,Jas,Vincent
+|love=Harvey
+}}
+
+==Bundles==
+Truffle Oil is an option for the {{Bundle|Artisan||y}}.
+
+==Crafting==
+Truffle Oil is used to make the following items:
+{{Recipes|header|hide=restores,buff,duration}}
+{{:Rain Totem|RecipeRow/NoBuffsHealthEnergy}}
+{{Recipes|footer}}
+
+==Tailoring==
+Truffle Oil can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Dark Bandana Shirt]].  [[File:Shirt262a.png|24px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*Mayor [[Lewis]] requests Truffle Oil by mail on the 21st of [[Summer]] (year 2) in the [[Quests#Mayor's Need|"Mayor's Need" Quest]].  The reward is {{Price|750}} and 1 [[Friendship]] heart.<br />Note that Lewis will send the letter triggering the quest regardless of whether or not the player owns a [[pig]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Trüffelöl]]
+[[es:Aceite de trufa]]
+[[fr:Huile de truffe]]
+[[it:Olio di tartufo]]
+[[ja:トリュフオイル]]
+[[ko:송로버섯 오일]]
+[[hu:Szarvasgomba olaj]]
+[[pt:Óleo de trufas]]
+[[ru:Трюфельное масло]]
+[[tr:Yermantarı Yağı]]
+[[zh:松露油]]

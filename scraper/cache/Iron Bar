@@ -1,0 +1,240 @@
+{{Infobox
+|eng             = Iron Bar
+|source          = [[Crafting]] • [[Furnace]]
+|sellprice       = 120
+|quality         = false
+|craftingstation = {{name|Furnace}}
+|ingredients     = {{name|Iron Ore|5}}{{name|Coal|1}}
+|crafttime       = 2h
+}}
+An '''Iron Bar''' is created by smelting 5 [[Iron Ore]] in a [[furnace]] with 1 [[coal]] for fuel, or by [[Crafting]] the "Transmute (Fe)" recipe (3 [[Copper Bar]]s into one Iron Bar which is unlocked at mining level 4).  
+
+Iron Bars may occasionally be found in [[Garbage Can]]s after receiving the [[Furnace]] blueprints from [[Clint]].  An Iron Bar may also drop from a [[Shadow Brute]] (2% chance) or [[Shadow Shaman]] (2% chance) when slain.
+
+Smelting iron ore in a furnace takes 2 in-game hours.  The "Transmute (Fe)" recipe is earned at [[Mining]] Level 4.
+
+Iron bars are used in a variety of [[crafting]] recipes and are used to upgrade [[tools]] to tier 3. Each iron bar can be sold for {{price|120}}, or {{price|180}} with the [[Skills#Mining|Blacksmith Profession]].
+
+==Tool Upgrades==
+Iron Bars are required for the second upgrade of tools.
+
+{|class="wikitable"
+!Image
+!Name
+!Cost
+!Ingredients
+|-
+|[[File:Steel Hoe.png]]
+|[[Hoes|Steel Hoe]]
+|{{price|5000}}
+|{{name|Iron Bar|5}}
+|-
+|[[File:Steel Pickaxe.png]]
+|[[Pickaxes|Steel Pickaxe]]
+|{{price|5000}}
+|{{name|Iron Bar|5}}
+|-
+|[[File:Steel Axe.png]]
+|[[Axes|Steel Axe]]
+|{{price|5000}}
+|{{name|Iron Bar|5}}
+|-
+|[[File:Steel Watering Can.png]]
+|[[Watering Cans|Steel Watering Can]]
+|{{price|5000}}
+|{{name|Iron Bar|5}}
+|-
+|[[File:Trash Can Steel.png]]
+|[[Trash Cans|Steel Trash Can]]
+|{{price|2500}}
+|{{name|Iron Bar|5}}
+|}
+
+==Crafting==
+{{Spoiler}}
+Iron Bars are used to make the following items:
+
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Glowstone Ring.png|center]]
+|[[Glowstone Ring]]
+|{{Description|Glowstone Ring}}
+|{{name|Solar Essence|5}}{{name|Iron Bar|5}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining]] Level 4
+|-
+|[[File:Warrior Ring.png|center]]
+|[[Warrior Ring]]
+|{{Description|Warrior Ring}}
+|{{name|Iron Bar|10}}{{name|Coal|25}}{{name|Frozen Tear|10}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat]] Level 4
+|-
+|[[File:Ring of Yoba.png|center]]
+|[[Ring of Yoba]]
+|{{Description|Ring of Yoba}}
+|{{name|Iron Bar|5}}{{name|Diamond|1}}{{name|Gold Bar|5}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat]] Level 7
+|-
+|[[File:Explosive Ammo.png|center]]
+|[[Explosive Ammo]]
+|{{Description|Explosive Ammo}}
+|{{name|Iron Bar|1}}{{name|Coal|2}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat]] Level 8
+|-
+|[[File:Bee House.png|center]]
+|[[Bee House]]
+|{{Description|Bee House}}
+|{{name|Iron Bar|1}}{{name|Coal|8}}{{name|Wood|40}}{{name|Maple Syrup|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 3
+|-
+|[[File:Sprinkler.png|center]]
+|[[Sprinkler]]
+|{{Description|Sprinkler}}
+|{{name|Iron Bar|1}}{{name|Copper Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 3
+|-
+|[[File:Iron Fence.png|center]]
+|[[Iron Fence]]
+|{{Description|Iron Fence}}
+|{{name|Iron Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 4
+|-
+|[[File:Quality Sprinkler.png|center]]
+|[[Quality Sprinkler]]
+|{{Description|Quality Sprinkler}}
+|{{name|Iron Bar|1}}{{name|Gold Bar|1}}{{name|Refined Quartz|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 6
+|-
+|[[File:Keg.png|center]]
+|[[Keg]]
+|{{Description|Keg}}
+|{{name|Iron Bar|1}}{{name|Copper Bar|1}}{{name|Wood|30}}{{name|Oak Resin}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 8
+|-
+|[[File:Crab Pot.png|center]]
+|[[Crab Pot]]
+|{{Description|Crab Pot}}
+|{{name|Iron Bar|3}}{{name|Wood|40}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 3
+|-
+|[[File:Recycling Machine.png|center]]
+|[[Recycling Machine]]
+|{{Description|Recycling Machine}}
+|{{name|Iron Bar|1}}{{name|Stone|25}}{{name|Wood|25}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 4
+|-
+|[[File:Spinner.png|center]]
+|[[Spinner]]
+|{{Description|Spinner}}
+|{{name|Iron Bar|2}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 6
+|-
+|[[File:Barbed Hook.png|center]]
+|[[Barbed Hook]]
+|{{Description|Barbed Hook}}
+|{{name|Iron Bar|1}}{{name|Copper Bar|1}}{{name|Gold Bar|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 8
+|-
+|[[File:Dressed Spinner.png|center]]
+|[[Dressed Spinner]]
+|{{Description|Dressed Spinner}}
+|{{name|Iron Bar|2}}{{name|Cloth|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 8
+|-
+|[[File:Worm Bin.png|center]]
+|[[Worm Bin]]
+|{{Description|Worm Bin}}
+|{{name|Iron Bar|1}}{{name|Fiber|50}}{{name|Gold Bar|1}}{{name|Hardwood|25}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 8
+|-
+|[[File:Magnet.png|center]]
+|[[Magnet]] (3)
+|{{Description|Magnet}}
+|{{name|Iron Bar|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 9
+|-
+|[[File:Lightning Rod.png|center]]
+|[[Lightning Rod]]
+|{{Description|Lightning Rod}}
+|{{name|Iron Bar|1}}{{name|Refined Quartz|1}}{{name|Bat Wing|5}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 6
+|-
+|[[File:Warp Totem Mountains.png|center]]
+|[[Warp Totem: Mountains]]
+|{{Description|Warp Totem: Mountains}}
+|{{name|Iron Bar|1}}{{name|Hardwood|1}}{{name|Stone|25}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 7
+|-
+|[[File:Gold Bar.png|center]]
+|[[Gold Bar|Transmute (Au)]]
+|{{Description|Gold Bar}}
+|{{name|Iron Bar|2}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining]] Level 7
+|-
+|[[File:Iron Lamp-post.png|center]]
+|[[Iron Lamp-post]]
+|{{Description|Iron Lamp-post}}
+|{{name|Iron Bar|1}}{{name|Battery Pack|1}}
+|class="no-wrap"|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]]<br />({{price|1000}})
+|-
+|}
+
+==Buildings==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Horse Stable.png|60px|center]]
+|[[Stable]]
+|{{Description|Stable}}
+|{{Price|10000}}{{name|Hardwood|100}}{{name|Iron Bar|5}}
+|style="text-align: center;"|'''4x2'''<br />[[File:Marker4x2.png]]
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|like=Maru,Clint
+|hate=Sam
+}}
+
+==Bundles==
+An Iron Bar is used in the {{Bundle|Blacksmith||y}}.
+
+==Tailoring==
+An Iron Bar is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Steel Breastplate]].  [[File:Shirt148.png|24px]]
+
+==Quests==
+*[[Clint]] requests an Iron Bar by mail on the 17th of [[Winter]] in the [[Quests#A Favor For Clint|"A Favor for Clint" quest]].  The reward is {{Price|500}} and 1 [[Friendship]] heart.
+*An Iron Bar may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" Board]] outside [[Pierre's General Store]] for a reward of {{Price|360}} and 150 [[Friendship]] points.  An Iron Bar will never be requested until you have the [[Furnace]] blueprints.  
+*Three or four Iron Bars may be requested by [[Catfish]], [[Ice Pip]], or [[Spook Fish]] in [[Fish Pond#Quests|Fish Pond quests]].
+
+==Notes==
+*When selling Iron Bars, crafting them into Gold Bars first increases the profit by {{price|10}} per Gold Bar ({{price|15}} with the Blacksmith profession).
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+[[Category:Craftable items]]
+
+[[de:Eisenbarren]]
+[[es:Lingote de hierro]]
+[[fr:Lingot de fer]]
+[[it:Lingotto di ferro]]
+[[ja:鉄ののべ棒]]
+[[ko:철 주괴]]
+[[hu:Vas rúd]]
+[[pt:Barra de ferro]]
+[[ru:Железный слиток]]
+[[tr:Demir Külçesi]]
+[[zh:铁锭]]

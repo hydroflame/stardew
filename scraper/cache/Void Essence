@@ -1,0 +1,65 @@
+{{Infobox
+|eng       = Void Essence
+|source    = {{name|Shadow Brute}}{{name|Shadow Brute Dangerous}}{{name|Shadow Shaman}}{{name|Shadow Shaman Dangerous}}{{name|Haunted Skull}}{{name|Serpent}}{{name|Shadow Sniper}}{{name|Spider}}{{NPC|Krobus}}{{name|Void Salmon|[[Fish Pond]]}}
+|sellprice = 50
+|quality   = false
+}}
+'''Void Essence''' is a [[Monster Loot]] item which can drop from [[Shadow Brute]]s, [[Shadow Shaman]]s, [[Shadow Sniper]]s, [[Haunted Skull]]s, [[Serpent]]s and [[Spider]]s. [[Krobus]] also sells 10 a day for {{price|100}}.  A [[Void Salmon]] [[Fish Pond]] may produce 5-10 Void Essence when the population of the pond reaches 8.
+
+The [[Void Ghost Pendant]] can be purchased from the [[Desert Trader]] in exchange for 200 Void Essence, once the player has reached 10 hearts of [[friendship]] with [[Krobus]].
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Harvey,Sandy,Willy,Krobus
+|neutral=Dwarf
+|love=Wizard
+}}
+
+==Bundles==
+Void Essence is an option for the {{Bundle|adventurer||y}}.
+
+==Crafting==
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Mega Bomb.png|center]]
+|[[Mega Bomb]]
+|{{Description|Mega Bomb}}
+|{{name|Gold Ore|4}}{{name|Solar Essence|1}}{{name|Void Essence|1}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining]] Level 8
+|-
+|[[File:Iridium Band.png|center]]
+|[[Iridium Band]]
+|{{Description|Iridium Band}}
+|{{name|Iridium Bar|5}}{{name|Solar Essence|50}}{{name|Void Essence|50}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat]] Level 9
+|-
+|}
+
+==Tailoring==
+Void Essence is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Arcane Shirt]].  [[File:Shirt215.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*Void Essence is requested in a letter on [[Winter]] 12th by the [[Wizard]] in the [[Quests#A Dark Reagent|"A Dark Reagent" Quest]].  The reward is {{Price|1000}} and 1 [[Friendship]] heart.
+*5 Void Essence are requested by [[Void Salmon]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 1 to 3.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Can be requested in a Fish Pond quest. Can be produced by Fish Ponds.}}
+
+[[Category:Monster Loot]]
+
+[[de:Schattenessenz]]
+[[es:Esencia sombría]]
+[[fr:Essence du Vide]]
+[[it:Essenza del Vuoto]]
+[[ja:闇の結晶]]
+[[ko:공허 정수]]
+[[hu:Űr esszencia]]
+[[pt:Essência nula]]
+[[ru:Эссенция пустоты]]
+[[tr:Boşluk Özü]]
+[[zh:虚空精华]]

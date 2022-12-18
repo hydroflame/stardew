@@ -1,0 +1,105 @@
+{{Infobox
+|eng         = Tea Leaves
+|seed        = {{name|Tea Sapling}}
+|growth      = 20 days
+|season      = {{Season|Spring}} • {{Season|Summer}} •<br />{{Season|Fall}}
+|xp          = 0
+|sellprice   = 50
+|quality     = false
+|edibility   = -300
+}}
+'''Tea Leaves''' are [[vegetables]] that are harvested from [[Tea Bush]]es each day during the last week of [[Spring]], [[Summer]], and [[Fall]] (and [[Winter]] if indoors).
+
+Tea Leaves can be put into a [[Keg]] to make [[Green Tea]], though Pickled Tea Leaves are more profitable.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Harvest
+!After-Harvest
+|-
+|[[File:Tea Stage 1.png|center|link=]]
+|[[File:Tea Stage 2.png|center|link=]]
+|[[File:Tea Stage 3.png|center|link=]]
+|[[File:Tea Stage 4.png|center|link=]]
+|[[File:Tea Stage 3.png|center|link=]]
+|-
+|10 Days
+|10 Days
+|Up to and including<br />21st of the season
+|Total: 20 Days
+|Regrowth: 1 Day
+|}
+
+==Gifting==
+{{GiftsByItem
+|love
+|neutral=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Alex,George,Evelyn,Lewis,Clint,Penny,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Willy,Krobus,Pam,Sandy,Abigail,Haley,Jas,Vincent,Sam,Leo
+|like=Caroline
+|dislike=
+}}
+
+==Bundles==
+It is not used in any Bundles.
+
+==Recipes==
+It is not used in any recipes.
+
+==Artisan Goods==
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Green Tea.png|center]]
+|[[Green Tea]]
+|{{Description|Green Tea}}
+|{{name|Tea Leaves|1}}
+|style="text-align: center;" | [[File:Keg.png|36px|center]][[Keg]]
+|{{duration|180m (3h)}}
+|{{price|100}}
+|-
+|[[File:Pickles.png|center]]
+|[[Jellies and Pickles|Pickled Tea Leaves]]
+|{{Description|Green Tea}}
+|{{name|Tea Leaves|1}}
+|style="text-align: center;" | [[File:Preserves Jar.png|36px|center]][[Preserves Jar]]
+|{{duration|4000m (2-3 days)}}
+|{{price|150}}
+|}
+
+==Tailoring==
+Tea Leaves can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable green [[Tailoring|Shirt And Belt]].  [[File:Shirt159.png|24px]] It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+One Tea Leaves may be requested by [[Woodskip]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 7 to 10.
+
+==Trivia==
+You can't walk through Tea Bushes or Tea Saplings, and neither can animals, so they can also be used as a non-decaying fence.
+
+==History==
+{{History|1.4|Introduced.}}
+
+{{NavboxCrop}}
+
+[[Category:Vegetables]]
+[[Category:Multi-Seasonal crops]]
+[[Category:Multiple harvest crops]]
+
+[[de:Tee Blätter]]
+[[es:Hojas de té]]
+[[fr:Feuilles de thé]]
+[[it:Foglie di tè]]
+[[ja:茶葉]]
+[[ko:찻잎]]
+[[hu:Tea levelek]]
+[[pt:Folhas de Chá]]
+[[ru:Чайные листья]]
+[[tr:Çay Yaprakları]]
+[[zh:茶叶]]

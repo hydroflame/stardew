@@ -1,0 +1,49 @@
+{{Infobox
+|eng        = Squid Ink
+|source     = {{name|Squid Kid}} {{name|Squid|[[Fish Pond]]}} {{name|Midnight Squid|[[Fish Pond]]}} {{name|Blue Squid}}
+|edibility  = -300
+|sellprice  = 110
+|quality    = false
+}}
+'''Squid Ink''' is an item which is dropped from [[Squid Kid]]s in [[the Mines]] and [[Blue Squid]]s in [[The Mines#Shrine of Challenge|the Dangerous Mines]]. It can also be produced by [[Squid]]s and [[Midnight Squid]]s in [[Fish Pond]]s. It's used as an ingredient in [[Dyeing|clothing dye]] and [[tailoring]].
+
+It cannot be sold to the [[Adventurer's Guild]]. However, it can be sold to [[Willy]] at his [[Fish Shop]]. It must be shipped to complete the Shipping [[Collections#Items Shipped|Collection]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Maru,Abigail,Alex,George,Evelyn,Lewis,Leo,Clint,Penny,Pam,Emily,Kent,Marnie,Gus,Sandy,Sebastian,Pierre,Caroline,Haley,Jas,Vincent,Jodi,Sam,Shane,Dwarf,Wizard,Willy,Krobus,Linus,Leah,Harvey
+|love=Elliott
+}}
+
+==Bundles==
+Squid Ink is one of the options for the {{Bundle|fish farmers||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Seafoam Pudding|RecipeRow}}
+{{:Squid Ink Ravioli|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Squid Ink is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Midnight Dog Jacket]].  [[File:Shirt285.png|24px]]
+
+==Quests==
+Squid Ink is not used in any [[quests]].
+
+==History==
+{{History|1.4|Introduced.}}
+{{History|1.5|Can now be dropped by [[Blue Squid]]s. [[Elliott]] now loves Squid Ink as a gift. Added [[Squid Ink Ravioli]] recipe.}}
+
+[[Category:Special items]]
+
+[[de:Tintenfisch Tinte]]
+[[es:Tinta de calamar]]
+[[fr:Encre de Calamar]]
+[[it:Nero di seppia]]
+[[ja:イカのインク]]
+[[ko:오징어 먹물]]
+[[hu:Tintahal tinta]]
+[[pt:Tinta de Lula]]
+[[ru:Чернила кальмара]]
+[[tr:Mürekkepbalığı Mürekkebi]]
+[[zh:鱿鱼墨汁]]

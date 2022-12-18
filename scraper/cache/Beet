@@ -1,0 +1,104 @@
+{{Infobox
+|eng         = Beet
+|seed        = {{name|Beet Seeds}}
+|growth      = 6 days
+|season      = Fall
+|xp          = 16 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 100
+|edibility   = 12
+}}
+The '''Beet''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Beet Seeds]] after 6 days.  Beet Seeds can be purchased from the [[Oasis]].
+
+Players have the ability to craft [[Sugar]] from Beets by using a [[Mill]]. Once placed in the mill, one Beet will make three sugar. Sugar will appear in the box on the right side of the mill the following morning.
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Beet Stage 1.png|center|link=]]
+|[[File:Beet Stage 2.png|center|link=]]
+|[[File:Beet Stage 3.png|center|link=]]
+|[[File:Beet Stage 4.png|center|link=]]
+|[[File:Beet Stage 5.png|center|link=]]
+|-
+|1 Day
+|1 Day
+|2 Days
+|2 Days
+|Total: 6 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Beet}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+|love=Evelyn
+}}
+
+==Bundles==
+Beet is one of the options for the {{Bundle|dye remixed||y}}.
+
+==Recipes==
+===Cooking===
+{{Recipes|header|hide=buff,duration}}
+{{:Vegetable Medley|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+===Other===
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell price
+|-
+|[[File:Sugar.png]]
+|[[Sugar]]
+|{{Description|Sugar}}
+|{{name|Beet|1}} produces 3 [[Sugar]]
+|style="text-align: center;" | [[File:Mill.png|48px|center]][[Mill]]
+|Ready the next morning
+|{{price|50}}
+|}
+
+==Tailoring==
+Beet can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Button Down Shirt]].  [[File:Shirt140.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*10 Beets are needed for the 2nd part of [[Quests#The Mysterious Qi|"The Mysterious Qi" Quest]]
+
+==Trivia==
+The misspelling of "vegetable" in the beet's description appears in-game.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Made craftable into [[Sugar]] using a [[Mill]].}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Fall crops]]
+[[Category:Vegetables]]
+
+[[de:Rübe]]
+[[es:Remolacha]]
+[[fr:Betterave]]
+[[it:Barbabietola]]
+[[ja:ビーツ]]
+[[ko:사탕무]]
+[[hu:Cékla]]
+[[pt:Beterraba]]
+[[ru:Свекла]]
+[[tr:Pancar]]
+[[zh:甜菜]]

@@ -1,0 +1,83 @@
+{{Infobox
+|eng         = Blue Jazz
+|seed        = {{name|Jazz Seeds}}
+|growth      = 7 days
+|season      = Spring
+|xp          = 10 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 50
+|edibility   = 18
+}}
+'''Blue Jazz''' is a [[Flowers|flower]] that can be [[Crops|grown]] from [[Jazz Seeds]] in 7 days.
+
+If placed within proper range of a [[Bee House#Range|Bee House]] (5 squares in any cardinal direction), Blue Jazz will cause [[Honey|Blue Jazz Honey]] to be produced, increasing the honey base value from {{Price|100}} to {{Price|200}}.
+
+Blue Jazz can be purchased from the [[Traveling Cart]] for {{tprice|50}}.
+
+==Stages==
+{|class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Blue Jazz Stage 1.png|center|link=]]
+|[[File:Blue Jazz Stage 2.png|center|link=]]
+|[[File:Blue Jazz Stage 3.png|center|link=]]
+|[[File:Blue Jazz Stage 4.png|center|link=]]
+|[[File:Blue Jazz Stage 5.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|2 Days
+|2 Days
+|Total: 7 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Blue Jazz}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|dislike=Sebastian,George,Clint
+}}
+
+==Bundles==
+Blue Jazz is one of the options for the {{Bundle|garden||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Lucky Lunch|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Blue Jazz can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Skirt]]. [[File:Skirt.png|36px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Blue Jazz is not used in any [[quests]].
+
+==Notes==
+*Blue Jazz has an equal chance of being one of six different colors.  Blue Jazz of different colors will occupy different slots in inventory or chests.  Six colors &times; four [[Crops#Crop Quality|quality]] levels = 24 possible spaces used.
+:[[File:BlueJazzColors.png]]
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Spring crops]]
+
+[[de:Blaue Jazz]]
+[[es:Allium azul]]
+[[fr:Zinnia bleue]]
+[[it:Jazz blu]]
+[[ja:ブルージャズ]]
+[[ko:푸른 재즈]]
+[[hu:Kék jazz]]
+[[pt:Jasmim-Azul]]
+[[ru:Синий яркоцвет]]
+[[tr:Maviruh]]
+[[zh:蓝爵]]

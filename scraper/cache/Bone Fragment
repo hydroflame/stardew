@@ -1,0 +1,94 @@
+{{Spoiler}}
+{{Infobox
+|eng       = Bone Fragment
+|source    = [[Skeleton]]s • [[Lava Lurk]]s • [[Artifact Spot]]s • [[Mining#Bone Node|Bone Nodes]] • [[Skull Cavern]]
+|sellprice = 12
+|quality   = false
+}}
+'''Bone Fragments''' are special [[:Category:Resources|resources]] that can be dropped by [[Skeleton]]s and [[Lava Lurk]]s when slain, by destroying [[Mining#Mining Nodes|Bone Nodes]] on [[Ginger Island]], by destroying crates and barrels in [[Skull Cavern]], and in [[Artifact Spot]]s.
+
+==Bone Mill==
+Five Bone Fragments can be turned into [[Quality Fertilizer]], [[Speed-Gro]], [[Deluxe Speed-Gro]] or [[Tree Fertilizer]] in the [[Bone Mill]].
+
+==Trade==
+The [[Island Trader]] on [[Ginger Island]] trades, as permanent stock:
+*1 [[Taro Tuber]] for 2 bone fragments
+*The [[Banana Pudding]] recipe for 30 bone fragments
+
+==Gifting==
+{{GiftsByItem
+|dislike=Penny,Robin,Demetrius,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Lewis,Clint,Pam,Emily,Haley,Jas,Vincent,Kent,Sam,Leah,Shane,Elliott,Dwarf,Wizard,Harvey,Sandy,Maru,Evelyn,Jodi,Marnie,Leo,Gus,Willy,Krobus
+}}
+
+==Bundles==
+Ten Bone Fragments are one of the options for the {{Bundle|adventurer remixed||y}}.
+
+==Recipes==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Skull Brazier.png|center]]
+|[[Skull Brazier]]
+|{{Description|Skull Brazier}}
+|{{name|Bone Fragment|10}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|3000}})
+|-
+|[[File:Dark Sign.png|center]]
+|[[Dark Sign]]
+|{{Description|Dark Sign}}
+|{{name|Bone Fragment|5}}{{name|Bat Wing|5}}
+|[[File:Krobus Icon.png|24px|link=]] [[Krobus]] 3+ [[File:HeartIconLarge.png|16px|link=]] through mail
+|-
+|[[File:Thorns Ring.png|center]]
+|[[Thorns Ring]]
+|{{Description|Thorns Ring}}
+|{{name|Bone Fragment|50}}{{name|Stone|50}}{{name|Gold Bar|1}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 7
+|-
+|[[File:Bone Mill.png|center]]
+|[[Bone Mill]]
+|{{Description|Bone Mill}}
+|{{name|Bone Fragment|10}}{{name|Clay|3}}{{name|Stone|20}}
+|[[File:Gunther Icon.png|24px|link=]] [[Gunther]] ([[Quests#Fragments of the past|Special Order]])
+|-
+|[[File:Ostrich Incubator.png|center]]
+|[[Ostrich Incubator]]
+|{{Description|Ostrich Incubator}}
+|{{name|Bone Fragment|50}}{{name|Hardwood|50}}{{name|Cinder Shard|20}}
+|Completing [[Professor Snail]]'s collections and surveys
+|-
+|[[File:Hyper Speed-Gro.png|center]]
+|[[Hyper Speed-Gro]]
+|{{Description|Hyper Speed-Gro}}
+|{{name|Bone Fragment|3}}{{name|Radioactive Ore|1}}{{name|Solar Essence|1}}
+|[[File:Mr. Qi Icon.png|24px|link=]] [[Qi's Walnut Room|Mr. Qi]] ({{price|30|Gem}})
+|}
+
+==Tailoring==
+Bone Fragment is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Skeleton Shirt]]. [[File:Shirt014.png|24px]] It can be used in [[dyeing]], serving as a yellow dye in the dye pots, located at [[Emily]]'s and [[Haley]]'s house [[2 Willow Lane]].
+
+==Quests==
+*[[Quests#Fragments of the past|"Fragments of the past"]]: [[Gunther]] may make a request on the [[Quests#List of Special Orders|Special Orders board]] for 100 bone fragments that must be gathered while the quest is active. You have 7 days to complete the quest. The reward is {{price|3500}} and the [[Bone Mill]] recipe.
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Knochenfragment]]
+[[es:Fragmento de hueso]]
+[[fr:Fragments d'os]]
+[[it:Frammento d'osso]]
+[[ja:骨の破片]]
+[[ko:뼛조각]]
+[[hu:Csont töredék]]
+[[pt:Fragmento de Osso]]
+[[ru:Кусочек кости]]
+[[tr:Kemik Parçası]]
+[[zh:骨头碎片]]

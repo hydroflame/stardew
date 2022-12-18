@@ -1,0 +1,78 @@
+{{Infobox
+|eng         = Yam
+|seed        = {{name|Yam Seeds}}
+|growth      = 10 days
+|season      = Fall
+|xp          = 22 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 160
+|edibility   = 18
+}}
+The '''Yam''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Yam Seeds]] after 10 days. It also has a 3% chance of dropping from [[Duggy|Duggies]].
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Yam Stage 1.png|center|link=]]
+|[[File:Yam Stage 2.png|center|link=]]
+|[[File:Yam Stage 3.png|center|link=]]
+|[[File:Yam Stage 4.png|center|link=]]
+|[[File:Yam Stage 5.png|center|link=]]
+|-
+|1 Day
+|3 Days
+|3 Days
+|3 Days
+|Total: 10 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Yam}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Pierre,Caroline,Alex,George,Evelyn,Lewis,Leo,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|love=Linus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Yam is used in the {{Bundle|Fall Crops||y}} and may be one of the options for the {{Bundle|Quality remixed||y}}.
+
+==Recipes==
+{{Recipes|Header}}
+{{:Autumn's Bounty|RecipeRow}}
+{{:Glazed Yams|RecipeRow}}
+{{Recipes|Footer}}
+
+==Tailoring==
+Yam can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Button Down Shirt]].  [[File:Shirt140.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*Yam may be randomly requested in [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|480}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].  Bugfix for stages of growth with [[Deluxe Speed-Gro]] + [[Skills#Farming|Agriculturist]].}}
+
+{{NavboxCrop}}
+
+[[Category:Fall crops]]
+[[Category:Vegetables]]
+
+[[de:Süßkartoffel]]
+[[es:Ñame]]
+[[fr:Igname]]
+[[it:Patata dolce]]
+[[ja:サツマイモ]]
+[[ko:참마]]
+[[hu:Yamgyökér]]
+[[pt:Inhame]]
+[[ru:Батат]]
+[[tr:Tatlı Patates]]
+[[zh:山药]]

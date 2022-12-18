@@ -1,0 +1,68 @@
+{{Spoiler}}
+{{Infobox
+|eng         = Ostrich Egg
+|source      = [[Ostrich]]
+|sellprice   = 600
+|edibility   = 15
+}}
+'''Ostrich Eggs''' are [[:Category:Animal Products|animal products]]  obtained from [[Ostrich]]es or by solving [[Journal Scraps#Journal Scrap #10|Journal Scrap #10]] on [[Ginger Island]]. It can also be found in [[Volcano Dungeon]] rare chests.
+
+An Ostrich Egg can be placed in a [[Mayonnaise Machine]] to produce 10 [[Mayonnaise]]. The quality of the Mayonnaise will be equal to the quality of the Ostrich Egg used.
+
+Putting an Ostrich Egg into an [[Ostrich Incubator]] in a [[Barn]] will hatch an Ostrich in {{duration|15,000m (9.5d)|class=inline}}. This is cut to {{duration|7,500m (4.75d)|class=inline}} with the [[Farming#Farming Skill|Coopmaster Profession]].
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Maru,Caroline,George,Evelyn,Lewis,Clint,Penny,Emily,Elliott,Gus,Harvey,Sandy,Willy,Krobus
+|like=Demetrius,Linus,Pierre,Alex,Jodi,Kent,Sam,Leah,Shane,Marnie
+|hate=Sebastian
+|dislike=Abigail,Pam,Haley,Jas,Vincent,Dwarf,Wizard
+|love=Leo
+}}
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+
+The quality of the Mayonnaise will be equal to the quality of the Ostrich Egg used.
+
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Mayonnaise.png|center]]
+|[[Mayonnaise]] (10)
+|{{Description|Mayonnaise}}
+|{{name|Ostrich Egg|1}}
+|style="text-align: center;" |[[File:Mayonnaise Machine.png|center|40px|link=]][[Mayonnaise Machine]]
+|{{duration|3 Hours}}
+|[[File:Mayonnaise.png|24px]] 190g
+|}
+
+==Recipes==
+Ostrich Eggs work the same as regular chicken [[Egg|eggs]] in all recipes.{{#lsth:Egg|Recipes}}
+==Tailoring==
+Ostrich Egg is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{name|Warrior Helmet|class=inline}}.
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+
+[[de:Straußenei]]
+[[es:Huevo de avestruz]]
+[[fr:Oeuf d'autruche]]
+[[it:Uovo di struzzo]]
+[[ja:ダチョウのタマゴ]]
+[[ko:타조알]]
+[[hu:Strucctojás]]
+[[pt:Ovo de Avestruz]]
+[[ru:Страусиное яйцо]]
+[[tr:Devekuşu Yumurtası]]
+[[zh:鸵鸟蛋]]

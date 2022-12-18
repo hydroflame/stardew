@@ -1,0 +1,498 @@
+[[File:Artifact tile.gif|thumb|An [[Artifact Spot]]]]
+{{TOC right|npt=y}}
+:''For an index to the completed artifacts collection, see [[Collections#Artifacts]].''
+'''Artifacts''' are items found primarily by digging up [[Artifact Spot]]s, though they can be acquired in other ways. There are 42 artifacts in total, and one of each must be donated to the [[Museum]] to complete its collection. Donating to the [[Museum]] will yield rewards when donation milestones are reached, or when specific artifacts are donated.
+
+==Acquisition==
+Artifacts can be acquired in the following ways:
+*Using the [[Hoes|Hoe]] on an [[Artifact Spot]]. Different parts of the map will produce different artifacts. Artifact Spots are much more common in [[winter]].
+*Using the [[Hoes|Hoe]] on dirt in [[The Mines]] and the [[Skull Cavern]].
+*Killing [[Monsters]].
+*Solving [[Secret Notes]].
+*Breaking open [[Artifact Trove]]s.
+*[[Fishing]] for treasure chests.
+*Breaking [[Mining#Bone Node|Bone Nodes]].
+The table below lists specific locations for each artifact.
+
+==Use==
+All artifacts can be used for:
+*Donation to the museum
+*Gifting to [[Penny]] and the [[Dwarf]] as liked gifts
+*[[Tailoring]] at a [[Sewing Machine]]
+
+Some artifacts have other specific uses:
+*[[Dwarf Scroll I]], [[Dwarf Scroll II]], [[Dwarf Scroll III]], [[Dried Starfish]], and [[Golden Relic]] may be required for some [[Fish Pond#Quests|Fish Pond quests]].
+*[[Ancient Seed]] may be [[Crafting|crafted]] into a plantable [[Ancient Seeds]] pack after one is donated to the museum.
+*[[Dinosaur Egg]] may be used to hatch a [[Dinosaur]] in an [[Incubator]] or turned into [[Dinosaur Mayonnaise]].
+*Prehistoric or fossilized artifacts may be processed in the [[Bone Mill]] to obtain [[Fertilizer]].
+*[[Ancient Doll]] is an option for the {{Bundle|Children's||y}}.
+*[[Dwarf Gadget]] is required to craft the [[Farm Computer]].
+
+===Donation===
+Donating the following artifacts grant unique rewards:
+*Donating an [[Ancient Seed]] rewards the player with an Ancient Seed crafting recipe and 1 Ancient Seeds pack, which can then be planted to harvest [[Ancient Fruit]].
+*Donating all four Dwarf Scrolls unlocks the [[Dwarvish Translation Guide]], allowing the ability to speak to the [[Dwarf]] merchant in [[The Mines|the Mines]] and in the [[Volcano Dungeon]].
+*Donating the [[Ancient Drum]], along with at least 2 other artifacts, rewards the player with a [[Drum Block]].
+*Donating the [[Bone Flute]], along with at least 2 other artifacts, rewards the player with a [[Flute Block]].
+*Donating the [[Chicken Statue]], along with at least 4 other artifacts, rewards the player with a [[Chicken Statue (furniture)|Chicken Statue furniture]] item.
+*Donating the prehistoric bone pieces rewards the player with the [[Sloth Skeleton]] furniture pieces.
+*Donating the [[Rare Disc]] and [[Dwarf Gadget]], along with at least 9 other artifacts, rewards the player with the [['Burnt Offering']] painting.
+
+==Artifacts==
+Map regions specified under "Location" are places where the artifact can be found when digging up an [[Artifact Spot]], along with the chance per artifact spot of finding the artifact<ref name="artifact_chance" />.
+
+{|class="wikitable sortable roundedborder"
+!style="position: sticky; top: 0;"|Image
+!style="position: sticky; top: 0;"|Name
+!style="position: sticky; top: 0; min-width: 160px;"|Description
+!style="position: sticky; top: 0;"|Sell Price
+!style="position: sticky; top: 0;"|Location
+|-
+<section begin="dwarfscrolls" /><!-- Transcluded onto the Dwarvish Translation Guide page -->
+|id="dwarfscroll1"|[[File:Dwarf Scroll I.png|center]]
+|[[Dwarf Scroll I]]
+|{{Description|Dwarf Scroll I}}
+|data-sort-value="1"|{{price|1}}
+|
+*Tilling in Mines/Skull Cavern (any floor) (0.16%)
+*Several monsters (0.5% each)
+|-
+|[[File:Dwarf Scroll II.png|center]]
+|[[Dwarf Scroll II]]
+|{{Description|Dwarf Scroll II}}
+|data-sort-value="1"|{{price|1}}
+|
+*Tilling in Mines (floor 1-40) (0.1%)
+*[[Ghost]] drop (0.5%)
+*Frost Bat drop (0.5%)
+*[[Dust Sprite]] drop (0.5%)
+*Blue Slime drop (0.5%)
+|-
+|[[File:Dwarf Scroll III.png|center]]
+|[[Dwarf Scroll III]]
+|{{Description|Dwarf Scroll III}}
+|data-sort-value="1"|{{price|1}}
+|
+*Several monsters drop (1.5% for Blue Slime, 0.5% for others)
+|-
+|[[File:Dwarf Scroll IV.png|center]]
+|[[Dwarf Scroll IV]]
+|{{Description|Dwarf Scroll IV}}
+|data-sort-value="1"|{{price|1}}
+|
+*Any Monster (other than [[Serpent]], [[Skeleton]], [[Wilderness Golem]], [[Carbon Ghost]], [[Bats|Iridium Bat]], [[Iridium Crab]], and [[Haunted Skull]]) (0.1%)
+*Tilling in Mines (floor 80+) (0.2%)<section end="dwarfscrolls" />
+|-
+|[[File:Chipped Amphora.png|center]]
+|[[Chipped Amphora]]
+|{{Description|Chipped Amphora}}
+|data-sort-value="40"|{{price|40}}
+|
+*Town (3%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Arrowhead.png|center]]
+|[[Arrowhead]]
+|{{Description|Arrowhead}}
+|data-sort-value="40"|{{price|40}}
+|
+*Mountain (1.6%)
+*Forest (1.6%)
+*Bus Stop (1.6%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Ancient Doll.png|center]]
+|[[Ancient Doll]]
+|{{Description|Ancient Doll}}
+|data-sort-value="60"|{{price|60}}
+|
+*Mountain (3%)
+*Forest (2.4%)
+*Bus Stop (2.4%)
+*Town (0.8%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Feast of the Winter Star]]
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Elvish Jewelry.png|center]]
+|[[Elvish Jewelry]]
+|{{Description|Elvish Jewelry}}
+|data-sort-value="200"|{{price|200}}
+|
+*Forest (0.8%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Chewing Stick.png|center]]
+|[[Chewing Stick]]
+|{{Description|Chewing Stick}}
+|data-sort-value="50"|{{price|50}}
+|
+*Mountain (1.5%)
+*Forest (1.5%)
+*Town (0.8%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*Duggy drop (2%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Ornamental Fan.png|center]]
+|[[Ornamental Fan]]
+|{{Description|Ornamental Fan}}
+|data-sort-value="300"|{{price|300}}
+|
+*Beach (1.6%)
+*Forest (0.7%)
+*Town (0.6%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Dinosaur Egg.png|center]]
+|[[Dinosaur Egg]]
+|{{Description|Dinosaur Egg}}
+|data-sort-value="350"|{{price|350}}
+|
+*Mountain (0.6%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*Foraged on [[Skull Cavern#Prehistoric Floors|prehistoric floors]] of the [[Skull Cavern]]
+*[[Pepper Rex]] drop (10%)
+|-
+|[[File:Rare Disc.png|center]]
+|[[Rare Disc]]
+|{{Description|Rare Disc}}
+|data-sort-value="300"|{{price|300}}
+|
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Bats]] drop (except Iridium Bat) (0.1%)
+*[[Shadow Brute]], [[Shadow Shaman]], [[Spider]] drop (0.3%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Ancient Sword.png|center]]
+|[[Ancient Sword]]
+|{{Description|Ancient Sword}}
+|data-sort-value="100"|{{price|100}}
+|
+*Forest (0.7%)
+*Mountain (0.6%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Rusty Spoon.png|center]]
+|[[Rusty Spoon]]
+|{{Description|Rusty Spoon}}
+|data-sort-value="25"|{{price|25}}
+|
+*Town (4% + 6-11%<ref name="artifact_extra" />)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*Tilling in Mines/Skull Cavern (any floor) (0.16%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Rusty Spur.png|center]]
+|[[Rusty Spur]]
+|{{Description|Rusty Spur}}
+|data-sort-value="25"|{{price|25}}
+|
+*Farm (10%)
+*Tilling in Mines/Skull Cavern (any floor) (0.16%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Rusty Cog.png|center]]
+|[[Rusty Cog]]
+|{{Description|Rusty Cog}}
+|data-sort-value="25"|{{price|25}}
+|
+*Mountain (4%)
+*Tilling in Mines/Skull Cavern (any floor) (0.16%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Chicken Statue.png|center]]
+|[[Chicken Statue]]
+|{{Description|Chicken Statue}}
+|data-sort-value="50"|{{price|50}}
+|
+*Farm (9%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Ancient Seed.png|center]]
+|[[Ancient Seed]]
+|{{Description|Ancient Seed}}
+|data-sort-value="5"|{{price|5}}
+|
+*Forest (0.7%)
+*Mountain (0.7%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*Monster drop ([[Bug]], [[Cave Fly]], [[Grub]], [[Mutant Fly]], [[Mutant Grub]]: 0.5%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Prehistoric Tool.png|center]]
+|[[Prehistoric Tool]]
+|{{Description|Prehistoric Tool}}
+|data-sort-value="50"|{{price|50}}
+|
+*Bus Stop (3%)
+*Forest (2.1%)
+*Mountain (2%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Dried Starfish.png|center]]
+|[[Dried Starfish]]
+|{{Description|Dried Starfish}}
+|data-sort-value="40"|{{price|40}}
+|
+*Beach (8%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Anchor.png|center]]
+|[[Anchor]]
+|{{Description|Anchor}}
+|data-sort-value="100"|{{price|100}}
+|
+*Beach (4%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Glass Shards.png|center]]
+|[[Glass Shards]]
+|{{Description|Glass Shards}}
+|data-sort-value="20"|{{price|20}}
+|
+*Beach (7%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Bone Flute.png|center]]
+|[[Bone Flute]]
+|{{Description|Bone Flute}}
+|data-sort-value="100"|{{price|100}}
+|
+*Forest (0.7%)
+*Mountain (0.7%)
+*Town (0.4%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (0.8-0.9%<ref name="treasure_artifact" />)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Prehistoric Handaxe.png|center]]
+|[[Prehistoric Handaxe]]
+|{{Description|Prehistoric Handaxe}}
+|data-sort-value="50"|{{price|50}}
+|
+*Bus Stop (4%)
+*Mountain (3%)
+*Forest (3%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Dwarvish Helm.png|center]]
+|[[Dwarvish Helm]]
+|{{Description|Dwarvish Helm}}
+|data-sort-value="100"|{{price|100}}
+|
+*Tilling in Mines (floor 1-40) (0.1%)
+*[[Geode]] (3%)
+*[[Omni Geode]] (1%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Dwarf Gadget.png|center]]
+|[[Dwarf Gadget]]
+|{{Description|Dwarf Gadget}}
+|data-sort-value="200"|{{price|200}}
+|
+*Tilling in Mines (floor 41-80) (0.1%)
+*[[Magma Geode]] (4%)
+*[[Omni Geode]] (1%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Ancient Drum.png|center]]
+|[[Ancient Drum]]
+|{{Description|Ancient Drum}}
+|data-sort-value="100"|{{price|100}}
+|
+*Bus Stop (0.7%)
+*Forest (0.7%)
+*Town (0.4%)
+*[[Frozen Geode]] (3%)
+*[[Omni Geode]] (1%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Golden Mask.png|center]]
+|[[Golden Mask]]
+|{{Description|Golden Mask}}
+|data-sort-value="500"|{{price|500}}
+|
+*Desert (3%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Golden Relic.png|center]]
+|[[Golden Relic]]
+|{{Description|Golden Relic}}
+|data-sort-value="250"|{{price|250}}
+|
+*Desert (6%)
+*[[Artifact Trove]] (3.7%)
+|-
+|[[File:Strange Doll (green).png|center]]
+|[[Strange Doll (green)|Strange Doll]]
+|{{Description|Strange Doll}}
+|data-sort-value="1000"|{{price|1000}}
+|class="no-wrap"|
+*Farm (0.08%)
+*Bus Stop (0.07%)
+*Town (0.07%)
+*Forest (0.06%)
+*Mountain (0.06%)
+*Beach (0.06%)
+*Tilling in Mines/Skull Cavern (any floor) (0.03%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (≈0.14%)
+*[[Secret Notes#Secret Note #17|Secret Note #17]]
+|-
+|[[File:Strange Doll (yellow).png|center]]
+|[[Strange Doll (yellow)|Strange Doll]]
+|{{Description|Strange Doll}}
+|data-sort-value="1000"|{{price|1000}}
+|
+*Farm (0.08%)
+*Bus Stop (0.07%)
+*Town (0.07%)
+*Forest (0.06%)
+*Mountain (0.06%)
+*Beach (0.06%)
+*Tilling in Mines/Skull Cavern (any floor) (0.03%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (≈0.14%)
+*[[Secret Notes#Secret Note #18|Secret Note #18]]
+|-
+|[[File:Prehistoric Scapula.png|center]]
+|[[Prehistoric Scapula]]
+|{{Description|Prehistoric Scapula}}
+|data-sort-value="100"|{{price|100}}
+|
+*Forest (3-6%<ref name="artifact_extra" />)
+*Town (0.7%)
+*[[Skeleton]] drop (0.5%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Prehistoric Tibia.png|center]]
+|[[Prehistoric Tibia]]
+|{{Description|Prehistoric Tibia}}
+|data-sort-value="100"|{{price|100}}
+|
+*Railroad (4-8%<ref name="artifact_extra" />)
+*Forest (0.6%)
+*[[Pepper Rex]] drop (30%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Prehistoric Skull.png|center]]
+|[[Prehistoric Skull]]
+|{{Description|Prehistoric Skull}}
+|data-sort-value="100"|{{price|100}}
+|
+*Mountain (0.6% + 3-6%<ref name="artifact_extra" />)
+*[[Haunted Skull]] drop (1.3%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Skeletal Hand.png|center]]
+|[[Skeletal Hand]]
+|{{Description|Skeletal Hand}}
+|data-sort-value="100"|{{price|100}}
+|
+*Backwoods (4-8%<ref name="artifact_extra" />)
+*Beach (0.6%)
+*[[Haunted Skull]] drop (1.3%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Prehistoric Rib.png|center]]
+|[[Prehistoric Rib]]
+|{{Description|Prehistoric Rib}}
+|data-sort-value="100"|{{price|100}}
+|
+*Town (2.2-4%<ref name="artifact_extra" />)
+*Farm (0.8%)
+*[[Pepper Rex]] drop (30%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Prehistoric Vertebra.png|center]]
+|[[Prehistoric Vertebra]]
+|{{Description|Prehistoric Vertebra}}
+|data-sort-value="100"|{{price|100}}
+|
+*Bus Stop (0.7% + 3-5%<ref name="artifact_extra" />)
+*[[Pepper Rex]] drop (30%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Skeletal Tail.png|center]]
+|[[Skeletal Tail]]
+|{{Description|Skeletal Tail}}
+|data-sort-value="100"|{{price|100}}
+|
+*Tilling in Mines/Skull Cavern (any floor)
+*[[Fishing#Treasure Chests|Fishing Chest]] (3.1-3.4%<ref name="treasure_artifact" />)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Nautilus Fossil.png|center]]
+|[[Nautilus Fossil]]
+|{{Description|Nautilus Fossil}}
+|data-sort-value="80"|{{price|80}}
+|
+*Beach (1.8%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (3.1-3.4%<ref name="treasure_artifact" />)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Amphibian Fossil.png|center]]
+|[[Amphibian Fossil]]
+|{{Description|Amphibian Fossil}}
+|data-sort-value="150"|{{price|150}}
+|
+*Forest (0.6%)
+*Mountain (0.6%)
+*[[Fishing#Treasure Chests|Fishing Chest]] (3.1-3.4%<ref name="treasure_artifact" />)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Palm Fossil.png|center]]
+|[[Palm Fossil]]
+|{{Description|Palm Fossil}}
+|data-sort-value="100"|{{price|100}}
+|
+*Desert (7%)
+*Forest (0.6% + 3-5%<ref name="artifact_extra" />)
+*Beach (0.6%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|-
+|[[File:Trilobite.png|center]]
+|[[Trilobite]]
+|{{Description|Trilobite}}
+|data-sort-value="50"|{{price|50}}
+|
+*Beach (1.7% + 2.3-5%<ref name="artifact_extra" />)
+*Forest (1.9%)
+*Mountain (1.8%)
+*[[Mining#Bone Node|Bone Nodes]] (0.8%)
+|}
+
+==References==
+<references>
+<ref name="artifact_chance">The contents of an artifact spot are calculated by <samp>GameLocation::digUpArtifactSpot</samp>; the primary data source is <samp>ObjectInformation.xnb</samp>. 20% of the time a Lost Book is found (except on the Farm). Otherwise, each artifact is checked sequentially to see whether a random number is less than the chance specified by the input file; the first artifact that succeeds is the one found. One result of this algorithm is that the actual chance of finding a given artifact is smaller than the value in the input file, because it can only be found if the Lost Book check failed and all previous artifacts failed their tests.</ref>
+<ref name="artifact_extra">The additional chance for this artifact is season-dependent. The maximum chance is in summer and fall.  In winter, the chance is 50% less; in spring it is 6% less. The chance comes from a secondary input file, <samp>Locations.xnb</samp>, which is only used if all other sources fail.</ref>
+<ref name="treasure_artifact">The chance of an artifact appearing in a treasure chest is higher if [[Lost Books]] are not possible, ''e.g.,'' after the Museum's collection is complete.</ref>
+</references>
+
+==History==
+{{History|1.4|Fixed bug preventing certain artifacts from appearing in artifact spots in certain places.}}
+{{History|1.5|Bone Mill turns bone items, including bone artifacts, into fertilizer. [[Penny]] and the [[Dwarf]] now like all artifacts as gifts, all other NPCs now dislike instead of hate artifacts as gifts.}}
+
+{{NavboxArtifacts}}
+
+[[Category:Artifacts]]
+
+[[de:Artefakte]]
+[[es:Artefactos]]
+[[fr:Artefacts]]
+[[it:Artefatti]]
+[[ja:発掘品]]
+[[ko:유물]]
+[[hu:Ereklyék]]
+[[pt:Artefatos]]
+[[ru:Артефакты]]
+[[tr:Eserler]]
+[[zh:古物]]

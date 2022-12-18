@@ -1,0 +1,65 @@
+{{Infobox
+|eng       = Sweet Pea
+|source    = [[Foraging]] • [[Summer Seeds]]
+|season    = Summer
+|edibility = 0
+|sellprice = 50
+|xp        = 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Sweet Pea''' is a [[Flowers|flower]] found via [[Foraging]] in [[Summer]]. It is most commonly found in [[Pelican Town]], where it is the only summer forage item, but also grows in [[Cindersap Forest]], the [[Bus Stop]], the [[Railroad]], and the [[Farm Maps#Forest|Forest Farm Map]]. It can also be grown from [[Summer Seeds|Summer wild seeds]].
+
+==Healing==
+The Sweet Pea is edible, but does not increase [[Energy]] or [[Health]].
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Willy,Krobus,Leo
+|dislike=Sebastian,George,Clint
+|love=Sandy
+}}
+
+==Bundles==
+A Sweet Pea is used in the {{Bundle|Summer Foraging||y}}.
+
+==Recipes==
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Summer Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Su)]]
+||{{Description|Summer Seeds}}<br />''(Produces 10 Summer Seeds per craft.)''
+|{{name|Spice Berry|1}}{{name|Grape|1}}{{name|Sweet Pea|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 4
+|{{price|55}}
+|-
+|}
+
+==Tailoring==
+Sweet Pea is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt050.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Sweet Pea may be randomly requested in [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|150}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Summer Forage]]
+
+[[de:Edelwicke]]
+[[es:Guisante dulce]]
+[[fr:Pois de senteur]]
+[[it:Pisello odoroso]]
+[[ja:スイートピー]]
+[[ko:스위트피]]
+[[hu:Szagos bükköny]]
+[[pt:Ervilha-de-cheiro]]
+[[ru:Душистый горошек]]
+[[tr:Itırşahi]]
+[[zh:甜豌豆]]

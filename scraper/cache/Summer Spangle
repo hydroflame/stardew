@@ -1,0 +1,82 @@
+{{Infobox
+|eng         = Summer Spangle
+|seed        = {{name|Spangle Seeds}}
+|growth      = 8 days
+|season      = Summer
+|xp          = 15 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 90
+|edibility   = 18
+}}
+'''Summer Spangle''' is a [[Flowers|flower]] that can be [[Crops|grown]] from [[Spangle Seeds]] in 8 days. 
+
+If grown within proper range of a [[Bee House#Range|Bee House]] (5 squares in any cardinal direction), a Summer Spangle will cause [[Honey|Summer Spangle Honey]] to be produced, increasing the honey base value from {{Price|100}} to {{Price|280}}.
+
+Spangles can be purchased from the [[Traveling Cart]] for {{tprice|90}}.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align: center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Summer Spangle Stage 1.png|center|link=]]
+|[[File:Summer Spangle Stage 2.png|center|link=]]
+|[[File:Summer Spangle Stage 3.png|center|link=]]
+|[[File:Summer Spangle Stage 4.png|center|link=]]
+|[[File:Summer Spangle Stage 5.png|center|link=]]
+|-
+|1 Day
+|2 Days
+|3 Days
+|2 Days
+|Total: 8 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Summer Spangle}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Abigail,Alex,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|dislike=Sebastian,George,Clint
+|love=Caroline
+}}
+
+==Bundles==
+Summer Spangle is one of the options for the {{Bundle|garden||y}}
+
+==Recipes==
+Summer Spangle is not used in any recipes.
+
+==Tailoring==
+Summer Spangle can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Pleated Skirt]]. [[File:Pleated Skirt.png|36px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+Summer Spangle is not used in any [[quests]].
+
+==Notes==
+*Summer Spangles have an equal chance of being one of six different colors.  Summer Spangles of different colors will occupy different slots in inventory or chests.  Six colors &times; four [[Crops#Crop Quality|quality]] levels = 24 possible spaces used.
+:[[File:SummerSpangleColors.png]]
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+
+[[de:Sommerschmuck]]
+[[es:Lentejuela de verano]]
+[[fr:Fleur tropicale d'été]]
+[[it:Lustrino d'estate]]
+[[ja:サマースパングル]]
+[[ko:여름별꽃]]
+[[hu:Nyári tölgyfagubacs]]
+[[pt:Flor-Miçanga]]
+[[ru:Летний блестник]]
+[[tr:Yazpulu]]
+[[zh:夏季亮片]]

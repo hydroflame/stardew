@@ -1,0 +1,330 @@
+{{Infobox
+|eng         = Stone
+|source      = Rocks • [[Carpenter's Shop]] • [[Fishing#Treasure Chests|Fishing]]
+|sellprice   = 2
+|quality     = false
+}}
+'''Stone''' is a basic [[:Category:Resources|resource]] obtained by [[mining]] rocks with a [[Pickaxes|pickaxe]].  Stone can also be purchased from [[Robin]] at the [[Carpenter's Shop]], or found in [[Fishing#Treasure Chests|Fishing Treasure Chests]].  [[Stone Golem]]s and [[Slimes|Gray Slimes]] also drop Stone.  Fifty stones can also be received as a gift from [[Robin]] at the [[Feast of the Winter Star]].  Stone may also be obtained by digging up an [[Artifact Spot]].  A [[Stonefish]] [[Fish Pond]] may produce 30 Stone when the population reaches 9. Stone can also be acquired by fishing in the fountain left of the [[Community Center]].
+
+Normal rocks yield between 1 and 3 stones. [[Boulder]]s yield 10 stones. 
+
+Stone is used in various [[crafting]] recipes and is also required as a form of payment when purchasing certain buildings and building upgrades at the [[Carpenter's Shop]].  The [[Desert Trader]] will sell 1 [[Fiber]] in exchange for 5 Stone on [[Days of the Week#Tuesday|Tuesdays]].
+
+==Purchase Price==
+The price of stone at the [[Carpenter's Shop]] increases from {{price|20}} to {{price|100}} starting in year 2.  The player will receive a letter in the mail on Spring 1 of year 2 saying "Notice: The price of raw materials at Robin's shop and [[Blacksmith|Clint's shop]] has increased."  The gold obtained by selling stone to Robin or through the [[Shipping|Shipping Bin]] is unchanged.
+
+==Recipes==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Stone Fence.png|center]]
+|[[Stone Fence]]
+|{{Description|Stone Fence}}
+|{{name|Stone|2}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 2
+|-
+|[[File:Stone Sign.png|center]]
+|[[Stone Sign]]
+|{{Description|Stone Sign}}
+|{{name|Stone|25}}
+|''Starter''
+|-
+|[[File:Garden Pot.png|center]]
+|[[Garden Pot]]
+|{{Description|Garden Pot}}
+|{{name|Stone|10}}{{name|Clay|1}}{{name|Refined Quartz|1}}
+|[[File:Evelyn Icon.png|24px|link=]] [[Evelyn]] cutscene after completing the [[Greenhouse]]
+|-
+|[[File:Mayonnaise Machine.png|center]]
+|[[Mayonnaise Machine]]
+|{{Description|Mayonnaise Machine}}
+|{{name|Stone|15}}{{name|Wood|15}}{{name|Earth Crystal|1}}{{name|Copper Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 2
+|-
+|[[File:Preserves Jar.png|center]]
+|[[Preserves Jar]]
+|{{Description|Preserves Jar}}
+|{{name|Stone|40}}{{name|Wood|50}}{{name|Coal|8}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 4
+|-
+|[[File:Cheese Press.png|center]]
+|[[Cheese Press]]
+|{{Description|Cheese Press}}
+|{{name|Stone|45}}{{name|Wood|45}}{{name|Hardwood|10}}{{name|Copper Bar|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 6
+|-
+|[[File:Basic Retaining Soil.png|center]]
+|[[Basic Retaining Soil]]
+|{{Description|Basic Retaining Soil}}
+|{{name|Stone|2}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 4
+|-
+|[[File:Quality Retaining Soil.png|center]]
+|[[Quality Retaining Soil]] (2)
+|{{Description|Quality Retaining Soil}}
+|{{name|Stone|3}}{{name|Clay|1}}
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming#Farming Skill|Farming]] Level 7
+|-
+|[[File:Deluxe Retaining Soil.png|center]]
+|[[Deluxe Retaining Soil]]
+|{{Description|Deluxe Retaining Soil}}
+|{{name|Stone|5}}{{name|Fiber|3}}{{name|Clay|1}}
+|Purchase from [[Island Trader]] for {{name|Cinder Shard|50|class=inline}}
+|-
+|[[File:Tree Fertilizer.png|center]]
+|[[Tree Fertilizer]]
+|{{Description|Tree Fertilizer}}
+|{{name|Stone|5}}{{name|Fiber|5}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 7
+|-
+|[[File:Stone Floor.png|center]]
+|[[Stone Floor]]
+|{{Description|Stone Floor}}
+|{{name|Stone|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|100}})
+|-
+|[[File:Stone Walkway Floor.png|center]]
+|[[Stone Walkway Floor]]
+|{{Description|Stone Walkway Floor}}
+|{{name|Stone|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|200}})
+|-
+|[[File:Brick Floor.png|center]]
+|[[Brick Floor]] (5)
+|{{Description|Brick Floor}}
+|{{name|Stone|5}}{{name|Clay|2}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|500}})
+|-
+|[[File:Gravel Path.png|center]]
+|[[Gravel Path]]
+|{{Description|Gravel Path}}
+|{{name|Stone|1}}
+|''Starter''
+|-
+|[[File:Cobblestone Path.png|center|48px]]
+|[[Cobblestone Path]]
+|{{Description|Cobblestone Path}}
+|{{name|Stone|1}}
+|''Starter''
+|-
+|[[File:Stepping Stone Path.png|center]]
+|[[Stepping Stone Path]]
+|{{Description|Stepping Stone Path}}
+|{{name|Stone|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|100}})
+|-
+|[[File:Wicked Statue.png|center]]
+|[[Wicked Statue]]
+|{{Description|Wicked Statue}}
+|{{name|Stone|25}}{{name|Coal|5}}
+|[[File:Krobus Icon.png|24px|link=]] [[Krobus#Shop|Krobus]] ({{price|1000}})
+|-
+|[[File:Drum Block.png|center]]
+|[[Drum Block]]
+|{{Description|Drum Block}}
+|{{name|Stone|10}}{{name|Copper Ore|2}}{{name|Fiber|20}}
+|[[File:Robin Icon.png|24px|link=]] [[Robin]] 6-heart event
+|-
+|[[File:Campfire.png|center]]
+|[[Campfire]]
+|{{Description|Campfire}}
+|{{name|Stone|10}}{{name|Wood|10}}{{name|Fiber|10}}
+|''Starter''
+|-
+|[[File:Stone Brazier.png|center]]
+|[[Stone Brazier]]
+|{{Description|Stone Brazier}}
+|{{name|Stone|10}}{{name|Coal|1}}{{name|Fiber|5}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|400}})
+|-
+|[[File:Marble Brazier.png|center]]
+|[[Marble Brazier]]
+|{{Description|Marble Brazier}}
+|{{name|Stone|100}}{{name|Marble|1}}{{name|Aquamarine|1}}
+|[[File:Robin Icon.png|24px|link=]] [[Carpenter's Shop]] ({{price|5000}})
+|-
+|[[File:Furnace.png|center]]
+|[[Furnace]]
+|{{Description|Furnace}}
+|{{name|Stone|25}}{{name|Copper Ore|20}}
+|[[File:Clint Icon.png|24px|link=]] [[Clint]] cutscene
+|-
+|[[File:Staircase.png|center]]
+|[[Staircase]]
+|{{Description|Staircase}}
+|{{name|Stone|99}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 2
+|-
+|[[File:Crystalarium.png|center]]
+|[[Crystalarium]]
+|{{Description|Crystalarium}}
+|{{name|Stone|99}}{{name|Gold Bar|5}}{{name|Iridium Bar|2}}{{name|Battery Pack|1}}
+|[[File:Mining Skill Icon.png|24px|link=]] [[Mining#Mining Skill|Mining]] Level 9
+|-
+|[[File:Recycling Machine.png|center]]
+|[[Recycling Machine]]
+|{{Description|Recycling Machine}}
+|{{name|Stone|25}}{{name|Wood|25}}{{name|Iron Bar|1}}
+|[[File:Fishing Skill Icon.png|24px|link=]] [[Fishing#Fishing Skill|Fishing]] Level 4
+|-
+|[[File:Warp Totem Mountains.png|center]]
+|[[Warp Totem: Mountains]]
+|{{Description|Warp Totem: Mountains}}
+|{{name|Stone|25}}{{name|Hardwood|1}}{{name|Iron Bar|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 7
+|-
+|[[File:Bone Mill.png|center]]
+|[[Bone Mill]]
+|{{Description|Bone Mill}}
+|{{name|Stone|20}}{{name|Bone Fragment|10}}{{name|Clay|3}}
+|[[File:Gunther Icon.png|24px|link=]] [[Gunther]] ([[Quests#Fragments of the past|Special Order]])
+|-
+|[[File:Geode Crusher.png|center]]
+|[[Geode Crusher]]
+|{{Description|Geode Crusher}}
+|{{name|Stone|50}}{{name|Gold Bar|2}}{{name|Diamond|1}}
+|[[File:Clint Icon.png|24px|link=]] [[Clint]] ([[Quests#Cave Patrol|Special Order]])
+|-
+|[[File:Stone Chest.png|center]]
+|[[Stone Chest]]
+|{{Description|Stone Chest}}
+|{{name|Stone|50}}
+|[[File:Robin Icon.png|24px|link=]] [[Robin]] ([[Quests#Robin's Resource Rush|Special Order]])
+|-
+|[[File:Thorns Ring.png|center]]
+|[[Thorns Ring]]
+|{{Description|Thorns Ring}}
+|{{name|Stone|50}}{{name|Bone Fragment|50}}{{name|Gold Bar|1}}
+|[[File:Combat Skill Icon.png|24px|link=]] [[Combat#Combat Skill|Combat]] Level 7
+|}
+
+==Buildings==
+Stone is required to purchase the [[Junimo Hut]] from the [[Wizard's Tower]], and for several buildings purchased from the [[Carpenter's Shop]].
+{| class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Junimo Hut.png|72px|center]]
+|[[Junimo Hut]]
+|{{Description|Junimo Hut}}
+|data-sort-value="20000"|{{price|20000}}{{name|Stone|200}}{{name|Starfruit|9}}{{name|Fiber|100}}
+|data-sort-value="06" style="text-align: center;"|'''3x2'''<br />[[File:Marker3x2.png|center]]
+|-
+|[[File:Barn.png|72px|center]]
+|[[Barn]]
+|{{Description|Barn}}
+|data-sort-value="06000"|{{price|6000}}{{name|Wood|350}}{{name|Stone|150}}
+|data-sort-value="28" style="text-align: center;"|'''7x4'''<br />[[File:Marker4x7.png|center]]
+|-
+|[[File:Big Barn.png|72px|center]]
+|[[Barn|Big Barn]]
+|{{Description|Big Barn}}
+|data-sort-value="12000"|{{price|12000}}{{name|Wood|450}}{{name|Stone|200}}
+|data-sort-value="28" style="text-align: center;"|'''7x4'''<br />[[File:Marker4x7.png|center]]
+|-
+|[[File:Deluxe Barn.png|72px|center]]
+|[[Barn|Deluxe Barn]]
+|{{Description|Deluxe Barn}}
+|data-sort-value="25000"|{{price|25000}}{{name|Wood|550}}{{name|Stone|300}}
+|data-sort-value="28" style="text-align: center;"|'''7x4'''<br />[[File:Marker4x7.png|center]]
+|-
+|[[File:Coop.png|72px|center]]
+|[[Coop]]
+|{{Description|Coop}}
+|data-sort-value="04000"|{{price|4000}}{{name|Wood|300}}{{name|Stone|100}}
+|data-sort-value="18" style="text-align: center;"|'''6x3'''<br />[[File:Marker3x6.png|center]]
+|-
+|[[File:Big Coop.png|72px|center]]
+|[[Coop|Big Coop]]
+|{{Description|Big Coop}}
+|data-sort-value="10000"|{{price|10000}}{{name|Wood|400}}{{name|Stone|150}}
+|data-sort-value="18" style="text-align: center;"|'''6x3'''<br />[[File:Marker3x6.png|center]]
+|-
+|[[File:Deluxe Coop.png|72px|center]]
+|[[Coop|Deluxe Coop]]
+|{{Description|Deluxe Coop}}
+|data-sort-value="20000"|{{price|20000}}{{name|Wood|500}}{{name|Stone|200}}
+|data-sort-value="18" style="text-align: center;"|'''6x3'''<br />[[File:Marker3x6.png|center]]
+|-
+|[[File:Mill.png|60px|center]]
+|[[Mill]]
+|{{Description|Mill}}
+|data-sort-value="02500"|{{price|2500}}{{name|Stone|50}}{{name|Wood|150}}{{name|Cloth|4}}
+|data-sort-value="08" style="text-align: center;"|'''4x2'''<br />[[File:Marker4x2.png|center]]
+|-
+|id="Silo"|[[File:Silo.png|60px|center]]
+|[[Silo]]
+|{{Description|Silo}}
+|data-sort-value="00100"|{{price|100}}{{name|Stone|100}}{{name|Clay|10}}{{name|Copper Bar|5}}
+|data-sort-value="09" style="text-align: center;"|'''3x3'''<br />[[File:Marker3x3.png|center]]
+|-
+|[[File:Slime Hutch.png|72px|center]]
+|[[Slime Hutch]]
+|{{Description|Slime Hutch}}
+|data-sort-value="10000"|{{price|10000}}{{name|Stone|500}}{{name|Refined Quartz|10}}{{name|Iridium Bar|1}}
+|data-sort-value="66" style="text-align: center;"|'''11x6'''<br />[[File:Marker6x11.png|center]]
+|-
+|[[File:Well.png|72px|center]]
+|[[Well]]
+|{{Description|Well}}
+|data-sort-value="01000"|{{price|1000}}{{name|Stone|75}}
+|data-sort-value="09" style="text-align: center;"|'''3x3'''<br />[[File:Marker3x3.png|center]]
+|-
+|[[File:Stone_Cabin_Stage_1.png|72px|center]]
+|[[Cabin|Stone Cabin]]
+|{{Description|Cabin}}<br />''Houses 1 farmhand in a [[multiplayer]] game.''
+|{{price|100}}{{name|Stone|10}}
+|style="text-align: center;"|'''5x3'''<br />[[File:Marker5x3.png|center]]
+|-
+|-
+|[[File:Fish Pond.png|96px|center]]
+|[[Fish Pond]]
+|{{Description|Fish Pond}}
+|{{Price|5000}}{{name|Stone|200}}{{name|Seaweed|5}}{{name|Green Algae|5}}
+|style="text-align: center;"|'''5x5'''<br />[[File:Marker5x5.png|center|5x5]]
+|}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Robin,Demetrius,Maru,Sebastian,Linus,Haley,Jas,Vincent,Kent,Sam,Leo
+}}
+
+==Bundles==
+99 Stone are required for the {{Bundle|Construction||y}}.
+
+==Tailoring==
+Stone is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Work Shirt]]. [[File:Shirt029.png|24px]]
+
+==Quests==
+*Robin may place a [[Quests#List_of_Special_Orders|Special Order]] requesting that the farmer mine 1000 pieces of stone within one week, at which point the player may keep the harvested stone. If completed on time, Robin will mail the farmer the recipe to create a [[Stone Chest]].
+
+==Tip==
+*One method of gathering large quantities of stone is repeatedly entering and exiting the 1st level of [[The Mines]] and only breaking [[boulder]]s.
+
+==History==
+{{History|1.3.27|Increased price of stone at Carpenter's shop from 20g to 100g in year 2+.  Added Stone Sign and Garden Pot recipes.}}
+{{History|1.4|Used as a building material to the Fish Pond and as an ingredient to the Tree Fertilizer and Brick Floor recipes.  Can now be used in [[Tailoring]]. Can be produced by Fish Ponds.}}
+{{History|1.5|Can now be used as decoration in Fish Tanks. Used as an ingredient to the Bone Mill, Deluxe Retaining Soil, Stone Walkway Floor, Geode Crusher, Stone Chest, and Thorns Ring recipes.}}
+
+{{NavboxResources}}
+
+[[Category:Resources]]
+
+[[de:Stein]]
+[[es:Piedra]]
+[[fr:Pierre (ressource)]]
+[[it:Pietra]]
+[[ja:石]]
+[[ko:돌]]
+[[hu:Kő]]
+[[pt:Pedra]]
+[[ru:Камень]]
+[[tr:Taş]]
+[[zh:石头]]

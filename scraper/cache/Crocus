@@ -1,0 +1,64 @@
+{{Infobox
+|eng         = Crocus
+|source      = [[Foraging]] • [[Winter Seeds]]
+|season      = Winter
+|edibility   = 0
+|sellprice   = 60
+|xp          = 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Crocus''' is a [[Flowers|flower]] found via [[Foraging]] in [[Winter]]. It can be found in [[Pelican Town]], the [[Railroad]], the [[Bus Stop]], [[the Mountain]]s, [[Cindersap Forest]], or the [[Backwoods]]. It can also be grown from [[Winter Seeds|Winter wild seeds]].
+
+==Healing==
+The Crocus is edible, but does not increase [[Energy]] or [[Health]].
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,Evelyn,Lewis,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Willy,Krobus,Leo
+|dislike=Sebastian,George,Clint
+|love=Sandy
+}}
+
+==Bundles==
+Crocus is used in the {{Bundle|Winter Foraging||y}}.
+
+==Recipes==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Winter Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Wi)]]
+||{{Description|Winter Seeds}}<br />''(Produces 10 Winter Seeds per craft.)''
+|{{name|Crocus|1}}{{name|Crystal Fruit|1}}{{name|Snow Yam|1}}{{name|Winter Root|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 7
+|{{price|30}}
+|}
+
+==Tailoring==
+Crocus is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt078.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*The Crocus may be randomly requested in [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|180}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxForaging}}
+
+[[Category:Winter Forage]]
+
+[[de:Krokus]]
+[[es:Azafrán]]
+[[fr:Crocus]]
+[[it:Croco]]
+[[ja:クロッカス]]
+[[ko:크로커스]]
+[[hu:Sáfrány]]
+[[pt:Flor de açafrão]]
+[[ru:Крокус]]
+[[tr:Çiğdem]]
+[[zh:番红花]]

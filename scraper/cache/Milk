@@ -1,0 +1,89 @@
+{{Infobox
+|eng        = Milk
+|source     = [[Cow]]
+|edibility  = 15
+|sellprice  = 125
+}}
+'''Milk''' is an [[:Category:Animal Products|animal product]] obtained from a [[Cow]] by using a [[Milk Pail]].  It can also be obtained from [[Sandy]] at random, who will comment that the player looks thirsty.
+
+When a cow has a sufficient [[Animals#Friendship|friendship and mood]] level, it can produce a [[Large Milk]], which is more valuable.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Linus,Pierre,Evelyn,Penny,Pam,Jodi,Leah,Marnie
+|neutral=Demetrius,Maru,Sebastian,Caroline,Abigail,Alex,George,Clint,Emily,Jas,Vincent,Sam,Shane,Gus,Harvey,Sandy,Willy,Krobus,Leo
+|dislike=Lewis,Haley,Elliott,Dwarf,Wizard
+|hate=Kent
+}}
+
+==Bundles== 
+*10 Milk (any size, including [[Goat Milk]] and [[Large Goat Milk]]) are used in the {{bundle|homecook||y}}.
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+Milk can be used to make the following [[Artisan Goods]].  Note that regular Milk always produces regular quality [[Cheese]], while [[Large Milk]] always produces gold-quality [[Cheese]].  The quality of the Milk is not a factor.
+
+Cheese may be aged in [[Cask]]s to increase its quality.
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Cheese.png|center]]
+|[[Cheese]]
+|{{Description|Cheese}}
+|{{name|Milk|1|class=inline}} ''or''{{name|Large Milk|1}}
+|style="text-align: center;"|[[File:Cheese Press.png|center|40px]][[Cheese Press]]
+|{{duration|200m (3.33h)}}
+|data-sort-value="230"|{{Qualityprice|Cheese|230|hide=silver}}
+|}
+
+==Recipes==
+'''Note:''' For all recipes requiring <includeonly>[[</includeonly>Milk<includeonly>]]</includeonly>, [[Large Milk]], [[Goat Milk]], or [[Large Goat Milk]] may also be used.
+{{Recipes|header}}
+{{:Artichoke Dip|RecipeRow}}
+{{:Chowder|RecipeRow}}
+{{:Complete Breakfast|RecipeRow}}
+{{:Ice Cream|RecipeRow}}
+{{:Lobster Bisque|RecipeRow}}
+{{:Miner's Treat|RecipeRow}}
+{{:Omelet|RecipeRow}}
+{{:Parsnip Soup|RecipeRow}}
+{{:Pumpkin Pie|RecipeRow}}
+{{:Pumpkin Soup|RecipeRow}}
+{{:Rice Pudding|RecipeRow}}
+{{:Banana Pudding|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Milk is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|White Overalls Shirt]]. [[File:Shirt071.png|24px]]
+
+==Quests==
+*Milk may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|375}} and 150 [[Friendship]] points.  Milk will never be requested unless you own a [[Cow]] or [[Goat]]. (Owning a goat will result in cow's milk being requested.)
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from 100g to 125g}}
+{{History|1.3.27|Made all recipes that use milk accept large milk, not just regular milk.}}
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Made all recipes that use milk accept goat milk or large goat milk.}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+
+[[de:Milch]]
+[[es:Leche]]
+[[fr:Lait]]
+[[it:Latte]]
+[[ja:ミルク]]
+[[ko:우유]]
+[[hu:Tej]]
+[[pt:Leite]]
+[[ru:Ведерко молока]]
+[[tr:Süt]]
+[[zh:牛奶]]

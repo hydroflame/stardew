@@ -1,0 +1,81 @@
+{{Spoiler}}
+{{Infobox
+|eng         = Pineapple
+|seed        = {{name|Pineapple Seeds}}
+|growth      = 14 days
+|season      = <span class="no-wrap">{{Season|All}} on [[Ginger Island]]<br />{{Season|Summer}} in the valley</span>
+|xp          = 30 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 300
+|edibility   = 55
+}}
+
+The '''Pineapple''' is a [[Fruits|fruit]] [[crops|crop]] that grows from [[Pineapple Seeds]] after 14 days.  It grows during Summer on [[The Farm]] or at any time on [[Ginger Island#The Farm|Ginger Island's Farm.]]
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!After-Harvest
+|-
+|[[File:Pineapple Stage 1.png|center|link=]]
+|[[File:Pineapple Stage 2.png|center|link=]]
+|[[File:Pineapple Stage 3.png|center|link=]]
+|[[File:Pineapple Stage 4.png|center|link=]]
+|[[File:Pineapple Stage 5.png|center|link=]]
+|[[File:Pineapple Stage 6.png|center|link=]]
+|[[File:Pineapple Stage 7.png|center|link=]]
+|-
+|1 Day
+|3 Days
+|3 Days
+|4 Days
+|3 Days
+|Total: 14 Days
+|Regrowth: 7 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Pineapple}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin, Demetrius, Linus, Shane, Harvey, Pam, Leah, Kent, Jodi, Elliott, Sandy
+|neutral= Caroline, Pierre, Willy, Clint, Gus, Emily, Sebastian, Marnie, Wizard,Sam, Penny, Lewis, Alex, Maru, George, Evelyn,Leo, Krobus, Dwarf
+|dislike= Jas, Vincent, Haley, Abigail
+}}
+
+==Quests==
+*[[Caroline]] may request 100 pineapples in the [[Quests#List of Special Orders|"Island Ingredients"]] Special Order. The reward is gold equivalent to 50% of base crop price and the [[Solar Panel]] recipe.
+
+==Recipes==
+{{Recipes|header}}
+{{:Tropical Curry|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Pineapple can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Farmer Pants]].  [[File:Farmer Pants.png|36px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxCrop}}
+
+[[Category:Fruit]]
+[[Category:Multiple harvest crops]]
+
+[[de:Ananas]]
+[[es:Piña (fruta)]]
+[[fr:Ananas]]
+[[it:Ananas]]
+[[ja:パイナップル]]
+[[ko:파인애플]]
+[[hu:Ananász]]
+[[pt:Abacaxi]]
+[[ru:Ананас]]
+[[tr:Ananas]]
+[[zh:菠萝]]

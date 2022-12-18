@@ -1,0 +1,53 @@
+{{Infobox
+|eng         = Duck Mayonnaise
+|source      = [[Artisan Goods]]
+|ingredients = {{name|Duck Egg|1}}
+|sellprice   = 375
+|edibility   = -300
+|crafttime   = 3h
+|craftingstation = {{name|Mayonnaise Machine}}
+}}
+'''Duck Mayonnaise''' is an [[Artisan Goods|Artisan Good]] made by placing a [[Duck Egg]] into a [[Mayonnaise Machine]], taking 3 hours.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+|hate=Sebastian,Jas,Vincent,Sam
+|dislike=Caroline
+}}
+
+==Bundles==
+Duck Mayonnaise is not used in any [[Bundles|bundles]].
+
+==Recipes==
+Duck Mayonnaise is not used in any recipes.
+
+==Tailoring==
+Duck Mayonnaise is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create an {{name|Shirt009|link=Tailoring{{!}}Aquamarine Shirt|class=inline}}. It is a white dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+==Quests==
+Duck Mayonnaise is not used in any [[Quests|quests]].
+
+==Secrets==
+If Duck Mayonnaise is placed in the partially-hidden purple box in the back room of the [[The Stardrop Saloon]], the player will receive the [[File:??Pinky Lemon??.png|16px]] [[??Pinky Lemon??]] statue.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Increased value from 300g to 375g.}}
+{{History|1.4|Can now be used in [[Tailoring]].  Fixed bug where an entire stack of Duck Mayonnaise would be consumed when interacting with the box in the Saloon.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Enten-Mayonnaise]]
+[[es:Mayonesa de pato]]
+[[fr:Mayonnaise de canard]]
+[[it:Maionese d'anatra]]
+[[ja:ダックマヨネーズ]]
+[[ko:오리 마요네즈]]
+[[hu:Kacsa majonéz]]
+[[pt:Maionese de ovo de pato]]
+[[ru:Утиный майонез]]
+[[tr:Ördek Mayonezi]]
+[[zh:鸭蛋黄酱]]

@@ -1,0 +1,50 @@
+{{Infobox
+|eng        = Apricot
+|source     = [[Apricot Tree]]
+|season     = Spring
+|sellprice  = 50
+|seed       = [[Apricot Sapling]]
+|growth     = 28 days
+|edibility  = 15
+}}
+The '''Apricot''' is a [[Fruits|fruit]] grown by planting an [[Apricot Sapling]], waiting 28 days for it to grow into an [[Apricot Tree]], and harvesting the tree during the [[Spring]].
+
+An Apricot may be purchased at the [[Traveling Cart]] for {{tprice|50}} or found in [[The Cave|The Farm Cave]], if the fruit bat option is chosen.
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus,Leo
+}}
+
+==Bundles==
+Apricot is an option for the {{Bundle|Artisan||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Fruit Salad|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Apricot can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring#Pants|Relaxed Fit Pants]].  [[File:Relaxed Fit Pants.png|36px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+[[Emily]] requests an apricot by mail on the 6th of [[Spring]] (year 2) in the [[Quests#Fresh Fruit|"Fresh Fruit" Quest]].  The reward is {{Price|600}} and 1 [[Friendship]] heart.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+
+{{NavboxTree}}
+
+[[Category:Spring fruit]]
+
+[[de:Aprikose]]
+[[es:Albaricoque]]
+[[fr:Abricot]]
+[[it:Albicocca]]
+[[ja:アプリコット]]
+[[ko:살구]]
+[[hu:Sárgabarack]]
+[[pt:Damasco]]
+[[ru:Абрикос]]
+[[tr:Kayısı]]
+[[zh:杏子]]

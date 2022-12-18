@@ -1,0 +1,80 @@
+{{Infobox
+|eng         = Radish
+|seed        = {{name|Radish Seeds}}
+|growth      = 6 days
+|season      = Summer
+|xp          = 15 [[Farming#Experience Points|Farming XP]]
+|sellprice   = 90
+|edibility   = 18
+}}
+The '''Radish''' is a [[Vegetables|vegetable]] [[Crops|crop]] that grows from [[Radish Seeds]] after 6 days.
+
+==Stages==
+{| class="wikitable roundedborder" style="text-align:center;"
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+|-
+|[[File:Radish Stage 1.png|center|link=]]
+|[[File:Radish Stage 2.png|center|link=]]
+|[[File:Radish Stage 3.png|center|link=]]
+|[[File:Radish Stage 4.png|center|link=]]
+|[[File:Radish Stage 5.png|center|link=]]
+|-
+|2 Days
+|1 Day
+|2 Days
+|1 Day
+|Total: 6 Days
+|-
+|}
+
+==Crop Growth Calendar==
+{{#lst:Crop Growth Calendars|Radish}}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Jodi,Kent,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+|dislike=Abigail,Haley,Jas,Vincent,Sam
+}}
+
+==Bundles==
+Radish is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header}}
+{{:Radish Salad|RecipeRow}}
+{{:Red Plate|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Radish is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] with [[Cloth]] in the feed to create a dyeable [[Tailoring|Tank Top]]. 
+*Male Version: [[File:Shirt129.png|24px]]
+*Female Version: [[File:Shirt130.png|24px]]
+It is a red dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the red dye pot at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]] for use in [[dyeing]].
+
+==Quests==
+*The Radish may be randomly requested in [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|270}} and 150 [[Friendship]] points.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.5|Iridium quality is now possible when using [[Deluxe Fertilizer]].}}
+
+{{NavboxCrop}}
+
+[[Category:Summer crops]]
+[[Category:Vegetables]]
+
+[[de:Radieschen]]
+[[es:Rábano]]
+[[fr:Radis]]
+[[it:Ravanello]]
+[[ja:ラディッシュ]]
+[[ko:무]]
+[[hu:Retek]]
+[[pt:Rabanete]]
+[[ru:Редис]]
+[[tr:Turp]]
+[[zh:萝卜]]

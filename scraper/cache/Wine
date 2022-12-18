@@ -1,0 +1,98 @@
+{{Infobox
+|eng             = Wine
+|source          = [[Artisan Goods]]
+|buff            = {{name|Tipsy|link=Buffs#Tipsy{{!}}Tipsy}}{{name|Speed|−1}}
+|buffduration    = 30s
+|sellprice       = 3 × Base [[Fruit]] Price
+|ingredients     = Any [[Fruits|Fruit]] (1)
+|edibility       = 20
+|craftingstation = {{name|Keg}}
+|crafttime       = 10,000m (&#8776;7d)
+}}
+{{For|a detailed analysis of profit using the Keg|Keg Productivity}}
+{{For|a full list of wine prices|Fruits}}
+'''Wine''' is an [[Artisan Goods|Artisan Good]] made from the [[Keg]], taking 7 days.  It can also be received as a gift at the [[Feast of the Winter Star]].
+
+The sell price of Wine depends on the [[Fruits|fruit]] used (3 &times; Base Fruit Value).  When consumed, wine causes a [[Buffs|Tipsy]] buff that decreases [[Speed]] by 1. The [[energy]] and [[health]] gains of Wine are the same no matter what fruit is used to make it.
+
+'''Note:''' It is possible to acquire Wine that has no base fruit (from the [[Traveling Cart]] or a [[Statue Of Endless Fortune]], as a gift at the [[Feast of the Winter Star]], or a New Year's Eve gift from [[Leah]] or [[Elliott]]). This item is simply titled "Wine", and has a selling price of {{price|400}} (or {{price|560}} with the [[Farming#Farming Skill|Artisan Profession]]).
+
+==Aged Values==
+Wine can be placed inside a [[Cask]] to age from normal quality to silver, gold, and eventually iridium quality. Iridium quality doubles the base sell price of Wine.  
+
+Wine takes the longest to age of any item in [[Cask]]s. It takes 2 seasons of aging to go from basic wine to iridium quality wine.
+
+Normal, silver, and gold quality Wine can be prematurely removed from a cask at any time by striking the cask with an [[Axes|Axe]], [[Hoes|Hoe]], or [[Pickaxes|Pickaxe]].
+
+{| class="wikitable roundedborder"
+!Base Quality
+!Silver Star<br />(x 1.25)
+!Gold Star<br />(x 1.5)
+!Iridium Star<br />(x 2)
+|-
+| style="width:120px;"|
+{|
+|{{Quality|Wine||32}}
+|3 × Fruit Base Value
+|}
+|
+{|
+|{{Quality|Wine|silver|32}}
+|(3 × Base) × 1.25
+|-
+| colspan="2" | ''Aged: 14 Days''
+|}
+|
+{|
+|{{Quality|Wine|gold|32}}
+|(3 × Base) × 1.5 
+|-
+| colspan="2" | ''Aged: 14 Days<br />Total: 28 Days''
+|}
+|
+{|
+|{{Quality|Wine|iridium|32}}
+|(3 × Base) × 2
+|-
+| colspan="2" | ''Aged: 28 Days<br />Total: 56 Days''
+|}
+|}
+
+==Gifting==
+{{GiftsByItem
+|like=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Pam,Emily,Haley,Jodi,Kent,Sam,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Sandy,Willy,Krobus
+|hate=Sebastian,Penny,Jas,Vincent,Leo
+|love=Leah,Harvey
+}}
+
+==Bundles==
+*Wine is used in the {{Bundle|enchanter||y}}.
+*One silver (or better) quality wine is an option for {{bundle|missing||y}}.
+*Wine is one of the options for {{bundle|brewers||y}}.
+
+==Tailoring==
+Wine can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Black Leather Jacket]].  [[File:Shirt138.png|24px]] It can be used in [[dyeing]], serving as a purple dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+One Wine (of any type) may be requested by [[Blobfish]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Added ability to age in [[cask]]s.}}
+{{History|1.4|Added the Missing Bundle.  Wine can now be used in Tailoring.  Can be requested in a Blobfish Fish Pond quest.}}
+
+{{NavboxArtisanGoods}}
+
+[[Category:Artisan Goods]]
+
+[[de:Wein]]
+[[es:Vino]]
+[[fr:Vin]]
+[[it:Vino]]
+[[ja:ワイン]]
+[[ko:와인]]
+[[hu:Bor]]
+[[pt:Vinho]]
+[[ru:Вино]]
+[[tr:Şarap]]
+[[zh:果酒]]

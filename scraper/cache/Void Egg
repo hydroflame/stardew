@@ -1,0 +1,74 @@
+{{Infobox
+|eng        = Void Egg
+|source     = [[Void Chicken]] • [[Random Events#The Witch|Witch]] • [[Krobus]] • [[Void Salmon]] [[Fish Pond|Fish Ponds]]
+|edibility  = 15
+|sellprice  = 65
+}}
+The '''Void Egg''' is an [[:Category:Animal Products|animal product]] obtained from a [[Void Chicken]].  Initially, a Void Egg can be obtained through a [[Random Events#The Witch|random event]] involving a witch.  The random event can occur as long as [[The Player|the player]] owns a [[Coop|Big or Deluxe Coop]] that is not full. The witch will fly over the coop during the night and leave a Void Egg inside.
+
+A Void Egg can also be purchased from [[Krobus]] for {{Price|5000}}.  If the player is married to [[Shane]], there is a chance he may present them with one as a gift on rainy days.  A [[Void Salmon]] [[Fish Pond]] may produce a Void Egg when the population of the pond reaches 9.
+
+A Void Egg sells for a base of {{Price|65}}. This is {{Price|15}} more than a Small [[Egg]], but {{Price|30}} less than a [[Large Egg]].
+
+A Void Egg can hatch a [[Void Chicken]] by placing it in a Big or Deluxe Coop's [[incubator]].
+
+A Void Egg will be produced by a Void Chicken daily if fed on the prior day, like all other chickens.
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Demetrius,Maru,Linus,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Leo
+|love=Sebastian,Krobus
+|hate=Leah
+}}
+
+==Bundles==
+The Void Egg is not used in any [[bundles]].
+
+==Artisan Goods==
+:''See also: [[Animal Products Profitability]]''
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredient
+!Equipment
+!Time
+!Sell Price
+|-
+|[[File:Void Mayonnaise.png|center]]
+|[[Void Mayonnaise]]
+|{{Description|Void Mayonnaise}}
+|{{name|Void Egg|1}}
+|style="text-align: center;"|[[File:Mayonnaise Machine.png|center|40px]][[Mayonnaise Machine]]
+|{{duration|3 Hours}}
+|{{price|275}}
+|}
+
+==Recipes==
+Void Eggs can be used in place of chicken or duck eggs in the following [[Cooking|cooked dishes]].{{#lsth:Egg|Recipes}}
+==Tailoring==
+Void Egg is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a [[Tailoring|Shirt]]. [[File:Shirt083.png|24px]]
+
+==Quests==
+*One Void Egg may be requested by [[Void Salmon]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Removed ability to make into [[Mayonnaise]], added [[Void Mayonnaise]]. Now also sold by [[Krobus]]. Increased value from 50g to 65g.}}
+{{History|1.4|Removed from [[Traveling Cart]] stock.  Can now be used in [[Tailoring]].  Can be requested in a Fish Pond quest. Can be produced by Fish Ponds.}}
+
+{{NavboxAnimals}}
+
+[[Category:Animal Products]]
+
+[[de:Schattenei]]
+[[es:Huevo sombrío]]
+[[fr:Oeuf du Vide]]
+[[it:Uovo del Vuoto]]
+[[ja:ヴォイドエッグ]]
+[[ko:공허의 달걀]]
+[[hu:Űr tojás]]
+[[pt:Ovo nulo]]
+[[ru:Яйцо пустоты]]
+[[tr:Boşluk Yumurtası]]
+[[zh:虚空蛋]]

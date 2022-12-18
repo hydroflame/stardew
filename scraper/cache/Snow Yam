@@ -1,0 +1,74 @@
+{{Infobox
+|eng       = Snow Yam
+|source    = [[Hoes|Tilling]] • [[Winter Seeds]]
+|season    = Winter
+|edibility = 12
+|sellprice = 100
+|xp        = <nowiki />
+*[[Hoes|Tilling]]: 0
+*[[Winter Seeds]]: 7 [[Foraging#Experience Points|Foraging XP]]
+}}
+The '''Snow Yam''' is a [[foraging]] item found only in [[Winter]]. Wild snow yams do not grow above ground, but instead they are buried in the snow/dirt and must be dug up with a [[Hoes|Hoe]] (no other tools, even [[Crafting#Bombs|Bombs]], will work).
+
+The highest chance of finding a Snow Yam (11-16%, map-dependent) is when digging up an [[Artifact Spot]].<ref name="artifact_chance" />  There is also a 4% chance of finding a Snow Yam when digging standard tillable soil in any exterior location.<ref name="soil_chance" />  Exceptions are in the [[The Farm|Farm]], where Snow Yams can be found at artifact spots, but not standard tillable soil, and in [[the Desert]], where Snow Yams can not be found at all.  Digging up a Snow Yam provides no experience.
+
+Snow Yams can also be grown from [[Winter Seeds]], in which case they are a standard wild-seed crop: they grow above ground, can be harvested without using a tool, give 7 Foraging XP each, and are affected by the [[Skills#Foraging|Gatherer]] and [[Skills#Foraging|Botanist]] professions.
+
+==Gifting==
+{{GiftsByItem
+|neutral=Robin,Demetrius,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Marnie,Gus,Sandy
+|hate=Maru
+|dislike=Sebastian,Pierre,Caroline,Haley,Jas,Vincent,Jodi,Kent,Sam,Shane,Elliott,Dwarf,Wizard,Willy,Krobus,Leo
+|like=Linus,Leah,Harvey
+}}
+
+==Bundles==
+Snow Yam is used in the {{Bundle|Winter Foraging||y}}.
+
+==Recipes==
+{| class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+!Sell Price
+|-
+|[[File:Winter Seeds.png|center]]
+|[[Crafting#Seeds|Wild Seeds (Wi)]]
+||{{Description|Winter Seeds}}<br />''(Produces 10 Winter Seeds per craft.)''
+|{{name|Crocus|1}}{{name|Crystal Fruit|1}}{{name|Snow Yam|1}}{{name|Winter Root|1}}
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 7
+|{{price|30}}
+|}
+
+==Tailoring==
+Snow Yam is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create a light blue [[Tailoring|Shirt]] [[File:Shirt044.png|24px]] with a horizontal white stripe in the middle.
+
+==Quests==
+*The Snow Yam may be randomly requested in [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|300}} and 150 [[Friendship]] points.
+
+==References==
+<references>
+<ref name="artifact_chance">The chance of appearing in an artifact spot is calculated by <samp>GameLocation::digUpArtifactSpot</samp>.  The base chance in code is 20% (0.5*0.4), but the actual chance is lower because artifacts and lost books are checked first and must all fail their checks.</ref>
+<ref name="soil_chance">The chance of appearing in standard tillable soil is calculated by <samp>GameLocation::checkForBuriedItem</samp>.</ref>
+</references>
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]]. Can no longer be dug up in Desert.}}
+
+{{NavboxForaging}}
+
+[[Category:Winter Forage]]
+
+[[de:Schnee-Süßkartoffel]]
+[[es:Ñame nival]]
+[[fr:Igname des neiges]]
+[[it:Patata dolce delle nevi]]
+[[ja:スノーヤム]]
+[[ko:눈마]]
+[[hu:Téli yamgyökér]]
+[[pt:Inhame de neve]]
+[[ru:Снежный батат]]
+[[tr:Kar Patatesi]]
+[[zh:雪山药]]
